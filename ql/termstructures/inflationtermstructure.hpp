@@ -179,7 +179,7 @@ namespace QuantLib {
         /*! \warning Since inflation is highly linked to dates (lags,
                      interpolation, months for seasonality, etc) this
                      method cannot account for all effects.  If you
-                     call it, You'll have to manage lag, seasonality
+                     call it, you'll have to manage lag, seasonality
                      etc. yourself.
         */
         Rate zeroRate(Time t,
