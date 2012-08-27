@@ -1,0 +1,50 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_inflation_index.html" title="Base class for inflation&#45;rate indexes,." alt="" coords="2763,551,2923,1225"/>
+<area shape="rect" id="node51" href="$class_quant_lib_1_1_interest_rate_index.html" title="base class for interest rate indexes" alt="" coords="4292,533,4479,1243"/>
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="3488,5,3635,195"/>
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_yo_y_inflation_index.html" title="Base class for year&#45;on&#45;year inflation indices." alt="" coords="1136,1456,1328,1715"/>
+<area shape="rect" id="node35" href="$class_quant_lib_1_1_zero_inflation_index.html" title="Base class for zero inflation indices." alt="" coords="2745,1473,2940,1697"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_y_y_a_u_c_p_i.html" title="Genuine year&#45;on&#45;year AU CPI (i.e. not a ratio)" alt="" coords="5,2007,147,2092"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_y_y_a_u_c_p_ir.html" title="Fake year&#45;on&#45;year AUCPI (i.e. a ratio)" alt="" coords="171,2007,317,2092"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_y_y_e_u_h_i_c_p.html" title="Genuine year&#45;on&#45;year EU HICP (i.e. not a ratio of EU HICP)" alt="" coords="341,2007,493,2092"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_y_y_e_u_h_i_c_pr.html" title="Fake year&#45;on&#45;year EU HICP (i.e. a ratio of EU HICP)" alt="" coords="517,2007,672,2092"/>
+<area shape="rect" id="node17" href="$class_quant_lib_1_1_y_y_e_u_h_i_c_p_x_t.html" title="Genuine year&#45;on&#45;year EU HICPXT." alt="" coords="696,2007,864,2092"/>
+<area shape="rect" id="node19" href="$class_quant_lib_1_1_y_y_f_r_h_i_c_p.html" title="Genuine year&#45;on&#45;year FR HICP (i.e. not a ratio)" alt="" coords="888,2007,1037,2092"/>
+<area shape="rect" id="node21" href="$class_quant_lib_1_1_y_y_f_r_h_i_c_pr.html" title="Fake year&#45;on&#45;year FR HICP (i.e. a ratio)" alt="" coords="1061,2007,1216,2092"/>
+<area shape="rect" id="node23" href="$class_quant_lib_1_1_y_y_generic_c_p_i.html" title="Genuine year&#45;on&#45;year Generic CPI (i.e. not a ratio)" alt="" coords="1240,2007,1408,2092"/>
+<area shape="rect" id="node25" href="$class_quant_lib_1_1_y_y_generic_c_p_ir.html" title="Fake year&#45;on&#45;year GenericCPI (i.e. a ratio)" alt="" coords="1432,2007,1603,2092"/>
+<area shape="rect" id="node27" href="$class_quant_lib_1_1_y_y_u_k_r_p_i.html" title="Genuine year&#45;on&#45;year UK RPI (i.e. not a ratio of UK RPI)" alt="" coords="1627,2007,1768,2092"/>
+<area shape="rect" id="node29" href="$class_quant_lib_1_1_y_y_u_k_r_p_ir.html" title="Fake year&#45;on&#45;year UK RPI (i.e. a ratio of UK RPI)" alt="" coords="1792,2007,1939,2092"/>
+<area shape="rect" id="node31" href="$class_quant_lib_1_1_y_y_u_s_c_p_i.html" title="Genuine year&#45;on&#45;year US CPI (i.e. not a ratio of US CPI)" alt="" coords="1963,2007,2104,2092"/>
+<area shape="rect" id="node33" href="$class_quant_lib_1_1_y_y_u_s_c_p_ir.html" title="Fake year&#45;on&#45;year US CPI (i.e. a ratio of US CPI)" alt="" coords="2128,2007,2275,2092"/>
+<area shape="rect" id="node37" href="$class_quant_lib_1_1_a_u_c_p_i.html" title="AU CPI index (either quarterly or annual)" alt="" coords="2299,2007,2421,2092"/>
+<area shape="rect" id="node39" href="$class_quant_lib_1_1_e_u_h_i_c_p.html" title="EU HICP index." alt="" coords="2445,2007,2579,2092"/>
+<area shape="rect" id="node41" href="$class_quant_lib_1_1_e_u_h_i_c_p_x_t.html" title="EU HICPXT index." alt="" coords="2603,2007,2752,2092"/>
+<area shape="rect" id="node43" href="$class_quant_lib_1_1_f_r_h_i_c_p.html" title="FR HICP index." alt="" coords="2776,2007,2909,2092"/>
+<area shape="rect" id="node45" href="$class_quant_lib_1_1_generic_c_p_i.html" title="Generic CPI index." alt="" coords="2933,2007,3083,2092"/>
+<area shape="rect" id="node47" href="$class_quant_lib_1_1_u_k_r_p_i.html" title="UK Retail Price Inflation Index." alt="" coords="3107,2007,3229,2092"/>
+<area shape="rect" id="node49" href="$class_quant_lib_1_1_u_s_c_p_i.html" title="US CPI index." alt="" coords="3253,2007,3376,2092"/>
+<area shape="rect" id="node53" href="$class_quant_lib_1_1_b_m_a_index.html" title="Bond Market Association index." alt="" coords="4189,1447,4373,1723"/>
+<area shape="rect" id="node55" href="$class_quant_lib_1_1_ibor_index.html" title="base class for Inter&#45;Bank&#45;Offered&#45;Rate indexes (e.g. Libor, etc.)" alt="" coords="4397,1413,4581,1758"/>
+<area shape="rect" id="node83" href="$class_quant_lib_1_1_swap_index.html" title="base class for swap&#45;rate indexes" alt="" coords="6109,1291,6299,1879"/>
+<area shape="rect" id="node57" href="$class_quant_lib_1_1_cdor.html" title="CDOR rate" alt="" coords="3400,2007,3509,2092"/>
+<area shape="rect" id="node59" href="$class_quant_lib_1_1_daily_tenor_e_u_r_libor.html" title="base class for the one day deposit BBA EUR LIBOR indexes" alt="" coords="3533,2007,3736,2092"/>
+<area shape="rect" id="node61" href="$class_quant_lib_1_1_daily_tenor_libor.html" title="base class for all O/N&#45;S/N BBA LIBOR indexes but the EUR ones" alt="" coords="3760,2007,3933,2092"/>
+<area shape="rect" id="node63" href="$class_quant_lib_1_1_euribor.html" title="Euribor index" alt="" coords="3957,2007,4080,2092"/>
+<area shape="rect" id="node65" href="$class_quant_lib_1_1_euribor365.html" title="Actual/365 Euribor index." alt="" coords="4104,2007,4248,2092"/>
+<area shape="rect" id="node67" href="$class_quant_lib_1_1_e_u_r_libor.html" title="base class for all BBA EUR LIBOR indexes but the O/N" alt="" coords="4272,1972,4411,2127"/>
+<area shape="rect" id="node69" href="$class_quant_lib_1_1_jibar.html" title="JIBAR rate" alt="" coords="4435,2007,4544,2092"/>
+<area shape="rect" id="node71" href="$class_quant_lib_1_1_libor.html" title="base class for all BBA LIBOR indexes but the EUR, O/N, and S/N ones" alt="" coords="4568,1929,4744,2170"/>
+<area shape="rect" id="node73" href="$class_quant_lib_1_1_overnight_index.html" title="{QuantLib::OvernightIndex\n||+ OvernightIndex()\l+ clone()\l}" alt="" coords="4768,1998,4939,2101"/>
+<area shape="rect" id="node75" href="$class_quant_lib_1_1_proxy_ibor.html" title="IborIndex calculated as proxy of some other IborIndex." alt="" coords="4963,1981,5101,2118"/>
+<area shape="rect" id="node77" href="$class_quant_lib_1_1_tibor.html" title="JPY TIBOR index" alt="" coords="5125,2007,5235,2092"/>
+<area shape="rect" id="node79" href="$class_quant_lib_1_1_t_r_libor.html" title="TRY LIBOR rate" alt="" coords="5259,2007,5387,2092"/>
+<area shape="rect" id="node81" href="$class_quant_lib_1_1_zibor.html" title="CHF ZIBOR rate" alt="" coords="5411,2007,5520,2092"/>
+<area shape="rect" id="node85" href="$class_quant_lib_1_1_chf_libor_swap_isda_fix.html" title="ChfLiborSwapIsdaFix index base class" alt="" coords="5544,1998,5749,2101"/>
+<area shape="rect" id="node87" href="$class_quant_lib_1_1_euribor_swap_ifr_fix.html" title="EuriborSwapIfrFix index base class" alt="" coords="5773,1998,5960,2101"/>
+<area shape="rect" id="node89" href="$class_quant_lib_1_1_euribor_swap_isda_fix_a.html" title="EuriborSwapIsdaFixA index base class" alt="" coords="5984,1998,6192,2101"/>
+<area shape="rect" id="node91" href="$class_quant_lib_1_1_euribor_swap_isda_fix_b.html" title="EuriborSwapIsdaFixB index base class" alt="" coords="6216,1998,6424,2101"/>
+<area shape="rect" id="node93" href="$class_quant_lib_1_1_eur_libor_swap_ifr_fix.html" title="EurLiborSwapIfrFix index base class" alt="" coords="6448,1998,6640,2101"/>
+<area shape="rect" id="node95" href="$class_quant_lib_1_1_eur_libor_swap_isda_fix_a.html" title="EurLiborSwapIsdaFixA index base class" alt="" coords="6664,1998,6877,2101"/>
+<area shape="rect" id="node97" href="$class_quant_lib_1_1_eur_libor_swap_isda_fix_b.html" title="EurLiborSwapIsdaFixB index base class" alt="" coords="6901,1998,7115,2101"/>
+</map>

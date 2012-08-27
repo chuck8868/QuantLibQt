@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_day_counter.html" title="day counter class" alt="" coords="189,1822,341,2063"/>
+<area shape="rect" id="node35" href="$class_quant_lib_1_1_calendar.html" title="calendar class" alt="" coords="365,1779,539,2107"/>
+<area shape="rect" id="node8" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; YieldTermStructure \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="563,1883,883,2003"/>
+<area shape="rect" id="node10" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; YieldTermStructure \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="320,961,603,1237"/>
+<area shape="rect" id="node14" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="517,158,800,434"/>
+<area shape="rect" id="node17" href="$class_quant_lib_1_1_relinkable_handle.html" title="Relinkable handle to an observable." alt="" coords="627,1039,843,1159"/>
+<area shape="rect" id="node22" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="1277,501,1451,1696"/>
+<area shape="rect" id="node26" href="$class_quant_lib_1_1_saved_settings.html" title="{QuantLib::SavedSettings\n|&#45; evaluationDate_\l&#45; includeReferenceDateEvents_\l&#45; includeTodaysCashFlows_\l&#45; enforcesTodaysHistoricFixings_\l|+ SavedSettings()\l+ ~SavedSettings()\l}" alt="" coords="1096,1865,1312,2020"/>
+<area shape="rect" id="node31" href="$classbool.html" title="{bool\n||}" alt="" coords="1064,1056,1109,1141"/>
+<area shape="rect" id="node40" href="$class_quant_lib_1_1_period.html" title="{QuantLib::Period\n|&#45; length_\l&#45; units_\l|+ Period()\l+ Period()\l+ Period()\l+ length()\l+ units()\l+ frequency()\l+ operator+=()\l+ operator&#45;=()\l+ operator/=()\l+ normalize()\l}" alt="" coords="1609,1813,1727,2072"/>
+</map>

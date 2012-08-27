@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_interpolated_zero_inflation_curve.html" title="Inflation term structure based on the interpolation of zero rates." alt="" coords="63,1825,409,2205"/>
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_inflation_term_structure.html" title="Interface for inflation term structures." alt="" coords="131,899,341,1469"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_term_structure.html" title="Basic term&#45;structure functionality." alt="" coords="153,262,319,850"/>
+<area shape="rect" id="node6" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="5,15,139,204"/>
+<area shape="rect" id="node8" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="163,15,309,204"/>
+<area shape="rect" id="node10" href="$class_quant_lib_1_1_extrapolator.html" title="base class for classes possibly allowing extrapolation" alt="" coords="333,6,491,213"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_piecewise_zero_inflation_curve.html" title="Piecewise zero&#45;inflation term structure." alt="" coords="67,2253,405,2651"/>
+</map>

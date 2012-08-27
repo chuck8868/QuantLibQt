@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_parameter_1_1_impl.html" title="Base class for model parameter implementation." alt="" coords="5,589,179,691"/>
+<area shape="rect" id="node6" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; YieldTermStructure \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="307,502,589,778"/>
+<area shape="rect" id="node10" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="405,158,688,434"/>
+</map>

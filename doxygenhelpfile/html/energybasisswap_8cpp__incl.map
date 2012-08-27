@@ -1,0 +1,42 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$energybasisswap_8hpp.html" title="Energy basis swap." alt="" coords="1788,83,2105,112"/>
+<area shape="rect" id="node157" href="$commoditysettings_8hpp.html" title="commodity settings" alt="" coords="2133,392,2459,421"/>
+<area shape="rect" id="node5" href="$energyswap_8hpp.html" title="Energy swap." alt="" coords="1965,160,2251,189"/>
+<area shape="rect" id="node105" href="$commodityindex_8hpp.html" title="Commodity index." alt="" coords="1629,160,1941,189"/>
+<area shape="rect" id="node142" href="$yieldtermstructure_8hpp.html" title="Interest&#45;rate term structure." alt="" coords="367,237,620,267"/>
+<area shape="rect" id="node7" href="$energycommodity_8hpp.html" title="Energy commodity." alt="" coords="2541,237,2861,267"/>
+<area shape="rect" id="node66" href="$pricingperiod_8hpp.html" title="Pricing period." alt="" coords="1960,315,2251,344"/>
+<area shape="rect" id="node74" href="$commoditycashflow_8hpp.html" title="Commodity cash flow." alt="" coords="1273,237,1607,267"/>
+<area shape="rect" id="node93" href="$calendar_8hpp.html" title="calendar class" alt="" coords="2685,392,2824,421"/>
+<area shape="rect" id="node9" href="$commodity_8hpp.html" title="Commodity base class." alt="" coords="2725,315,3005,344"/>
+<area shape="rect" id="node11" href="$ql_2money_8hpp.html" title="ql/money.hpp" alt="" coords="1960,392,2059,421"/>
+<area shape="rect" id="node35" href="$commoditytype_8hpp.html" title="ql/experimental/commodities/commoditytype.hpp" alt="" coords="2936,469,3243,499"/>
+<area shape="rect" id="node44" href="$commodityunitcost_8hpp.html" title="Commodity unit cost." alt="" coords="2376,315,2701,344"/>
+<area shape="rect" id="node47" href="$unitofmeasure_8hpp.html" title="Unit of measure." alt="" coords="2147,469,2445,499"/>
+<area shape="rect" id="node56" href="$quantity_8hpp.html" title="Amount of a commodity." alt="" coords="2848,392,3109,421"/>
+<area shape="rect" id="node60" href="$date_8hpp.html" title="date&#45; and time&#45;related classes, typedefs and enumerations" alt="" coords="872,469,987,499"/>
+<area shape="rect" id="node13" href="$currency_8hpp.html" title="Currency specification." alt="" coords="1955,469,2064,499"/>
+<area shape="rect" id="node15" href="$ql_2math_2rounding_8hpp.html" title="ql/math/rounding.hpp" alt="" coords="1939,547,2080,576"/>
+<area shape="rect" id="node23" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="1697,547,1791,576"/>
+<area shape="rect" id="node17" href="$types_8hpp.html" title="Custom types." alt="" coords="1720,624,1813,653"/>
+<area shape="rect" id="node19" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="1795,701,1907,731"/>
+<area shape="rect" id="node62" href="$null_8hpp.html" title="null values" alt="" coords="867,547,992,576"/>
+<area shape="rect" id="node68" href="$dateinterval_8hpp.html" title="Date interval." alt="" coords="1603,392,1885,421"/>
+<area shape="rect" id="node76" href="$cashflow_8hpp.html" title="Base class for cash flows." alt="" coords="1240,315,1352,344"/>
+<area shape="rect" id="node78" href="$settings_8hpp.html" title="global repository for run&#45;time library settings" alt="" coords="579,392,685,421"/>
+<area shape="rect" id="node80" href="$singleton_8hpp.html" title="basic support for the singleton pattern" alt="" coords="1061,469,1224,499"/>
+<area shape="rect" id="node88" href="$observablevalue_8hpp.html" title="observable and assignable proxy to concrete value" alt="" coords="531,469,731,499"/>
+<area shape="rect" id="node96" href="$businessdayconvention_8hpp.html" title="BusinessDayConvention enumeration." alt="" coords="2584,469,2811,499"/>
+<area shape="rect" id="node107" href="$commoditycurve_8hpp.html" title="Commodity curve." alt="" coords="1631,237,1943,267"/>
+<area shape="rect" id="node131" href="$indexmanager_8hpp.html" title="global repository for past index fixings" alt="" coords="803,315,992,344"/>
+<area shape="rect" id="node109" href="$termstructure_8hpp.html" title="base class for term structures" alt="" coords="424,315,563,344"/>
+<area shape="rect" id="node123" href="$exchangecontract_8hpp.html" title="Exchange contract." alt="" coords="811,392,1131,421"/>
+<area shape="rect" id="node128" href="$forwardflatinterpolation_8hpp.html" title="forward&#45;flat interpolation between discrete points" alt="" coords="1477,315,1784,344"/>
+<area shape="rect" id="node112" href="$actual365fixed_8hpp.html" title="Actual/365 (Fixed) day counter." alt="" coords="32,392,280,421"/>
+<area shape="rect" id="node115" href="$handle_8hpp.html" title="Globally accessible relinkable pointer." alt="" coords="304,392,403,421"/>
+<area shape="rect" id="node117" href="$extrapolation_8hpp.html" title="class&#45;wide extrapolation settings" alt="" coords="989,624,1237,653"/>
+<area shape="rect" id="node133" href="$ql_2timeseries_8hpp.html" title="ql/timeseries.hpp" alt="" coords="1155,392,1275,421"/>
+<area shape="rect" id="node145" href="$interestrate_8hpp.html" title="Instrument rate class." alt="" coords="93,315,219,344"/>
+<area shape="rect" id="node151" href="$quote_8hpp.html" title="purely virtual base class for market observables" alt="" coords="307,315,400,344"/>
+<area shape="rect" id="node147" href="$compounding_8hpp.html" title="Compounding enumeration." alt="" coords="192,624,331,653"/>
+</map>

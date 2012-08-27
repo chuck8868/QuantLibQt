@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_quant_lib_1_1_gauss_kronrod_adaptive.html" title="Integral of a 1&#45;dimensional function using the Gauss&#45;Kronrod methods." alt="" coords="5,549,221,669"/>
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_gauss_kronrod_non_adaptive.html" title="Integral of a 1&#45;dimensional function using the Gauss&#45;Kronrod methods." alt="" coords="245,541,485,678"/>
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_gauss_lobatto_integral.html" title="Integral of a one&#45;dimensional function." alt="" coords="509,489,715,730"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_segment_integral.html" title="Integral of a one&#45;dimensional function." alt="" coords="739,558,915,661"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_trapezoid_integral.html" title="Integral of a one&#45;dimensional function." alt="" coords="939,558,1240,661"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_trapezoid_integral.html" title="{QuantLib::TrapezoidIntegral\&lt; Default \&gt;\n||+ TrapezoidIntegral()\l# integrate()\l}" alt="" coords="1084,798,1332,901"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_simpson_integral.html" title="Integral of a one&#45;dimensional function." alt="" coords="1120,953,1296,1055"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$types_8hpp.html" title="Custom types." alt="" coords="5,160,99,189"/>
+<area shape="rect" id="node23" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="695,83,788,112"/>
+<area shape="rect" id="node36" href="$singleton_8hpp.html" title="basic support for the singleton pattern" alt="" coords="243,83,405,112"/>
+<area shape="rect" id="node5" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="448,237,560,267"/>
+<area shape="rect" id="node11" href="$config_8ansi_8hpp_source.html" title="ql/config.ansi.hpp" alt="" coords="443,315,565,344"/>
+<area shape="rect" id="node15" href="$mathconstants_8hpp_source.html" title="ql/mathconstants.hpp" alt="" coords="589,315,736,344"/>
+<area shape="rect" id="node13" href="$userconfig_8hpp_source.html" title="ql/userconfig.hpp" alt="" coords="444,392,564,421"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_quant_lib_1_1_levenberg_marquardt.html" title="Levenberg&#45;Marquardt optimization method." alt="" coords="5,157,205,381"/>
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_line_search_based_method.html" title="{QuantLib::LineSearchBasedMethod\n|# lineSearch_\l|+ LineSearchBasedMethod()\l+ ~LineSearchBasedMethod()\l+ minimize()\l# getUpdatedDirection()\l}" alt="" coords="229,201,456,338"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_simplex.html" title="Multi&#45;dimensional simplex class." alt="" coords="480,183,608,355"/>
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_b_f_g_s.html" title="Broyden&#45;Fletcher&#45;Goldfarb&#45;Shanno algorithm." alt="" coords="67,429,224,549"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_conjugate_gradient.html" title="Multi&#45;dimensional Conjugate Gradient class." alt="" coords="248,429,437,549"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_steepest_descent.html" title="Multi&#45;dimensional steepest&#45;descent class." alt="" coords="461,429,643,549"/>
+</map>

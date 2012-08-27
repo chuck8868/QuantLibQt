@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node10" title="STL class." alt="" coords="373,1056,488,1141"/>
+<area shape="rect" id="node19" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; YieldTermStructure \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="689,1883,1009,2003"/>
+<area shape="rect" id="node21" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; YieldTermStructure \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="827,961,1109,1237"/>
+<area shape="rect" id="node25" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="637,158,920,434"/>
+<area shape="rect" id="node28" href="$class_quant_lib_1_1_relinkable_handle.html" title="Relinkable handle to an observable." alt="" coords="587,1039,803,1159"/>
+<area shape="rect" id="node35" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="1485,501,1659,1696"/>
+<area shape="rect" id="node39" href="$class_quant_lib_1_1_saved_settings.html" title="{QuantLib::SavedSettings\n|&#45; evaluationDate_\l&#45; includeReferenceDateEvents_\l&#45; includeTodaysCashFlows_\l&#45; enforcesTodaysHistoricFixings_\l|+ SavedSettings()\l+ ~SavedSettings()\l}" alt="" coords="1327,1865,1543,2020"/>
+<area shape="rect" id="node44" href="$classbool.html" title="{bool\n||}" alt="" coords="1272,1056,1317,1141"/>
+<area shape="rect" id="node49" href="$class_quant_lib_1_1_calendar.html" title="calendar class" alt="" coords="1784,1779,1957,2107"/>
+</map>

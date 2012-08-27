@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_constant_recovery_model.html" title="{QuantLib::ConstantRecoveryModel\n|&#45; quote_\l|+ ConstantRecoveryModel()\l+ ConstantRecoveryModel()\l+ update()\l+ appliesToSeniority()\l# recoveryValueImpl()\l}" alt="" coords="5,429,232,584"/>
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="45,5,192,195"/>
+</map>

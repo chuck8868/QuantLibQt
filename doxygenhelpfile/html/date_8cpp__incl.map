@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$date_8hpp.html" title="date&#45; and time&#45;related classes, typedefs and enumerations" alt="" coords="516,83,631,112"/>
+<area shape="rect" id="node49" href="$dataformatters_8hpp.html" title="output manipulators" alt="" coords="152,83,341,112"/>
+<area shape="rect" id="node53" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="961,83,1055,112"/>
+<area shape="rect" id="node5" href="$ql_2time_2period_8hpp.html" title="ql/time/period.hpp" alt="" coords="461,160,587,189"/>
+<area shape="rect" id="node36" href="$weekday_8hpp.html" title="Weekday enumeration." alt="" coords="648,237,789,267"/>
+<area shape="rect" id="node40" href="$null_8hpp.html" title="null values" alt="" coords="184,160,309,189"/>
+<area shape="rect" id="node7" href="$frequency_8hpp.html" title="Frequency enumeration." alt="" coords="477,237,624,267"/>
+<area shape="rect" id="node27" href="$timeunit_8hpp.html" title="TimeUnit enumeration." alt="" coords="317,237,453,267"/>
+<area shape="rect" id="node31" href="$types_8hpp.html" title="Custom types." alt="" coords="200,237,293,267"/>
+<area shape="rect" id="node9" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="495,315,607,344"/>
+<area shape="rect" id="node15" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="489,392,612,421"/>
+<area shape="rect" id="node19" href="$mathconstants_8hpp.html" title="ql/mathconstants.hpp" alt="" coords="636,392,783,421"/>
+<area shape="rect" id="node17" href="$userconfig_8hpp.html" title="ql/userconfig.hpp" alt="" coords="491,469,611,499"/>
+</map>

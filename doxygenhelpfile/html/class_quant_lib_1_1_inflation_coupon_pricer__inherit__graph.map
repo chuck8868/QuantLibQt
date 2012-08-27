@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_c_p_i_coupon_pricer.html" title="base pricer for capped/floored CPI coupons N.B. vol&#45;dependent parts are a TODO" alt="" coords="123,672,307,1173"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_yo_y_inflation_coupon_pricer.html" title="base pricer for capped/floored YoY inflation coupons" alt="" coords="331,672,563,1173"/>
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="183,5,316,195"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="340,5,487,195"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_bachelier_yo_y_inflation_coupon_pricer.html" title="Bachelier&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="5,1221,291,1341"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_black_yo_y_inflation_coupon_pricer.html" title="Black&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="315,1221,579,1341"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_unit_displaced_black_yo_y_inflation_coupon_pricer.html" title="Unit&#45;Displaced&#45;Black&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="603,1221,949,1341"/>
+</map>

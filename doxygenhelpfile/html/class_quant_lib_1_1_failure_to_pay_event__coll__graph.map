@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_default_event.html" title="Credit event on a bond of a certain seniority(ies)/currency." alt="" coords="633,2886,791,3266"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_event.html" title="Base class for event." alt="" coords="483,1628,597,1817"/>
+<area shape="rect" id="node25" href="$class_quant_lib_1_1_default_event_1_1_default_settlement.html" title="{QuantLib::DefaultEvent::DefaultSettlement\n|&#45; settlementDate_\l&#45; recoveryRates_\l|+ date()\l+ recoveryRate()\l+ accept()\l# DefaultSettlement()\l# DefaultSettlement()\l}" alt="" coords="405,2517,675,2689"/>
+<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="445,869,592,1059"/>
+<area shape="rect" id="node10" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="449,461,583,651"/>
+<area shape="rect" id="node16" title="STL class." alt="" coords="289,157,388,243"/>
+<area shape="rect" id="node38" title="STL class." alt="" coords="112,913,235,1015"/>
+<area shape="rect" id="node21" href="$class_quant_lib_1_1_currency.html" title="Currency specification" alt="" coords="876,2387,1041,2819"/>
+<area shape="rect" id="node28" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="653,1125,827,2320"/>
+<area shape="rect" id="node45" href="$class_quant_lib_1_1_default_type.html" title="Atomic credit&#45;event type." alt="" coords="1065,2499,1263,2706"/>
+</map>

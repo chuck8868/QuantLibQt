@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_average_basket_payoff.html" title="{QuantLib::AverageBasketPayoff\n|&#45; weights_\l|+ AverageBasketPayoff()\l+ AverageBasketPayoff()\l+ accumulate()\l}" alt="" coords="5,667,213,787"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_max_basket_payoff.html" title="{QuantLib::MaxBasketPayoff\n||+ MaxBasketPayoff()\l+ accumulate()\l}" alt="" coords="237,675,424,778"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_min_basket_payoff.html" title="{QuantLib::MinBasketPayoff\n||+ MinBasketPayoff()\l+ accumulate()\l}" alt="" coords="448,675,629,778"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_spread_basket_payoff.html" title="{QuantLib::SpreadBasketPayoff\n||+ SpreadBasketPayoff()\l+ accumulate()\l}" alt="" coords="653,675,856,778"/>
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_payoff.html" title="Abstract base class for option payoffs." alt="" coords="375,139,495,363"/>
+<area shape="rect" id="node4" href="$classstd_1_1unary__function.html" title="{std::unary_function\&lt; Real, Real \&gt;\n||}" alt="" coords="325,5,544,91"/>
+</map>

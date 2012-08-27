@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$generallinearleastsquares_8hpp_source.html" title="ql/math/generallinearleastsquares.hpp" alt="" coords="1316,83,1556,112"/>
+<area shape="rect" id="node5" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="247,547,359,576"/>
+<area shape="rect" id="node21" href="$svd_8hpp.html" title="singular value decomposition" alt="" coords="979,160,1173,189"/>
+<area shape="rect" id="node25" href="$array_8hpp.html" title="1&#45;D array used in linear algebra." alt="" coords="985,315,1108,344"/>
+<area shape="rect" id="node72" href="$functional_8hpp.html" title="functionals and combinators not included in the STL" alt="" coords="1473,315,1623,344"/>
+<area shape="rect" id="node11" href="$config_8ansi_8hpp_source.html" title="ql/config.ansi.hpp" alt="" coords="5,624,128,653"/>
+<area shape="rect" id="node15" href="$mathconstants_8hpp_source.html" title="ql/mathconstants.hpp" alt="" coords="152,624,299,653"/>
+<area shape="rect" id="node13" href="$userconfig_8hpp_source.html" title="ql/userconfig.hpp" alt="" coords="7,701,127,731"/>
+<area shape="rect" id="node23" href="$matrix_8hpp.html" title="matrix used in linear algebra." alt="" coords="981,237,1112,267"/>
+<area shape="rect" id="node66" href="$steppingiterator_8hpp.html" title="Iterator advancing in constant steps." alt="" coords="421,315,616,344"/>
+<area shape="rect" id="node27" href="$types_8hpp.html" title="Custom types." alt="" coords="1044,469,1137,499"/>
+<area shape="rect" id="node32" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="388,392,481,421"/>
+<area shape="rect" id="node45" href="$disposable_8hpp.html" title="generic disposable object with move semantics" alt="" coords="97,469,265,499"/>
+<area shape="rect" id="node48" href="$null_8hpp.html" title="null values" alt="" coords="1212,392,1337,421"/>
+</map>

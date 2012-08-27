@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_solver1_d.html" title="{QuantLib::Solver1D\&lt; FiniteDifferenceNewtonSafe \&gt;\n|# root_\l# xMin_\l# xMax_\l# fxMin_\l# fxMax_\l# maxEvaluations_\l# evaluationNumber_\l&#45; lowerBound_\l&#45; upperBound_\l&#45; lowerBoundEnforced_\l&#45; upperBoundEnforced_\l|+ Solver1D()\l+ solve()\l+ solve()\l+ setMaxEvaluations()\l+ setLowerBound()\l+ setUpperBound()\l&#45; enforceBounds_()\l* solve()\l* solve()\l* setMaxEvaluations()\l* setLowerBound()\l* setUpperBound()\l}" alt="" coords="474,833,797,1282"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_curiously_recurring_template.html" title="{QuantLib::CuriouslyRecurringTemplate\&lt; FiniteDifferenceNewtonSafe \&gt;\n||# CuriouslyRecurringTemplate()\l# ~CuriouslyRecurringTemplate()\l# impl()\l# impl()\l}" alt="" coords="158,471,593,609"/>
+<area shape="rect" id="node6" href="$class_quant_lib_1_1_curiously_recurring_template.html" title="Support for the curiously recurring template pattern." alt="" coords="362,6,658,143"/>
+<area shape="rect" id="node14" href="$class_quant_lib_1_1_solver1_d.html" title="Base class for 1&#45;D solvers." alt="" coords="617,315,801,765"/>
+<area shape="rect" id="node10" href="$classbool.html" title="{bool\n||}" alt="" coords="911,32,957,117"/>
+</map>

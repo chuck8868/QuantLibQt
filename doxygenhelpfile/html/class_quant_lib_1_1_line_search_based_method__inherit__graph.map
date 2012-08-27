@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_b_f_g_s.html" title="Broyden&#45;Fletcher&#45;Goldfarb&#45;Shanno algorithm." alt="" coords="5,344,163,464"/>
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_conjugate_gradient.html" title="Multi&#45;dimensional Conjugate Gradient class." alt="" coords="187,344,376,464"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_steepest_descent.html" title="Multi&#45;dimensional steepest&#45;descent class." alt="" coords="400,344,581,464"/>
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_optimization_method.html" title="Abstract class for constrained optimization method." alt="" coords="183,6,380,109"/>
+</map>

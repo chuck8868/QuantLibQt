@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$linesearch_8hpp.html" title="Line search abstract class." alt="" coords="1044,160,1271,189"/>
+<area shape="rect" id="node66" href="$problem_8hpp.html" title="Abstract optimization problem class." alt="" coords="767,83,980,112"/>
+<area shape="rect" id="node74" href="$constraint_8hpp.html" title="Abstract constraint class." alt="" coords="479,83,703,112"/>
+<area shape="rect" id="node5" href="$ql_2math_2array_8hpp.html" title="ql/math/array.hpp" alt="" coords="496,237,619,267"/>
+<area shape="rect" id="node61" href="$endcriteria_8hpp.html" title="Optimization criteria class." alt="" coords="1044,237,1271,267"/>
+<area shape="rect" id="node7" href="$types_8hpp.html" title="Custom types." alt="" coords="1105,392,1199,421"/>
+<area shape="rect" id="node27" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="401,315,495,344"/>
+<area shape="rect" id="node40" href="$disposable_8hpp.html" title="generic disposable object with move semantics" alt="" coords="745,392,913,421"/>
+<area shape="rect" id="node43" href="$null_8hpp.html" title="null values" alt="" coords="1095,315,1220,344"/>
+<area shape="rect" id="node9" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="773,469,885,499"/>
+<area shape="rect" id="node15" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="768,547,891,576"/>
+<area shape="rect" id="node19" href="$mathconstants_8hpp.html" title="ql/mathconstants.hpp" alt="" coords="915,547,1061,576"/>
+<area shape="rect" id="node17" href="$userconfig_8hpp.html" title="ql/userconfig.hpp" alt="" coords="769,624,889,653"/>
+<area shape="rect" id="node68" href="$method_8hpp.html" title="Abstract optimization method class." alt="" coords="809,160,1020,189"/>
+<area shape="rect" id="node71" href="$costfunction_8hpp.html" title="Optimization cost function class." alt="" coords="548,160,785,189"/>
+</map>

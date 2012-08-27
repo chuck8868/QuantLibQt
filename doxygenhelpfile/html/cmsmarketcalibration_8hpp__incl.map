@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$endcriteria_8hpp.html" title="Optimization criteria class." alt="" coords="513,83,740,112"/>
+<area shape="rect" id="node31" href="$matrix_8hpp.html" title="matrix used in linear algebra." alt="" coords="896,83,1027,112"/>
+<area shape="rect" id="node33" href="$ql_2math_2array_8hpp.html" title="ql/math/array.hpp" alt="" coords="797,160,920,189"/>
+<area shape="rect" id="node72" href="$handle_8hpp.html" title="Globally accessible relinkable pointer." alt="" coords="1312,83,1411,112"/>
+<area shape="rect" id="node5" href="$null_8hpp.html" title="null values" alt="" coords="199,237,324,267"/>
+<area shape="rect" id="node7" href="$types_8hpp.html" title="Custom types." alt="" coords="1111,315,1204,344"/>
+<area shape="rect" id="node9" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="1149,392,1261,421"/>
+<area shape="rect" id="node15" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="1144,469,1267,499"/>
+<area shape="rect" id="node19" href="$mathconstants_8hpp.html" title="ql/mathconstants.hpp" alt="" coords="1291,469,1437,499"/>
+<area shape="rect" id="node17" href="$userconfig_8hpp.html" title="ql/userconfig.hpp" alt="" coords="1145,547,1265,576"/>
+<area shape="rect" id="node66" href="$steppingiterator_8hpp.html" title="Iterator advancing in constant steps." alt="" coords="1104,160,1299,189"/>
+<area shape="rect" id="node36" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="1529,237,1623,267"/>
+<area shape="rect" id="node49" href="$disposable_8hpp.html" title="generic disposable object with move semantics" alt="" coords="5,315,173,344"/>
+<area shape="rect" id="node74" href="$observable_8hpp.html" title="observer/observable pattern" alt="" coords="1489,160,1663,189"/>
+</map>

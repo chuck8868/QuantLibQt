@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$struct_quant_lib_1_1_sample.html" title="{QuantLib::Sample\&lt; Path \&gt;\n|+ value\l+ weight\l|+ Sample()\l}" alt="" coords="5,177,181,279"/>
+<area shape="rect" id="node5" href="$struct_quant_lib_1_1_sample.html" title="{QuantLib::Sample\&lt; std::vector\&lt; Real \&gt; \&gt;\n|+ value\l+ weight\l|+ Sample()\l}" alt="" coords="205,177,467,279"/>
+<area shape="rect" id="node7" href="$struct_quant_lib_1_1_sample.html" title="{QuantLib::Sample\&lt; MultiPath \&gt;\n|+ value\l+ weight\l|+ Sample()\l}" alt="" coords="491,177,696,279"/>
+</map>

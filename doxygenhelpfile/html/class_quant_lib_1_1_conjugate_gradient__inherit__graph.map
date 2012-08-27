@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_line_search_based_method.html" title="{QuantLib::LineSearchBasedMethod\n|# lineSearch_\l|+ LineSearchBasedMethod()\l+ ~LineSearchBasedMethod()\l+ minimize()\l# getUpdatedDirection()\l}" alt="" coords="5,158,232,295"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_optimization_method.html" title="Abstract class for constrained optimization method." alt="" coords="20,6,217,109"/>
+</map>

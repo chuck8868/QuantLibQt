@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_quant_lib_1_1_gauss_chebyshev2nd_integration.html" title="Gauss&#45;Chebyshev integration (second kind)" alt="" coords="5,227,272,312"/>
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_gauss_chebyshev_integration.html" title="Gauss&#45;Chebyshev integration." alt="" coords="296,227,541,312"/>
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_gauss_gegenbauer_integration.html" title="Gauss&#45;Gegenbauer integration." alt="" coords="565,227,816,312"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_gauss_hermite_integration.html" title="generalized Gauss&#45;Hermite integration" alt="" coords="840,227,1067,312"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_gauss_hyperbolic_integration.html" title="Gauss&#45;Hyperbolic integration." alt="" coords="1091,227,1333,312"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_gauss_jacobi_integration.html" title="Gauss&#45;Jacobi integration." alt="" coords="1357,227,1576,312"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_gauss_laguerre_integration.html" title="generalized Gauss&#45;Laguerre integration" alt="" coords="1600,227,1829,312"/>
+<area shape="rect" id="node17" href="$class_quant_lib_1_1_gauss_legendre_integration.html" title="Gauss&#45;Legendre integration." alt="" coords="1853,227,2088,312"/>
+</map>

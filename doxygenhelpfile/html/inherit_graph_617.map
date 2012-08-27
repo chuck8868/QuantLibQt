@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_quant_lib_1_1_rounding.html" title="basic rounding class" alt="" coords="7,112,143,141"/>
+<area shape="rect" id="node3" href="$class_quant_lib_1_1_ceiling_truncation.html" title="Ceiling truncation." alt="" coords="193,5,375,35"/>
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_closest_rounding.html" title="Closest rounding." alt="" coords="193,59,375,88"/>
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_down_rounding.html" title="Down&#45;rounding." alt="" coords="199,112,369,141"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_floor_truncation.html" title="Floor truncation." alt="" coords="199,165,369,195"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_up_rounding.html" title="Up&#45;rounding." alt="" coords="207,219,361,248"/>
+</map>

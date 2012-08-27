@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_quant_lib_1_1_mixed_scheme.html" title="Mixed (explicit/implicit) scheme for finite difference methods." alt="" coords="7,59,244,88"/>
+<area shape="rect" id="node3" href="$class_quant_lib_1_1_crank_nicolson.html" title="Crank&#45;Nicolson scheme for finite difference methods." alt="" coords="293,5,536,35"/>
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_explicit_euler.html" title="Forward Euler scheme for finite difference methods" alt="" coords="300,59,529,88"/>
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_implicit_euler.html" title="Backward Euler scheme for finite difference methods." alt="" coords="301,112,528,141"/>
+</map>

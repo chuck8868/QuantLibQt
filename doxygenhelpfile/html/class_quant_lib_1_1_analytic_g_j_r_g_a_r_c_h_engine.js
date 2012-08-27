@@ -1,0 +1,27 @@
+var class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine =
+[
+    [ "AnalyticGJRGARCHEngine", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a612b2ee0eee3fbd5872bf08303577c5c", null ],
+    [ "calculate", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#ac03b0dce98e65d9ad3536ae5ede76a7e", null ],
+    [ "b0_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a1573e261e1877026993bfa88fc100a3d", null ],
+    [ "b1_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a7f4b3203070cf32366cfc900d91c6970", null ],
+    [ "b2_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#aff6e9876519ed797230bd94cf0568ee0", null ],
+    [ "b3_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a6306104ca43db4a915852389990e0664", null ],
+    [ "ex_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a9ddbfbf25c60935d4b5add9e53977cbc", null ],
+    [ "h1_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#afae9626c7a73892d48051b30b3f50fac", null ],
+    [ "init_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a5a8ab36b90f7585571f00a7569a6e5b9", null ],
+    [ "k3_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#afdcbd0a81061745e0fefee98ad590cc1", null ],
+    [ "k4_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a84697120c81da7423f36cfeaccc293d5", null ],
+    [ "la_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#ac8fbf43f0e74b2b88bef3f8a8dde61ba", null ],
+    [ "m1_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a53543e99730fc9c9044dedb346de1602", null ],
+    [ "m2_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a03b1f36f1bbf1e5e0e724a66624d1d2e", null ],
+    [ "m3_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a0c9d726c7604b43f4c540363d0924e30", null ],
+    [ "r_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a9378953291aebd5d49b1c06dd524d0fe", null ],
+    [ "sigma_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a64e24e976443954f52bdd92085b17bc5", null ],
+    [ "T_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a8daed14203d8269c61067b234a1e5f3c", null ],
+    [ "v1_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a9c6603886f6b7fe855ec3cbe61c9c965", null ],
+    [ "v2_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a3f4a900961b6ef492ce84df5a5573ae1", null ],
+    [ "v3_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#aef617125dc93a2360723fd239d5dade9", null ],
+    [ "x1_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#ad100741f613d2f8422de390177bf0ebc", null ],
+    [ "z1_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#ac6b055bffcead9cb26c650614056b9af", null ],
+    [ "z2_", "class_quant_lib_1_1_analytic_g_j_r_g_a_r_c_h_engine.html#a395507d1ff9dab13893da6f7533943ca", null ]
+];

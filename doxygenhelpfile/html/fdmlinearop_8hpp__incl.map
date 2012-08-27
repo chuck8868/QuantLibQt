@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$array_8hpp.html" title="1&#45;D array used in linear algebra." alt="" coords="857,160,980,189"/>
+<area shape="rect" id="node59" href="$sparsematrix_8hpp.html" title="typedef for boost sparse matrix class" alt="" coords="595,83,845,112"/>
+<area shape="rect" id="node5" href="$types_8hpp.html" title="Custom types." alt="" coords="1333,315,1427,344"/>
+<area shape="rect" id="node25" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="309,237,403,267"/>
+<area shape="rect" id="node38" href="$disposable_8hpp.html" title="generic disposable object with move semantics" alt="" coords="807,315,975,344"/>
+<area shape="rect" id="node41" href="$null_8hpp.html" title="null values" alt="" coords="1317,237,1443,267"/>
+<area shape="rect" id="node7" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="773,392,885,421"/>
+<area shape="rect" id="node13" href="$config_8ansi_8hpp_source.html" title="ql/config.ansi.hpp" alt="" coords="768,469,891,499"/>
+<area shape="rect" id="node17" href="$mathconstants_8hpp_source.html" title="ql/mathconstants.hpp" alt="" coords="915,469,1061,499"/>
+<area shape="rect" id="node15" href="$userconfig_8hpp_source.html" title="ql/userconfig.hpp" alt="" coords="769,547,889,576"/>
+</map>

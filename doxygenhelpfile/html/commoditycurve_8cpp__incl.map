@@ -1,0 +1,40 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$commoditycurve_8hpp.html" title="Commodity curve." alt="" coords="1749,83,2061,112"/>
+<area shape="rect" id="node107" href="$commoditypricinghelpers_8hpp.html" title="Commodity pricing helpers." alt="" coords="1365,83,1725,112"/>
+<area shape="rect" id="node5" href="$termstructure_8hpp.html" title="base class for term structures" alt="" coords="3151,160,3289,189"/>
+<area shape="rect" id="node73" href="$commoditytype_8hpp.html" title="ql/experimental/commodities/commoditytype.hpp" alt="" coords="1071,392,1377,421"/>
+<area shape="rect" id="node80" href="$unitofmeasure_8hpp.html" title="Unit of measure." alt="" coords="748,392,1047,421"/>
+<area shape="rect" id="node90" href="$exchangecontract_8hpp.html" title="Exchange contract." alt="" coords="2028,315,2348,344"/>
+<area shape="rect" id="node94" href="$currency_8hpp.html" title="Currency specification." alt="" coords="615,392,724,421"/>
+<area shape="rect" id="node99" href="$forwardflatinterpolation_8hpp.html" title="forward&#45;flat interpolation between discrete points" alt="" coords="2799,237,3105,267"/>
+<area shape="rect" id="node7" href="$calendar_8hpp.html" title="calendar class" alt="" coords="1815,315,1953,344"/>
+<area shape="rect" id="node11" href="$null_8hpp.html" title="null values" alt="" coords="1892,469,2017,499"/>
+<area shape="rect" id="node38" href="$actual365fixed_8hpp.html" title="Actual/365 (Fixed) day counter." alt="" coords="3400,237,3648,267"/>
+<area shape="rect" id="node47" href="$settings_8hpp.html" title="global repository for run&#45;time library settings" alt="" coords="2668,237,2775,267"/>
+<area shape="rect" id="node66" href="$handle_8hpp.html" title="Globally accessible relinkable pointer." alt="" coords="3257,315,3356,344"/>
+<area shape="rect" id="node69" href="$extrapolation_8hpp.html" title="class&#45;wide extrapolation settings" alt="" coords="3337,392,3585,421"/>
+<area shape="rect" id="node9" href="$date_8hpp.html" title="date&#45; and time&#45;related classes, typedefs and enumerations" alt="" coords="2353,392,2468,421"/>
+<area shape="rect" id="node25" href="$businessdayconvention_8hpp.html" title="BusinessDayConvention enumeration." alt="" coords="1943,392,2169,421"/>
+<area shape="rect" id="node13" href="$types_8hpp.html" title="Custom types." alt="" coords="1589,547,1683,576"/>
+<area shape="rect" id="node15" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="2004,624,2116,653"/>
+<area shape="rect" id="node21" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="2147,701,2269,731"/>
+<area shape="rect" id="node40" href="$daycounter_8hpp.html" title="day counter class" alt="" coords="3567,315,3721,344"/>
+<area shape="rect" id="node43" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="2805,469,2899,499"/>
+<area shape="rect" id="node49" href="$singleton_8hpp.html" title="basic support for the singleton pattern" alt="" coords="1553,392,1716,421"/>
+<area shape="rect" id="node56" href="$observablevalue_8hpp.html" title="observable and assignable proxy to concrete value" alt="" coords="2983,315,3183,344"/>
+<area shape="rect" id="node58" href="$observable_8hpp.html" title="observer/observable pattern" alt="" coords="2765,392,2939,421"/>
+<area shape="rect" id="node83" href="$ql_2math_2rounding_8hpp.html" title="ql/math/rounding.hpp" alt="" coords="773,469,915,499"/>
+<area shape="rect" id="node101" href="$interpolation_8hpp.html" title="base class for 1&#45;D interpolations" alt="" coords="3380,315,3543,344"/>
+<area shape="rect" id="node109" href="$energycommodity_8hpp.html" title="Energy commodity." alt="" coords="485,160,805,189"/>
+<area shape="rect" id="node130" href="$paymentterm_8hpp.html" title="ql/experimental/commodities/paymentterm.hpp" alt="" coords="1744,237,2037,267"/>
+<area shape="rect" id="node134" href="$pricingperiod_8hpp.html" title="Pricing period." alt="" coords="2061,237,2352,267"/>
+<area shape="rect" id="node142" href="$unitofmeasureconversionmanager_8hpp.html" title="Unit&#45;of&#45;measure conversion manager." alt="" coords="933,160,1344,189"/>
+<area shape="rect" id="node152" href="$exchangeratemanager_8hpp.html" title="exchange&#45;rate repository" alt="" coords="1419,160,1672,189"/>
+<area shape="rect" id="node111" href="$commodity_8hpp.html" title="Commodity base class." alt="" coords="24,237,304,267"/>
+<area shape="rect" id="node113" href="$ql_2money_8hpp.html" title="ql/money.hpp" alt="" coords="441,315,540,344"/>
+<area shape="rect" id="node119" href="$commodityunitcost_8hpp.html" title="Commodity unit cost." alt="" coords="328,237,653,267"/>
+<area shape="rect" id="node124" href="$quantity_8hpp.html" title="Amount of a commodity." alt="" coords="981,315,1243,344"/>
+<area shape="rect" id="node136" href="$dateinterval_8hpp.html" title="Date interval." alt="" coords="2524,315,2807,344"/>
+<area shape="rect" id="node144" href="$unitofmeasureconversion_8hpp.html" title="ql/experimental/commodities/unitofmeasureconversion.hpp" alt="" coords="931,237,1293,267"/>
+<area shape="rect" id="node154" href="$ql_2exchangerate_8hpp.html" title="ql/exchangerate.hpp" alt="" coords="1581,237,1720,267"/>
+</map>

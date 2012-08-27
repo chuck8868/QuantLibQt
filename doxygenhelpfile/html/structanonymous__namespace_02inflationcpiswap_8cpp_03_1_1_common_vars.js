@@ -1,0 +1,28 @@
+var structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars =
+[
+    [ "CommonVars", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a17734620dfd0b09facb57a94cf5621db", null ],
+    [ "backup", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a67b0c56665333682a9cc1778d6b183ef", null ],
+    [ "calendar", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a0a57625aa4bad0d42cb398fb577410c7", null ],
+    [ "contractObservationInterpolation", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#aa918c4dd26486ca6946f3da15926eeb6", null ],
+    [ "contractObservationLag", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a3596a5ed1f964701b611e2f3d1f21504", null ],
+    [ "convention", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a75d59f6bf9bfa09d9986a908c822d444", null ],
+    [ "cpiTS", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#aea5bfaf83c4dfa3dcb8226acedd4a1a3", null ],
+    [ "dcNominal", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#ae4e40b342416d85053458a70c57bdf1e", null ],
+    [ "dcZCIIS", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a6b236227aab3e11b3316b2e2a1c5541c", null ],
+    [ "evaluationDate", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a0ad5f1486d75c8ba6496bad4d9a9fc61", null ],
+    [ "fixingDays", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#add12c6389041bc1c9b41e8120f13e2f0", null ],
+    [ "frequency", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a4fb983ea31a82c3d3df7c292815ab8b5", null ],
+    [ "hcpi", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a542eb66968cf81ff079ede055a3c8e8d", null ],
+    [ "ii", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#aefa331e059c944c76f88d97c8f79f17e", null ],
+    [ "length", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a3918391b4548358307bd78179a8c9699", null ],
+    [ "nominals", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a86f756c1a13fa780922372dabc7179a5", null ],
+    [ "nominalTS", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#ac098d07b3e09de5368dbb912164606cd", null ],
+    [ "observationLag", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a7cc09d615d1d71ec981b67d48293e669", null ],
+    [ "settlement", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a54640e2bfa18b0e713383a1ad50db8bd", null ],
+    [ "settlementDays", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a451fa3a8bdaaced91d51e185c1ed3b55", null ],
+    [ "startDate", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a589720ae3921a4d4f5eb1149009f79fd", null ],
+    [ "volatility", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#aeb3d5601b9d9827a401d8662da16337b", null ],
+    [ "zciisD", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#ae4c566775063b0cb3a93a06ac269a4bc", null ],
+    [ "zciisDataLength", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#abab5f8260e803393e77799d6931bd117", null ],
+    [ "zciisR", "structanonymous__namespace_02inflationcpiswap_8cpp_03_1_1_common_vars.html#a8ae50d2f44bce39048a957510f66af08", null ]
+];

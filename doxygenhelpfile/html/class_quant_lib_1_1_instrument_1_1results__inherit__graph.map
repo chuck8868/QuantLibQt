@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_bond_1_1results.html" title="{QuantLib::Bond::results\n|+ settlementValue\l|+ reset()\l}" alt="" coords="29,405,187,491"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_cds_option_1_1results.html" title="Results from CDS&#45;option calculation" alt="" coords="211,405,400,491"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_c_p_i_cap_floor_1_1results.html" title="{QuantLib::CPICapFloor::results\n||+ reset()\l}" alt="" coords="424,405,629,491"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_credit_default_swap_1_1results.html" title="{QuantLib::CreditDefaultSwap::results\n|+ fairSpread\l+ fairUpfront\l+ couponLegBPS\l+ couponLegNPV\l+ defaultLegNPV\l+ upfrontBPS\l+ upfrontNPV\l|+ reset()\l}" alt="" coords="653,353,891,543"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_energy_commodity_1_1results.html" title="{QuantLib::EnergyCommodity::results\n|+ NPV\l+ currency\l+ unitOfMeasure\l|+ reset()\l}" alt="" coords="915,388,1152,508"/>
+<area shape="rect" id="node17" href="$class_quant_lib_1_1_multi_asset_option_1_1results.html" title="Results from multi&#45;asset option calculation" alt="" coords="1176,405,1405,491"/>
+<area shape="rect" id="node25" href="$class_quant_lib_1_1_one_asset_option_1_1results.html" title="Results from single&#45;asset option calculation" alt="" coords="1429,405,1653,491"/>
+<area shape="rect" id="node27" href="$class_quant_lib_1_1_path_multi_asset_option_1_1results.html" title="Results from multi&#45;asset option calculation" alt="" coords="1677,405,1933,491"/>
+<area shape="rect" id="node29" href="$class_quant_lib_1_1_swap_1_1results.html" title="{QuantLib::Swap::results\n|+ legNPV\l+ legBPS\l+ startDiscounts\l+ endDiscounts\l+ npvDateDiscount\l|+ reset()\l}" alt="" coords="1957,371,2120,525"/>
+<area shape="rect" id="node39" href="$class_quant_lib_1_1_synthetic_c_d_o_1_1results.html" title="{QuantLib::SyntheticCDO::results\n|+ premiumValue\l+ protectionValue\l+ upfrontPremiumValue\l+ remainingNotional\l+ xMin\l+ xMax\l+ error\l+ expectedTrancheLoss\l|+ reset()\l}" alt="" coords="2144,345,2357,551"/>
+<area shape="rect" id="node41" href="$class_quant_lib_1_1_variance_option_1_1results.html" title="Results from variance&#45;option calculation" alt="" coords="2381,405,2600,491"/>
+<area shape="rect" id="node43" href="$class_quant_lib_1_1_variance_swap_1_1results.html" title="Results from variance&#45;swap calculation" alt="" coords="2624,405,2837,491"/>
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_pricing_engine_1_1results.html" title="{QuantLib::PricingEngine::results\n||+ ~results()\l+ reset()\l}" alt="" coords="1312,6,1520,109"/>
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_callable_bond_1_1results.html" title="results for a callable bond calculation" alt="" coords="5,635,211,720"/>
+<area shape="rect" id="node19" href="$class_quant_lib_1_1_everest_option_1_1results.html" title="{QuantLib::EverestOption::results\n|+ yield\l|+ reset()\l}" alt="" coords="945,635,1156,720"/>
+<area shape="rect" id="node21" href="$class_quant_lib_1_1_himalaya_option_1_1results.html" title="{QuantLib::HimalayaOption::results\n||}" alt="" coords="1180,635,1401,720"/>
+<area shape="rect" id="node23" href="$class_quant_lib_1_1_margrabe_option_1_1results.html" title="Extra results for Margrabe option." alt="" coords="1425,600,1647,755"/>
+<area shape="rect" id="node31" href="$class_quant_lib_1_1_asset_swap_1_1results.html" title="Results from simple swap calculation" alt="" coords="1699,617,1893,737"/>
+<area shape="rect" id="node33" href="$class_quant_lib_1_1_c_p_i_swap_1_1results.html" title="Results from swap calculation" alt="" coords="1917,626,2101,729"/>
+<area shape="rect" id="node35" href="$class_quant_lib_1_1_vanilla_swap_1_1results.html" title="Results from simple swap calculation" alt="" coords="2125,626,2325,729"/>
+<area shape="rect" id="node37" href="$class_quant_lib_1_1_year_on_year_inflation_swap_1_1results.html" title="Results from YoY swap calculation" alt="" coords="2349,626,2627,729"/>
+</map>

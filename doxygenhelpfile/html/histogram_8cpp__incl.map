@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$histogram_8hpp.html" title="statistics tool for generating histogram of given data" alt="" coords="948,83,1156,112"/>
+<area shape="rect" id="node31" href="$incrementalstatistics_8hpp.html" title="statistics tool based on incremental accumulation" alt="" coords="655,83,924,112"/>
+<area shape="rect" id="node47" href="$comparison_8hpp.html" title="floating&#45;point comparisons" alt="" coords="584,160,744,189"/>
+<area shape="rect" id="node5" href="$null_8hpp.html" title="null values" alt="" coords="827,160,952,189"/>
+<area shape="rect" id="node7" href="$types_8hpp.html" title="Custom types." alt="" coords="760,237,853,267"/>
+<area shape="rect" id="node9" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="399,315,511,344"/>
+<area shape="rect" id="node15" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="393,392,516,421"/>
+<area shape="rect" id="node19" href="$mathconstants_8hpp.html" title="ql/mathconstants.hpp" alt="" coords="540,392,687,421"/>
+<area shape="rect" id="node17" href="$userconfig_8hpp.html" title="ql/userconfig.hpp" alt="" coords="395,469,515,499"/>
+<area shape="rect" id="node34" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="263,160,356,189"/>
+</map>

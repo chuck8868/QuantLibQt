@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_energy_commodity.html" title="Energy commodity class." alt="" coords="1509,3675,1744,3899"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_commodity.html" title="Commodity base class." alt="" coords="1079,3419,1260,3608"/>
+<area shape="rect" id="node6" href="$class_quant_lib_1_1_instrument.html" title="Abstract instrument class." alt="" coords="688,2747,845,3352"/>
+<area shape="rect" id="node8" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="292,1946,447,2187"/>
+<area shape="rect" id="node10" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="376,1076,523,1265"/>
+<area shape="rect" id="node14" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="387,461,520,651"/>
+<area shape="rect" id="node20" title="STL class." alt="" coords="340,157,439,243"/>
+<area shape="rect" id="node44" title="STL class." alt="" coords="971,718,1093,821"/>
+<area shape="rect" id="node26" href="$classbool.html" title="{bool\n||}" alt="" coords="547,1128,592,1213"/>
+<area shape="rect" id="node62" href="$class_quant_lib_1_1_money.html" title="amount of cash" alt="" coords="1320,1790,1445,2343"/>
+<area shape="rect" id="node98" href="$class_quant_lib_1_1_quantity.html" title="Amount of a commodity." alt="" coords="1897,2764,2044,3335"/>
+<area shape="rect" id="node30" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="841,1469,1015,2664"/>
+<area shape="rect" id="node38" title="STL class." alt="" coords="788,727,868,812"/>
+<area shape="rect" id="node51" href="$struct_quant_lib_1_1_pricing_error.html" title="{QuantLib::PricingError\n|+ errorLevel\l+ tradeId\l+ error\l+ detail\l|+ PricingError()\l}" alt="" coords="5,1102,155,1239"/>
+<area shape="rect" id="node40" title="STL class." alt="" coords="745,513,911,599"/>
+<area shape="rect" id="node56" title="STL class." alt="" coords="145,845,260,931"/>
+<area shape="rect" id="node86" href="$class_quant_lib_1_1_commodity_unit_cost.html" title="{QuantLib::CommodityUnitCost\n|&#45; amount_\l&#45; unitOfMeasure_\l|+ CommodityUnitCost()\l+ CommodityUnitCost()\l+ amount()\l+ unitOfMeasure()\l}" alt="" coords="1673,2972,1873,3127"/>
+<area shape="rect" id="node64" href="$class_quant_lib_1_1_currency.html" title="Currency specification" alt="" coords="1768,955,1933,1387"/>
+<area shape="rect" id="node74" href="$class_quant_lib_1_1_commodity_type.html" title="commodity type" alt="" coords="1729,1955,1908,2179"/>
+<area shape="rect" id="node89" href="$class_quant_lib_1_1_unit_of_measure.html" title="Unit of measure specification" alt="" coords="2059,1903,2259,2231"/>
+</map>
