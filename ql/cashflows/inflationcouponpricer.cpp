@@ -21,6 +21,8 @@
 #include <ql/termstructures/volatility/inflation/yoyinflationoptionletvolatilitystructure.hpp>
 #include <ql/pricingengines/blackformula.hpp>
 
+#include <ql/termstructures/inflationtermstructure.hpp>
+
 namespace QuantLib {
 
     YoYInflationCouponPricer::
@@ -105,7 +107,6 @@ namespace QuantLib {
 
 
     Rate YoYInflationCouponPricer::adjustedFixing(Rate fixing) const {
-
         if (fixing == Null<Rate>())
             fixing = coupon_->indexFixing();
 
@@ -137,7 +138,6 @@ namespace QuantLib {
 
 
     Real YoYInflationCouponPricer::swapletPrice() const {
-
         Real swapletPrice = adjustedFixing() * coupon_->accrualPeriod() * discount_;
         return gearing_ * swapletPrice + spreadLegValue_;
     }
@@ -150,6 +150,80 @@ namespace QuantLib {
         // with a different yield curve
         return gearing_ * adjustedFixing() + spread_;
     }
+
+
+
+
+    //=========================================================================
+    // Jarrow & Yildirim coupon pricer for yoy inflation swaps
+    //=========================================================================
+
+    Real JarrowYildirimYoYInflationCouponPricer::optionletPriceImp(Option::Type optionType,
+                                                                 Real  effStrike,
+                                                                 Real  forward,
+                                                                 Real stdDev
+                                                                 ) const {
+
+        return blackFormula(optionType,
+                            effStrike,
+                            forward,
+                            stdDev);
+    }
+
+    Rate JarrowYildirimYoYInflationCouponPricer::adjustedFixing(Rate fixing) const {
+        if (fixing == Null<Rate>())
+            fixing = coupon_->indexFixing();
+
+        // no adjustment
+        return fixing;
+    }
+
+
+    //=========================================================================
+    // market model coupon pricer for yoy inflation swaps
+    //=========================================================================
+
+    Real MarketModelYoYInflationCouponPricer::optionletPriceImp(Option::Type optionType,
+                                                                 Real  effStrike,
+                                                                 Real  forward,
+                                                                 Real stdDev
+                                                                 ) const {
+
+        return blackFormula(optionType,
+                            effStrike,
+                            forward,
+                            stdDev);
+    }
+
+    Rate MarketModelYoYInflationCouponPricer::adjustedFixing(
+            Rate fixing,
+            const Handle<YoYInflationTermStructure>& yoyInflTS) const {
+        if (fixing == Null<Rate>()) {
+            fixing = coupon_->indexFixing();
+        } else {
+            Date fixingDate = coupon_->fixingDate();
+            Date crntDate = coupon_->date();
+            Date prevDate = coupon_->date() - Period(1,Years);
+            Rate crntYoY = yoyInflTS->yoyRate(crntDate);
+            Real prevDiscount = rateCurve_->discount(prevDate);
+
+            Time dt = yoyInflTS->dayCounter().yearFraction(fixingDate, crntDate);
+
+            Real sigmaI = 0.006;
+            Real sigman = 0.22;
+            Real rhoIn = 0.2;
+            Real rhoI = 0.6;
+
+            double adjFactor = sigmaI * ((sigman*dt*crntYoY)/(1.0+dt*crntYoY)
+                                        *rhoIn-rhoI*sigmaI+sigmaI) * dt;
+            fixing = (prevDiscount/discount_) * (coupon_->indexFixing() + 1.0)
+                    * std::exp(adjFactor) - 1.0;
+        }
+        // no adjustment
+        return fixing;
+    }
+
+
 
     //=========================================================================
     // vol-dependent pricers, note that these do not discount
@@ -191,7 +265,6 @@ namespace QuantLib {
                                      forward,
                                      stdDev);
     }
-
 
 
 }

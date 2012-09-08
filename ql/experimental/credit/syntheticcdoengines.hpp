@@ -179,10 +179,10 @@ namespace QuantLib {
         }
     private:
         Real expectedTrancheLoss(const Date& d) const {
-            LossDistHomogeneous op(nBuckets_, this->results_.xMax);
+            LossDistHomogeneous op(nBuckets_, this->results_.xMax);/////
             std::vector<Real> lgd = this->remainingBasket_->LGDs();
             std::vector<Real> prob = this->remainingBasket_->probabilities(d);
-            Distribution dist = copula_->integral (op, lgd, prob);
+            Distribution dist = copula_->integral (op, lgd, prob);/////
             return dist.cumulativeExcessProbability (this->results_.xMin,
                                                      this->results_.xMax);
         };

@@ -83,8 +83,8 @@ int main(int, char* []) {
 
         std::vector<boost::shared_ptr<DefaultProbabilityHelper> > instruments;
         for (Size i=0; i<4; i++) {
-            instruments.push_back(boost::shared_ptr<DefaultProbabilityHelper>(
-                new SpreadCdsHelper(
+            instruments.push_back(boost::shared_ptr<DefaultProbabilityHelper>(///
+                new SpreadCdsHelper(///
                               Handle<Quote>(boost::shared_ptr<Quote>(
                                          new SimpleQuote(quoted_spreads[i]))),
                               tenors[i],
@@ -99,9 +99,9 @@ int main(int, char* []) {
         }
 
         // Bootstrap hazard rates
-        boost::shared_ptr<PiecewiseDefaultCurve<HazardRate, BackwardFlat> >
+        boost::shared_ptr<PiecewiseDefaultCurve<HazardRate, BackwardFlat> >///
            hazardRateStructure(
-               new PiecewiseDefaultCurve<HazardRate, BackwardFlat>(
+               new PiecewiseDefaultCurve<HazardRate, BackwardFlat>(///
                                                            todaysDate,
                                                            instruments,
                                                            Actual365Fixed()));
@@ -110,7 +110,7 @@ int main(int, char* []) {
         cout << "Calibrated hazard rate values: " << endl ;
         for (Size i=0; i<hr_curve_data.size(); i++) {
             cout << "hazard rate on " << hr_curve_data[i].first << " is "
-                 << hr_curve_data[i].second << endl;
+                 << io::rate(hr_curve_data[i].second) << endl;
         }
         cout << endl;
 
@@ -134,9 +134,9 @@ int main(int, char* []) {
 
         // reprice instruments
         Real nominal = 1000000.0;
-        Handle<DefaultProbabilityTermStructure> probability(hazardRateStructure);
+        Handle<DefaultProbabilityTermStructure> probability(hazardRateStructure);///
         boost::shared_ptr<PricingEngine> engine(
-                  new MidPointCdsEngine(probability, recovery_rate, tsCurve));
+                  new MidPointCdsEngine(probability, recovery_rate, tsCurve));///
 
         Schedule cdsSchedule =
             MakeSchedule().from(todaysDate).to(maturities[0])
@@ -144,7 +144,7 @@ int main(int, char* []) {
                           .withCalendar(calendar)
                           .withTerminationDateConvention(Unadjusted)
                           .withRule(DateGeneration::TwentiethIMM);
-        CreditDefaultSwap cds_3m(Protection::Seller,
+        CreditDefaultSwap cds_3m(Protection::Seller,///
                                  nominal,
                                  quoted_spreads[0],
                                  cdsSchedule,

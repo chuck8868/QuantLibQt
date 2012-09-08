@@ -94,7 +94,7 @@ namespace QuantLib {
              const boost::shared_ptr<GeneralizedBlackScholesProcess>& process,
              Size timeSteps=100, Size gridPoints=100,
              bool timeDependent = false)
-        : base(process, timeSteps, gridPoints,timeDependent) {
+        : base(process, timeSteps, gridPoints, timeDependent) {
             this->registerWith(process);
         }
       private:

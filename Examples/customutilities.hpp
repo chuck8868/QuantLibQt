@@ -53,7 +53,7 @@ using namespace QuantLib;
 
 #include <iostream>
 #ifndef BOOST_MESSAGE
-#define BOOST_MESSAGE(message) std::cout << "\n¡" << message << std::endl;
+#define BOOST_MESSAGE(message) std::cout << "\n" << message << "--------------------------------------------" << std::endl;
 #endif
 #ifndef BOOST_ERROR
 #define BOOST_ERROR(errormessage) std::cout << errormessage << std::endl;
@@ -75,10 +75,10 @@ using namespace QuantLib;
 
 #ifndef LARGE_TITLE
 #define LARGE_TITLE(title) \
-	std::cout << std::endl << std::endl;\
-	std::cout << "=======================================================================" << std::endl;\
-	std::cout << title << std::endl;\
-	std::cout << "=======================================================================" << std::endl;
+    std::cout << std::endl << std::endl;\
+    std::cout << "=======================================================================" << std::endl;\
+    std::cout << title << std::endl;\
+    std::cout << "=======================================================================" << std::endl;
 #endif
 #ifndef BOOST_FAIL
 #define BOOST_FAIL(failmsg) std::cout << failmsg << std::endl;
@@ -87,84 +87,84 @@ using namespace QuantLib;
 
 namespace QuantLib {
 
-	std::string payoffTypeToString(const boost::shared_ptr<Payoff>&);
-	std::string exerciseTypeToString(const boost::shared_ptr<Exercise>&);
+    std::string payoffTypeToString(const boost::shared_ptr<Payoff>&);
+    std::string exerciseTypeToString(const boost::shared_ptr<Exercise>&);
 
 
-	boost::shared_ptr<YieldTermStructure>
-		flatRate(const Date& today,
-		const boost::shared_ptr<Quote>& forward,
-		const DayCounter& dc);
+    boost::shared_ptr<YieldTermStructure>
+        flatRate(const Date& today,
+        const boost::shared_ptr<Quote>& forward,
+        const DayCounter& dc);
 
-	boost::shared_ptr<YieldTermStructure>
-		flatRate(const Date& today,
-		Rate forward,
-		const DayCounter& dc);
+    boost::shared_ptr<YieldTermStructure>
+        flatRate(const Date& today,
+        Rate forward,
+        const DayCounter& dc);
 
-	boost::shared_ptr<YieldTermStructure>
-		flatRate(const boost::shared_ptr<Quote>& forward,
-		const DayCounter& dc);
+    boost::shared_ptr<YieldTermStructure>
+        flatRate(const boost::shared_ptr<Quote>& forward,
+        const DayCounter& dc);
 
-	boost::shared_ptr<YieldTermStructure>
-		flatRate(Rate forward,
-		const DayCounter& dc);
-
-
-	boost::shared_ptr<BlackVolTermStructure>
-		flatVol(const Date& today,
-		const boost::shared_ptr<Quote>& volatility,
-		const DayCounter& dc);
-
-	boost::shared_ptr<BlackVolTermStructure>
-		flatVol(const Date& today,
-		Volatility volatility,
-		const DayCounter& dc);
-
-	boost::shared_ptr<BlackVolTermStructure>
-		flatVol(const boost::shared_ptr<Quote>& volatility,
-		const DayCounter& dc);
-
-	boost::shared_ptr<BlackVolTermStructure>
-		flatVol(Volatility volatility,
-		const DayCounter& dc);
+    boost::shared_ptr<YieldTermStructure>
+        flatRate(Rate forward,
+        const DayCounter& dc);
 
 
-	Real relativeError(Real x1, Real x2, Real reference);
+    boost::shared_ptr<BlackVolTermStructure>
+        flatVol(const Date& today,
+        const boost::shared_ptr<Quote>& volatility,
+        const DayCounter& dc);
 
-	//bool checkAbsError(Real x1, Real x2, Real tolerance){
-	//    return std::fabs(x1 - x2) < tolerance;
-	//};
+    boost::shared_ptr<BlackVolTermStructure>
+        flatVol(const Date& today,
+        Volatility volatility,
+        const DayCounter& dc);
 
-	class Flag : public QuantLib::Observer {
-	private:
-		bool up_;
-	public:
-		Flag() : up_(false) {}
-		void raise() { up_ = true; }
-		void lower() { up_ = false; }
-		bool isUp() const { return up_; }
-		void update() { raise(); }
-	};
+    boost::shared_ptr<BlackVolTermStructure>
+        flatVol(const boost::shared_ptr<Quote>& volatility,
+        const DayCounter& dc);
 
-	template<class Iterator>
-	Real norm(const Iterator& begin, const Iterator& end, Real h) {
-		// squared values
-		std::vector<Real> f2(end-begin);
-		std::transform(begin,end,begin,f2.begin(),
-			std::multiplies<Real>());
-		// numeric integral of f^2
-		Real I = h * (std::accumulate(f2.begin(),f2.end(),0.0)
-			- 0.5*f2.front() - 0.5*f2.back());
-		return std::sqrt(I);
-	}
+    boost::shared_ptr<BlackVolTermStructure>
+        flatVol(Volatility volatility,
+        const DayCounter& dc);
 
 
-	// this cleans up index-fixing histories when destroyed
-	class IndexHistoryCleaner {
-	public:
-		IndexHistoryCleaner();
-		~IndexHistoryCleaner();
-	};
+    Real relativeError(Real x1, Real x2, Real reference);
+
+    //bool checkAbsError(Real x1, Real x2, Real tolerance){
+    //    return std::fabs(x1 - x2) < tolerance;
+    //};
+
+    class Flag : public QuantLib::Observer {
+    private:
+        bool up_;
+    public:
+        Flag() : up_(false) {}
+        void raise() { up_ = true; }
+        void lower() { up_ = false; }
+        bool isUp() const { return up_; }
+        void update() { raise(); }
+    };
+
+    template<class Iterator>
+    Real norm(const Iterator& begin, const Iterator& end, Real h) {
+        // squared values
+        std::vector<Real> f2(end-begin);
+        std::transform(begin,end,begin,f2.begin(),
+            std::multiplies<Real>());
+        // numeric integral of f^2
+        Real I = h * (std::accumulate(f2.begin(),f2.end(),0.0)
+            - 0.5*f2.front() - 0.5*f2.back());
+        return std::sqrt(I);
+    }
+
+
+    // this cleans up index-fixing histories when destroyed
+    class IndexHistoryCleaner {
+    public:
+        IndexHistoryCleaner();
+        ~IndexHistoryCleaner();
+    };
 
 }
 

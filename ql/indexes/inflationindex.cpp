@@ -231,8 +231,8 @@ namespace QuantLib {
                 std::pair<Date,Date> lim = inflationPeriod(fixingDate, frequency_);
                 Date fixMinus1Y=NullCalendar().advance(fixingDate, -1*Years, ModifiedFollowing);
                 std::pair<Date,Date> limBef = inflationPeriod(fixMinus1Y, frequency_);
-                Real dp= lim.second + 1 - lim.first;
-                Real dpBef=limBef.second + 1 - limBef.first;
+                Real dp = lim.second + 1 - lim.first;
+                Real dpBef =limBef.second + 1 - limBef.first;
                 Real dl = fixingDate-lim.first;
                 // potentially does not work on 29th Feb
                 Real dlBef = fixMinus1Y - limBef.first;

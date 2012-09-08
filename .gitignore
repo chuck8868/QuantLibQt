@@ -855,3 +855,10 @@
 /test-suite/volatilitymodels.o
 /test-suite/vpp.o
 /test-suite/writerextensibleoption.o
+/.gitignore~
+/Examples/MiniExamples/Makefile
+/Examples/QuantoOption/Makefile
+/Examples/QuantoOption/QuantoOption.pro.user
+/Examples/QuantoOption/QuantoOption
+/Examples/MiniExamples/MiniExamples.pro.user
+/Examples/MiniExamples/MiniExamples

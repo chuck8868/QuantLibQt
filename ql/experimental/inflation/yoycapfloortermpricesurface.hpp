@@ -104,8 +104,8 @@ namespace QuantLib {
         virtual std::vector<Rate> capStrikes() const {return cStrikes_;}
         virtual std::vector<Rate> floorStrikes() const {return fStrikes_;}
         virtual std::vector<Period> maturities() const {return cfMaturities_;}
-        virtual Rate minStrike() const {return cfStrikes_.front();};
-        virtual Rate maxStrike() const {return cfStrikes_.back();};
+        virtual Rate minStrike() const {return cfStrikes_.front();}
+        virtual Rate maxStrike() const {return cfStrikes_.back();}
         virtual Date minMaturity() const {return referenceDate()+cfMaturities_.front();}// \TODO deal with index interpolation
         virtual Date maxMaturity() const {return referenceDate()+cfMaturities_.back();}
         //@}

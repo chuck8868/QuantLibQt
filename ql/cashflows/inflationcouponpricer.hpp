@@ -29,6 +29,8 @@
 #include <ql/cashflows/yoyinflationcoupon.hpp>
 #include <ql/termstructures/volatility/inflation/yoyinflationoptionletvolatilitystructure.hpp>
 
+#include <ql/termstructures/inflationtermstructure.hpp>
+
 namespace QuantLib {
 
     //! Base inflation-coupon pricer.
@@ -123,6 +125,47 @@ namespace QuantLib {
         Real discount_;
         Real spreadLegValue_;
     };
+
+
+
+    //! Jarrow & Yildirim coupon pricer for yoy inflation swaps
+    class JarrowYildirimYoYInflationCouponPricer
+    : public YoYInflationCouponPricer {
+    public:
+        JarrowYildirimYoYInflationCouponPricer(
+            const Handle<YoYOptionletVolatilitySurface>& capletVol
+                        = Handle<YoYOptionletVolatilitySurface>())
+            : YoYInflationCouponPricer(capletVol) {}
+        virtual ~JarrowYildirimYoYInflationCouponPricer() {}
+
+    protected:
+        Real optionletPriceImp(Option::Type, Real strike,
+                               Real forward, Real stdDev) const;
+        Rate adjustedFixing(Rate fixing = Null<Rate>()) const;
+    };
+
+
+    //! Market Model coupon pricer for yoy inflation coupons
+    /*! \note this is an improved pricer for yoy inflation swaps
+              which account for stochasticity of real interest rates
+    */
+    class MarketModelYoYInflationCouponPricer
+    : public YoYInflationCouponPricer {
+    public:
+        MarketModelYoYInflationCouponPricer(
+            const Handle<YoYOptionletVolatilitySurface>& capletVol
+                        = Handle<YoYOptionletVolatilitySurface>())
+            : YoYInflationCouponPricer(capletVol) {}
+        virtual ~MarketModelYoYInflationCouponPricer() {}
+
+    protected:
+        Real optionletPriceImp(Option::Type, Real strike,
+                               Real forward, Real stdDev) const;
+        Rate adjustedFixing(Rate fixing = Null<Rate>(),
+                            const Handle<YoYInflationTermStructure>& yoyInflTS
+                            = Handle<YoYInflationTermStructure>()) const;
+    };
+
 
 
     //! Black-formula pricer for capped/floored yoy inflation coupons

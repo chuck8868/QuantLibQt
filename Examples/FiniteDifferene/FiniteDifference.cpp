@@ -55,29 +55,30 @@ int main(int, char* []) {
 
         // set up dates
         Calendar calendar = TARGET();
-        Date todaysDate(15, May, 1998);
-        Date settlementDate(17, May, 1998);
+        Date todaysDate(3, September, 2012);
+        Date settlementDate(5, September, 2012);
         Settings::instance().evaluationDate() = todaysDate;
 
         // our options
         Option::Type type(Option::Put);
-        Real underlying = 36;
-        Real strike = 40;
-        Spread dividendYield = 0.00;
-        Rate riskFreeRate = 0.06;
-        Volatility volatility = 0.20;
-        Date maturity(17, May, 1999);
+        Real underlying = 10000;
+        Real strike = 12000;
+        Spread dividendYield = 0.015;
+        Rate riskFreeRate = 0.009;
+        Volatility volatility = 0.25;
+        Date maturity(3, September, 2013);
         DayCounter dayCounter = Actual365Fixed();
 
-        std::cout << "Option type = "  << type << std::endl;
-        std::cout << "Maturity = "        << maturity << std::endl;
-        std::cout << "Underlying price = "        << underlying << std::endl;
-        std::cout << "Strike = "                  << strike << std::endl;
-        std::cout << "Risk-free interest rate = " << io::rate(riskFreeRate)
+        std::cout << std::setw(30) << "Valuation date = " << todaysDate << std::endl;
+        std::cout << std::setw(30) << "Maturity = " << maturity << std::endl;
+        std::cout << std::setw(30) << "Option type = " << type << std::endl;
+        std::cout << std::setw(30) << "Underlying price = " << underlying << std::endl;
+        std::cout << std::setw(30) << "Strike = " << strike << std::endl;
+        std::cout << std::setw(30) << "Risk-free interest rate = " << io::rate(riskFreeRate)
                   << std::endl;
-        std::cout << "Dividend yield = " << io::rate(dividendYield)
+        std::cout  << std::setw(30)<< "Dividend yield = " << io::rate(dividendYield)
                   << std::endl;
-        std::cout << "Volatility = " << io::volatility(volatility)
+        std::cout << std::setw(30) << "Volatility = " << io::volatility(volatility)
                   << std::endl;
         std::cout << std::endl;
         std::string method;
