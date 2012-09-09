@@ -1,0 +1,27 @@
+var class_quant_lib_1_1_general_statistics =
+[
+    [ "value_type", "class_quant_lib_1_1_general_statistics.html#a9cfab8f9d6dc763face39d4b140681c1", null ],
+    [ "GeneralStatistics", "class_quant_lib_1_1_general_statistics.html#a19132ea5de695430bf73bd5dcf7a34fb", null ],
+    [ "add", "class_quant_lib_1_1_general_statistics.html#ad3a191db3b8499fe3ca40b2767566c37", null ],
+    [ "addSequence", "class_quant_lib_1_1_general_statistics.html#a53c28bde7870633108e7384152052705", null ],
+    [ "addSequence", "class_quant_lib_1_1_general_statistics.html#a5806e20a12af06926ccd9e9faec4b01b", null ],
+    [ "data", "class_quant_lib_1_1_general_statistics.html#a43d9cd1b98c5362a6660376c2eeac8ca", null ],
+    [ "errorEstimate", "class_quant_lib_1_1_general_statistics.html#af6a95e6f21454454e9f8f7caba211f8f", null ],
+    [ "expectationValue", "class_quant_lib_1_1_general_statistics.html#ad1ec10e8d14e88a4993c8db00f23eae9", null ],
+    [ "kurtosis", "class_quant_lib_1_1_general_statistics.html#a41c8eb4430989243a60197feae9a4896", null ],
+    [ "max", "class_quant_lib_1_1_general_statistics.html#adcdf66392afa5676b21f15efe26e3170", null ],
+    [ "mean", "class_quant_lib_1_1_general_statistics.html#a054bb4330c1dcde6176dd281f76e87a1", null ],
+    [ "min", "class_quant_lib_1_1_general_statistics.html#a548ee074abbf1a6721130ab2a2ffff96", null ],
+    [ "percentile", "class_quant_lib_1_1_general_statistics.html#a08f16684bb34487191bb79865909879a", null ],
+    [ "reserve", "class_quant_lib_1_1_general_statistics.html#a19f3286276added2bcc1bbce8181ddfa", null ],
+    [ "reset", "class_quant_lib_1_1_general_statistics.html#a3e240328f09a7420ca357bd6ccad6ef3", null ],
+    [ "samples", "class_quant_lib_1_1_general_statistics.html#a77b13ae371552c003883877af6ac4461", null ],
+    [ "skewness", "class_quant_lib_1_1_general_statistics.html#a65f96cef3e72ce646b39ecf082350de3", null ],
+    [ "sort", "class_quant_lib_1_1_general_statistics.html#ab2f3e692e6cae6647b9298aa619ac8cb", null ],
+    [ "standardDeviation", "class_quant_lib_1_1_general_statistics.html#a9691efff37837ba141fd4881744d9ba9", null ],
+    [ "topPercentile", "class_quant_lib_1_1_general_statistics.html#a335c661a237d17b9531b83428d6e4777", null ],
+    [ "variance", "class_quant_lib_1_1_general_statistics.html#a22b0e28066fefb55028ff82c5783eb34", null ],
+    [ "weightSum", "class_quant_lib_1_1_general_statistics.html#a99e580b721f38dcf012166d6fc84cbd7", null ],
+    [ "samples_", "class_quant_lib_1_1_general_statistics.html#a83451c61e1bc67b8090a242e75dd0e61", null ],
+    [ "sorted_", "class_quant_lib_1_1_general_statistics.html#a27f5cdb9e60ccdc4bcb7e8ceef768e9a", null ]
+];

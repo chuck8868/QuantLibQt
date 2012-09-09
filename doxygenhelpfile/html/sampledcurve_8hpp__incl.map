@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$array_8hpp.html" title="1&#45;D array used in linear algebra." alt="" coords="767,237,889,267"/>
+<area shape="rect" id="node59" href="$grid_8hpp.html" title="Grid constructors." alt="" coords="865,83,948,112"/>
+<area shape="rect" id="node62" href="$cubicinterpolation_8hpp.html" title="cubic interpolation between discrete points" alt="" coords="1216,83,1491,112"/>
+<area shape="rect" id="node5" href="$types_8hpp.html" title="Custom types." alt="" coords="791,392,884,421"/>
+<area shape="rect" id="node25" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="1457,315,1551,344"/>
+<area shape="rect" id="node38" href="$disposable_8hpp.html" title="generic disposable object with move semantics" alt="" coords="908,392,1076,421"/>
+<area shape="rect" id="node41" href="$null_8hpp.html" title="null values" alt="" coords="207,315,332,344"/>
+<area shape="rect" id="node7" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="996,469,1108,499"/>
+<area shape="rect" id="node13" href="$config_8ansi_8hpp_source.html" title="ql/config.ansi.hpp" alt="" coords="991,547,1113,576"/>
+<area shape="rect" id="node17" href="$mathconstants_8hpp_source.html" title="ql/mathconstants.hpp" alt="" coords="1137,547,1284,576"/>
+<area shape="rect" id="node15" href="$userconfig_8hpp_source.html" title="ql/userconfig.hpp" alt="" coords="992,624,1112,653"/>
+<area shape="rect" id="node64" href="$matrix_8hpp.html" title="matrix used in linear algebra." alt="" coords="972,160,1103,189"/>
+<area shape="rect" id="node72" href="$interpolation_8hpp.html" title="base class for 1&#45;D interpolations" alt="" coords="1547,237,1709,267"/>
+<area shape="rect" id="node83" href="$tridiagonaloperator_8hpp.html" title="tridiagonal operator" alt="" coords="1195,160,1512,189"/>
+<area shape="rect" id="node67" href="$steppingiterator_8hpp.html" title="Iterator advancing in constant steps." alt="" coords="940,237,1135,267"/>
+<area shape="rect" id="node74" href="$extrapolation_8hpp.html" title="class&#45;wide extrapolation settings" alt="" coords="1855,392,2103,421"/>
+<area shape="rect" id="node77" href="$comparison_8hpp.html" title="floating&#45;point comparisons" alt="" coords="1273,315,1433,344"/>
+</map>

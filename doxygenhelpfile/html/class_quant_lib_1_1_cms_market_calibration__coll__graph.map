@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; SwaptionVolatilityStructure \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="5,951,309,1227"/>
+<area shape="rect" id="node6" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="153,158,436,434"/>
+<area shape="rect" id="node17" href="$class_quant_lib_1_1_matrix.html" title="Matrix used in linear algebra." alt="" coords="845,518,1027,1661"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$bootstraphelper_8hpp.html" title="base helper class used for bootstrapping" alt="" coords="601,83,839,112"/>
+<area shape="rect" id="node88" href="$costfunction_8hpp.html" title="Optimization cost function class." alt="" coords="1189,237,1427,267"/>
+<area shape="rect" id="node110" href="$constraint_8hpp.html" title="Abstract constraint class." alt="" coords="1040,160,1264,189"/>
+<area shape="rect" id="node113" href="$armijo_8hpp.html" title="Armijo line&#45;search class." alt="" coords="1696,83,1899,112"/>
+<area shape="rect" id="node122" href="$levenbergmarquardt_8hpp.html" title="Levenberg&#45;Marquardt optimization method." alt="" coords="1389,83,1672,112"/>
+<area shape="rect" id="node124" href="$problem_8hpp.html" title="Abstract optimization problem class." alt="" coords="1381,160,1595,189"/>
+<area shape="rect" id="node131" href="$dataformatters_8hpp.html" title="output manipulators" alt="" coords="1855,315,2044,344"/>
+<area shape="rect" id="node5" href="$quote_8hpp.html" title="purely virtual base class for market observables" alt="" coords="611,237,704,267"/>
+<area shape="rect" id="node7" href="$handle_8hpp.html" title="Globally accessible relinkable pointer." alt="" coords="520,315,619,344"/>
+<area shape="rect" id="node9" href="$observable_8hpp.html" title="observer/observable pattern" alt="" coords="316,392,489,421"/>
+<area shape="rect" id="node45" href="$date_8hpp.html" title="date&#45; and time&#45;related classes, typedefs and enumerations" alt="" coords="945,315,1060,344"/>
+<area shape="rect" id="node70" href="$visitor_8hpp.html" title="degenerate base class for the Acyclic Visitor pattern" alt="" coords="819,160,965,189"/>
+<area shape="rect" id="node73" href="$simplequote_8hpp.html" title="simple quote class" alt="" coords="571,160,744,189"/>
+<area shape="rect" id="node76" href="$settings_8hpp.html" title="global repository for run&#45;time library settings" alt="" coords="292,237,399,267"/>
+<area shape="rect" id="node11" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="468,469,561,499"/>
+<area shape="rect" id="node40" href="$null_8hpp.html" title="null values" alt="" coords="1145,392,1271,421"/>
+<area shape="rect" id="node31" href="$types_8hpp.html" title="Custom types." alt="" coords="585,469,679,499"/>
+<area shape="rect" id="node13" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="881,547,993,576"/>
+<area shape="rect" id="node19" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="1024,624,1147,653"/>
+<area shape="rect" id="node47" href="$ql_2time_2period_8hpp.html" title="ql/time/period.hpp" alt="" coords="996,392,1121,421"/>
+<area shape="rect" id="node59" href="$weekday_8hpp.html" title="Weekday enumeration." alt="" coords="945,469,1087,499"/>
+<area shape="rect" id="node49" href="$frequency_8hpp.html" title="Frequency enumeration." alt="" coords="1111,469,1257,499"/>
+<area shape="rect" id="node54" href="$timeunit_8hpp.html" title="TimeUnit enumeration." alt="" coords="1281,469,1417,499"/>
+<area shape="rect" id="node78" href="$singleton_8hpp.html" title="basic support for the singleton pattern" alt="" coords="127,392,289,421"/>
+<area shape="rect" id="node83" href="$observablevalue_8hpp.html" title="observable and assignable proxy to concrete value" alt="" coords="245,315,445,344"/>
+<area shape="rect" id="node90" href="$ql_2math_2array_8hpp.html" title="ql/math/array.hpp" alt="" coords="1293,315,1416,344"/>
+<area shape="rect" id="node94" href="$disposable_8hpp.html" title="generic disposable object with move semantics" alt="" coords="703,469,871,499"/>
+<area shape="rect" id="node115" href="$linesearch_8hpp.html" title="Line search abstract class." alt="" coords="1451,237,1677,267"/>
+<area shape="rect" id="node118" href="$endcriteria_8hpp.html" title="Optimization criteria class." alt="" coords="1528,315,1755,344"/>
+<area shape="rect" id="node126" href="$method_8hpp.html" title="Abstract optimization method class." alt="" coords="1701,237,1912,267"/>
+</map>

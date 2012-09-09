@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_energy_swap.html" title="{QuantLib::EnergySwap\n|# calendar_\l# payCurrency_\l# receiveCurrency_\l# pricingPeriods_\l# dailyPositions_\l# paymentCashFlows_\l|+ EnergySwap()\l+ isExpired()\l+ calendar()\l+ payCurrency()\l+ receiveCurrency()\l+ pricingPeriods()\l+ dailyPositions()\l+ paymentCashFlows()\l+ commodityType()\l+ quantity()\l}" alt="" coords="1782,3837,1940,4165"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_energy_commodity.html" title="Energy commodity class." alt="" coords="1744,3495,1978,3719"/>
+<area shape="rect" id="node6" href="$class_quant_lib_1_1_commodity.html" title="Commodity base class." alt="" coords="2260,3187,2441,3376"/>
+<area shape="rect" id="node8" href="$class_quant_lib_1_1_instrument.html" title="Abstract instrument class." alt="" coords="3090,2499,3248,3104"/>
+<area shape="rect" id="node10" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="3028,2034,3182,2275"/>
+<area shape="rect" id="node12" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="2950,1068,3097,1257"/>
+<area shape="rect" id="node16" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="3137,157,3270,347"/>
+<area shape="rect" id="node21" href="$classbool.html" title="{bool\n||}" alt="" coords="3121,1120,3166,1205"/>
+<area shape="rect" id="node88" href="$struct_quant_lib_1_1_energy_daily_position.html" title="{QuantLib::EnergyDailyPosition\n|+ date\l+ quantityAmount\l+ payLegPrice\l+ receiveLegPrice\l+ riskDelta\l+ unrealized\l|+ EnergyDailyPosition()\l+ EnergyDailyPosition()\l}" alt="" coords="3554,2060,3754,2249"/>
+<area shape="rect" id="node58" href="$class_quant_lib_1_1_money.html" title="amount of cash" alt="" coords="260,1878,385,2431"/>
+<area shape="rect" id="node25" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="3666,565,3840,1760"/>
+<area shape="rect" id="node33" title="STL class." alt="" coords="2088,1120,2168,1205"/>
+<area shape="rect" id="node47" href="$struct_quant_lib_1_1_pricing_error.html" title="{QuantLib::PricingError\n|+ errorLevel\l+ tradeId\l+ error\l+ detail\l|+ PricingError()\l}" alt="" coords="2665,2086,2814,2223"/>
+<area shape="rect" id="node35" title="STL class." alt="" coords="2045,413,2210,499"/>
+<area shape="rect" id="node39" title="STL class." alt="" coords="1872,1111,1994,1214"/>
+<area shape="rect" id="node52" title="STL class." alt="" coords="2838,2112,2953,2197"/>
+<area shape="rect" id="node113" href="$class_quant_lib_1_1_commodity_unit_cost.html" title="{QuantLib::CommodityUnitCost\n|&#45; amount_\l&#45; unitOfMeasure_\l|+ CommodityUnitCost()\l+ CommodityUnitCost()\l+ amount()\l+ unitOfMeasure()\l}" alt="" coords="157,3204,357,3359"/>
+<area shape="rect" id="node60" href="$class_quant_lib_1_1_currency.html" title="Currency specification" alt="" coords="294,947,460,1379"/>
+<area shape="rect" id="node70" href="$class_quant_lib_1_1_commodity_type.html" title="commodity type" alt="" coords="1037,2689,1216,2913"/>
+<area shape="rect" id="node116" href="$class_quant_lib_1_1_unit_of_measure.html" title="Unit of measure specification" alt="" coords="157,2637,357,2965"/>
+<area shape="rect" id="node94" href="$class_quant_lib_1_1_calendar.html" title="calendar class" alt="" coords="1345,3443,1518,3771"/>
+<area shape="rect" id="node103" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; YieldTermStructure \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="3028,3863,3310,4139"/>
+<area shape="rect" id="node107" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="3028,3469,3310,3745"/>
+</map>

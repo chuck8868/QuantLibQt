@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_singleton.html" title="{QuantLib::Singleton\&lt; Settings \&gt;\n||+ instance()\l# Singleton()\l}" alt="" coords="5,1753,213,1855"/>
+<area shape="rect" id="node4" href="$classboost_1_1noncopyable.html" title="{noncopyable\n||}" alt="" coords="103,712,196,797"/>
+<area shape="rect" id="node6" href="$class_quant_lib_1_1_singleton.html" title="Basic support for the singleton pattern." alt="" coords="145,1497,313,1599"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_settings_1_1_date_proxy.html" title="{QuantLib::Settings::DateProxy\n||+ DateProxy()\l+ operator=()\l+ operator Date()\l}" alt="" coords="383,1744,583,1864"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_observable_value.html" title="{QuantLib::ObservableValue\&lt; Date \&gt;\n|&#45; value_\l&#45; observable_\l|+ ObservableValue()\l+ ObservableValue()\l+ ObservableValue()\l+ operator Date()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ value()\l+ operator=()\l+ operator=()\l* operator=()\l* operator=()\l}" alt="" coords="341,1419,624,1677"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="261,157,435,1352"/>
+<area shape="rect" id="node21" href="$class_quant_lib_1_1_observable_value.html" title="observable and assignable proxy to concrete value" alt="" coords="581,625,864,884"/>
+<area shape="rect" id="node26" href="$classbool.html" title="{bool\n||}" alt="" coords="607,1761,652,1847"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$fdmlinearoplayout_8hpp.html" title="memory layout of a fdm linear operator" alt="" coords="480,83,851,112"/>
+<area shape="rect" id="node5" href="$fdmlinearopiterator_8hpp.html" title="iterator for a linear fdm operator" alt="" coords="352,160,728,189"/>
+<area shape="rect" id="node7" href="$types_8hpp.html" title="Custom types." alt="" coords="444,237,537,267"/>
+<area shape="rect" id="node27" href="$disposable_8hpp.html" title="generic disposable object with move semantics" alt="" coords="252,237,420,267"/>
+<area shape="rect" id="node9" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="301,315,413,344"/>
+<area shape="rect" id="node15" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="296,392,419,421"/>
+<area shape="rect" id="node19" href="$mathconstants_8hpp.html" title="ql/mathconstants.hpp" alt="" coords="443,392,589,421"/>
+<area shape="rect" id="node17" href="$userconfig_8hpp.html" title="ql/userconfig.hpp" alt="" coords="297,469,417,499"/>
+</map>

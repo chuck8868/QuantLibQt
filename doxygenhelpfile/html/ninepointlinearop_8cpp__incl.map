@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$fdmmesher_8hpp.html" title="mesher for a fdm grid" alt="" coords="5,237,336,267"/>
+<area shape="rect" id="node63" href="$fdmlinearoplayout_8hpp.html" title="memory layout of a fdm linear operator" alt="" coords="360,237,731,267"/>
+<area shape="rect" id="node72" href="$ninepointlinearop_8hpp.html" title="nine point linear operator" alt="" coords="609,83,975,112"/>
+<area shape="rect" id="node5" href="$ql_2math_2array_8hpp.html" title="ql/math/array.hpp" alt="" coords="772,315,895,344"/>
+<area shape="rect" id="node7" href="$types_8hpp.html" title="Custom types." alt="" coords="1169,469,1263,499"/>
+<area shape="rect" id="node27" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="656,392,749,421"/>
+<area shape="rect" id="node40" href="$disposable_8hpp.html" title="generic disposable object with move semantics" alt="" coords="464,392,632,421"/>
+<area shape="rect" id="node43" href="$null_8hpp.html" title="null values" alt="" coords="875,392,1000,421"/>
+<area shape="rect" id="node9" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="709,547,821,576"/>
+<area shape="rect" id="node15" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="704,624,827,653"/>
+<area shape="rect" id="node19" href="$mathconstants_8hpp.html" title="ql/mathconstants.hpp" alt="" coords="851,624,997,653"/>
+<area shape="rect" id="node17" href="$userconfig_8hpp.html" title="ql/userconfig.hpp" alt="" coords="705,701,825,731"/>
+<area shape="rect" id="node65" href="$fdmlinearopiterator_8hpp.html" title="iterator for a linear fdm operator" alt="" coords="357,315,733,344"/>
+<area shape="rect" id="node74" href="$sparsematrix_8hpp.html" title="typedef for boost sparse matrix class" alt="" coords="956,237,1207,267"/>
+<area shape="rect" id="node80" href="$ql_2methods_2finitedifferences_2operators_2fdmlinearop_8hpp.html" title="ql/methods/finitedifferences/operators/fdmlinearop.hpp" alt="" coords="708,160,1044,189"/>
+</map>

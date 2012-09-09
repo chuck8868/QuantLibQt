@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_optimization_method.html" title="Abstract class for constrained optimization method." alt="" coords="5,1738,203,1841"/>
+<area shape="rect" id="node8" href="$class_quant_lib_1_1_problem.html" title="Constrained optimization problem." alt="" coords="495,1608,641,1971"/>
+<area shape="rect" id="node12" href="$class_quant_lib_1_1_cost_function.html" title="Cost function abstract class for optimization problem." alt="" coords="648,755,821,927"/>
+<area shape="rect" id="node14" href="$class_quant_lib_1_1_constraint.html" title="Base constraint class." alt="" coords="483,773,624,910"/>
+<area shape="rect" id="node18" href="$class_quant_lib_1_1_array.html" title="1&#45;D array used in linear algebra." alt="" coords="855,157,967,1525"/>
+</map>

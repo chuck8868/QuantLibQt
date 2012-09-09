@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$fdmlinearoplayout_8hpp.html" title="memory layout of a fdm linear operator" alt="" coords="496,160,867,189"/>
+<area shape="rect" id="node36" href="$uniformgridmesher_8hpp.html" title="uniform grid mesher" alt="" coords="871,83,1241,112"/>
+<area shape="rect" id="node5" href="$fdmlinearopiterator_8hpp.html" title="iterator for a linear fdm operator" alt="" coords="1107,237,1483,267"/>
+<area shape="rect" id="node7" href="$types_8hpp.html" title="Custom types." alt="" coords="1127,392,1220,421"/>
+<area shape="rect" id="node27" href="$disposable_8hpp.html" title="generic disposable object with move semantics" alt="" coords="1211,315,1379,344"/>
+<area shape="rect" id="node9" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="1061,469,1173,499"/>
+<area shape="rect" id="node15" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="1056,547,1179,576"/>
+<area shape="rect" id="node19" href="$mathconstants_8hpp.html" title="ql/mathconstants.hpp" alt="" coords="1203,547,1349,576"/>
+<area shape="rect" id="node17" href="$userconfig_8hpp.html" title="ql/userconfig.hpp" alt="" coords="1057,624,1177,653"/>
+<area shape="rect" id="node38" href="$fdmmesher_8hpp.html" title="mesher for a fdm grid" alt="" coords="891,160,1221,189"/>
+<area shape="rect" id="node40" href="$ql_2math_2array_8hpp.html" title="ql/math/array.hpp" alt="" coords="936,237,1059,267"/>
+<area shape="rect" id="node43" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="328,315,421,344"/>
+<area shape="rect" id="node57" href="$null_8hpp.html" title="null values" alt="" coords="1011,315,1136,344"/>
+</map>

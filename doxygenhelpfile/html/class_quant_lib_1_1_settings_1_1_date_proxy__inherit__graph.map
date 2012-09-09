@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_observable_value.html" title="{QuantLib::ObservableValue\&lt; Date \&gt;\n|&#45; value_\l&#45; observable_\l|+ ObservableValue()\l+ ObservableValue()\l+ ObservableValue()\l+ operator Date()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ value()\l+ operator=()\l+ operator=()\l* operator=()\l* operator=()\l}" alt="" coords="5,331,288,589"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_observable_value.html" title="observable and assignable proxy to concrete value" alt="" coords="5,5,288,264"/>
+</map>

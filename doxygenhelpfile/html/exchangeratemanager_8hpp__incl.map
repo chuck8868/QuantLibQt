@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ql_2exchangerate_8hpp.html" title="ql/exchangerate.hpp" alt="" coords="865,83,1004,112"/>
+<area shape="rect" id="node53" href="$date_8hpp.html" title="date&#45; and time&#45;related classes, typedefs and enumerations" alt="" coords="1177,237,1292,267"/>
+<area shape="rect" id="node74" href="$singleton_8hpp.html" title="basic support for the singleton pattern" alt="" coords="1051,83,1213,112"/>
+<area shape="rect" id="node5" href="$ql_2money_8hpp.html" title="ql/money.hpp" alt="" coords="631,160,729,189"/>
+<area shape="rect" id="node46" href="$null_8hpp.html" title="null values" alt="" coords="909,315,1035,344"/>
+<area shape="rect" id="node7" href="$currency_8hpp.html" title="Currency specification." alt="" coords="623,237,732,267"/>
+<area shape="rect" id="node9" href="$ql_2math_2rounding_8hpp.html" title="ql/math/rounding.hpp" alt="" coords="643,315,784,344"/>
+<area shape="rect" id="node31" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="367,315,460,344"/>
+<area shape="rect" id="node11" href="$types_8hpp.html" title="Custom types." alt="" coords="811,392,904,421"/>
+<area shape="rect" id="node13" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="1108,469,1220,499"/>
+<area shape="rect" id="node19" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="1103,547,1225,576"/>
+<area shape="rect" id="node23" href="$mathconstants_8hpp.html" title="ql/mathconstants.hpp" alt="" coords="1249,547,1396,576"/>
+<area shape="rect" id="node21" href="$userconfig_8hpp.html" title="ql/userconfig.hpp" alt="" coords="1104,624,1224,653"/>
+<area shape="rect" id="node55" href="$ql_2time_2period_8hpp.html" title="ql/time/period.hpp" alt="" coords="1136,315,1261,344"/>
+<area shape="rect" id="node66" href="$weekday_8hpp.html" title="Weekday enumeration." alt="" coords="1427,392,1568,421"/>
+<area shape="rect" id="node57" href="$frequency_8hpp.html" title="Frequency enumeration." alt="" coords="1256,392,1403,421"/>
+<area shape="rect" id="node61" href="$timeunit_8hpp.html" title="TimeUnit enumeration." alt="" coords="1096,392,1232,421"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_asset_swap_1_1arguments.html" title="Arguments for asset swap calculation" alt="" coords="5,336,224,560"/>
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_c_p_i_swap_1_1arguments.html" title="Arguments for swap calculation" alt="" coords="248,388,453,508"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_vanilla_swap_1_1arguments.html" title="Arguments for simple swap calculation" alt="" coords="477,310,699,586"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_year_on_year_inflation_swap_1_1arguments.html" title="Arguments for YoY swap calculation" alt="" coords="723,310,1024,586"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_zero_coupon_inflation_swap_1_1arguments.html" title="{QuantLib::ZeroCouponInflationSwap::arguments\n|+ fixedRate\l|+ validate()\l}" alt="" coords="1048,405,1349,491"/>
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_pricing_engine_1_1arguments.html" title="{QuantLib::PricingEngine::arguments\n||+ ~arguments()\l+ validate()\l}" alt="" coords="473,6,703,109"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_swaption_1_1arguments.html" title="Arguments for swaption calculation" alt="" coords="485,635,691,755"/>
+</map>

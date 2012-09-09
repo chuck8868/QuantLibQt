@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$indexes_2all_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/indexes/all.hpp" alt="" coords="3111,392,3473,421"/>
+<area shape="rect" id="node7" href="$inflationindex_8hpp.html" title="base classes for inflation indexes" alt="" coords="3897,83,4324,112"/>
+<area shape="rect" id="node159" href="$region_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/indexes/region.cpp" alt="" coords="4348,83,4732,112"/>
+<area shape="rect" id="node5" href="$quantlib_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/quantlib.hpp" alt="" coords="3119,469,3465,499"/>
+<area shape="rect" id="node9" href="$cpicoupon_8hpp.html" title="Coupon paying a zero&#45;inflation index." alt="" coords="1453,160,1875,189"/>
+<area shape="rect" id="node26" href="$cpibond_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/instruments/bonds/cpibond.cpp" alt="" coords="24,315,480,344"/>
+<area shape="rect" id="node38" href="$cpicapfloor_8hpp.html" title="zero&#45;inflation&#45;indexed&#45;ratio&#45;with&#45;base option" alt="" coords="2085,237,2520,267"/>
+<area shape="rect" id="node48" href="$cpicapfloor_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/instruments/cpicapfloor.cpp" alt="" coords="1752,315,2187,344"/>
+<area shape="rect" id="node51" href="$cpiswap_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/instruments/cpiswap.cpp" alt="" coords="504,315,925,344"/>
+<area shape="rect" id="node61" href="$inflationcoupon_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/cashflows/inflationcoupon.cpp" alt="" coords="6261,315,6712,344"/>
+<area shape="rect" id="node63" href="$yoyinflationcoupon_8hpp.html" title="Coupon paying a yoy inflation index." alt="" coords="4173,160,4645,189"/>
+<area shape="rect" id="node88" href="$yearonyearinflationswap_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/instruments/yearonyearinflationswap.cpp" alt="" coords="6196,237,6708,267"/>
+<area shape="rect" id="node93" href="$cpicapfloortermpricesurface_8hpp.html" title="cpi inflation cap and floor term price structure. N.B. cpi cap/floors have a single (one) flow (unlik..." alt="" coords="6736,315,7323,344"/>
+<area shape="rect" id="node100" href="$genericindexes_8hpp.html" title="Generic inflation indexes." alt="" coords="8181,237,8696,267"/>
+<area shape="rect" id="node107" href="$yoycapfloortermpricesurface_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/experimental/inflation/yoycapfloortermpricesurface.hpp" alt="" coords="6949,160,7541,189"/>
+<area shape="rect" id="node119" href="$aucpi_8hpp.html" title="Australian CPI inflation indexes." alt="" coords="3115,160,3544,189"/>
+<area shape="rect" id="node124" href="$euhicp_8hpp.html" title="EU HICP index." alt="" coords="4715,237,5152,267"/>
+<area shape="rect" id="node131" href="$frhicp_8hpp.html" title="French HICP inflation indexes." alt="" coords="3568,160,3997,189"/>
+<area shape="rect" id="node134" href="$ukrpi_8hpp.html" title="UKRPI index" alt="" coords="3725,237,4152,267"/>
+<area shape="rect" id="node143" href="$uscpi_8hpp.html" title="US CPI index." alt="" coords="2661,160,3091,189"/>
+<area shape="rect" id="node146" href="$inflationindex_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/indexes/inflationindex.cpp" alt="" coords="4669,160,5096,189"/>
+<area shape="rect" id="node153" href="$zerocouponinflationswap_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/instruments/zerocouponinflationswap.cpp" alt="" coords="5120,160,5635,189"/>
+<area shape="rect" id="node155" href="$inflationhelpers_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/termstructures/inflation/inflationhelpers.cpp" alt="" coords="5659,160,6184,189"/>
+<area shape="rect" id="node157" href="$inflationtermstructure_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/termstructures/inflationtermstructure.cpp" alt="" coords="6208,160,6717,189"/>
+<area shape="rect" id="node11" href="$cashflows_2all_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/cashflows/all.hpp" alt="" coords="3703,392,4079,421"/>
+<area shape="rect" id="node14" href="$cpicoupon_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/cashflows/cpicoupon.cpp" alt="" coords="1711,392,2132,421"/>
+<area shape="rect" id="node16" href="$cpicouponpricer_8hpp.html" title="zero inflation&#45;coupon pricer" alt="" coords="2413,315,2867,344"/>
+<area shape="rect" id="node22" href="$inflationcpicapfloor_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/test&#45;suite/inflationcpicapfloor.cpp" alt="" coords="2156,392,2609,421"/>
+<area shape="rect" id="node24" href="$inflationcpiswap_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/test&#45;suite/inflationcpiswap.cpp" alt="" coords="839,392,1276,421"/>
+<area shape="rect" id="node28" href="$cpibond_8hpp.html" title="zero&#45;inflation&#45;indexed&#45;ratio&#45;with&#45;base bond" alt="" coords="1171,237,1627,267"/>
+<area shape="rect" id="node53" href="$cpiswap_8hpp.html" title="zero&#45;inflation&#45;indexed&#45;ratio&#45;with&#45;base swap" alt="" coords="725,237,1147,267"/>
+<area shape="rect" id="node20" href="$cpicouponpricer_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/cashflows/cpicouponpricer.cpp" alt="" coords="2633,392,3087,421"/>
+<area shape="rect" id="node30" href="$instruments_2bonds_2all_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/instruments/bonds/all.hpp" alt="" coords="1101,315,1525,344"/>
+<area shape="rect" id="node32" href="$instruments_2all_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/instruments/all.hpp" alt="" coords="1300,392,1687,421"/>
+<area shape="rect" id="node40" href="$cpicapfloorengines_8hpp.html" title="Engines for CPI options." alt="" coords="3528,315,4064,344"/>
+<area shape="rect" id="node42" href="$experimental_2inflation_2all_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/experimental/inflation/all.hpp" alt="" coords="7464,392,7904,421"/>
+<area shape="rect" id="node44" href="$cpicapfloorengines_8cpp.html" title="Engines for CPI options." alt="" coords="4775,392,5311,421"/>
+<area shape="rect" id="node66" href="$capflooredinflationcoupon_8hpp.html" title="caplet and floorlet pricing for YoY inflation coupons" alt="" coords="5677,315,6187,344"/>
+<area shape="rect" id="node72" href="$inflationcouponpricer_8hpp.html" title="inflation&#45;coupon pricers" alt="" coords="5277,237,5760,267"/>
+<area shape="rect" id="node77" href="$inflation_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/test&#45;suite/inflation.cpp" alt="" coords="5213,315,5603,344"/>
+<area shape="rect" id="node79" href="$inflationcapflooredcoupon_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/test&#45;suite/inflationcapflooredcoupon.cpp" alt="" coords="4648,315,5139,344"/>
+<area shape="rect" id="node82" href="$ql_2instruments_2inflationcapfloor_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/instruments/inflationcapfloor.hpp" alt="" coords="4176,237,4640,267"/>
+<area shape="rect" id="node85" href="$test-suite_2inflationcapfloor_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/test&#45;suite/inflationcapfloor.cpp" alt="" coords="4189,315,4624,344"/>
+<area shape="rect" id="node69" href="$inflationvolatility_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/test&#45;suite/inflationvolatility.cpp" alt="" coords="6005,392,6443,421"/>
+<area shape="rect" id="node97" href="$cpicapfloortermpricesurface_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/experimental/inflation/cpicapfloortermpricesurface.cpp" alt="" coords="6736,392,7323,421"/>
+<area shape="rect" id="node103" href="$interpolatedyoyoptionletstripper_8hpp.html" title="interpolated yoy inflation&#45;cap stripping" alt="" coords="7499,315,8107,344"/>
+<area shape="rect" id="node110" href="$yoycapfloortermpricesurface_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/experimental/inflation/yoycapfloortermpricesurface.cpp" alt="" coords="6949,237,7541,267"/>
+<area shape="rect" id="node112" href="$yoyoptionletstripper_8hpp.html" title="yoy inflation&#45;cap stripping" alt="" coords="7565,237,8107,267"/>
+<area shape="rect" id="node121" href="$indexes_2inflation_2all_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/indexes/inflation/all.hpp" alt="" coords="2992,315,3403,344"/>
+</map>

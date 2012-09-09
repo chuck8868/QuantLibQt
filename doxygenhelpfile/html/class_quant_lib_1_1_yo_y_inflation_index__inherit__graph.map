@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_y_y_a_u_c_p_i.html" title="Genuine year&#45;on&#45;year AU CPI (i.e. not a ratio)" alt="" coords="5,1563,147,1648"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_y_y_a_u_c_p_ir.html" title="Fake year&#45;on&#45;year AUCPI (i.e. a ratio)" alt="" coords="171,1563,317,1648"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_y_y_e_u_h_i_c_p.html" title="Genuine year&#45;on&#45;year EU HICP (i.e. not a ratio of EU HICP)" alt="" coords="341,1563,493,1648"/>
+<area shape="rect" id="node17" href="$class_quant_lib_1_1_y_y_e_u_h_i_c_pr.html" title="Fake year&#45;on&#45;year EU HICP (i.e. a ratio of EU HICP)" alt="" coords="517,1563,672,1648"/>
+<area shape="rect" id="node19" href="$class_quant_lib_1_1_y_y_e_u_h_i_c_p_x_t.html" title="Genuine year&#45;on&#45;year EU HICPXT." alt="" coords="696,1563,864,1648"/>
+<area shape="rect" id="node21" href="$class_quant_lib_1_1_y_y_f_r_h_i_c_p.html" title="Genuine year&#45;on&#45;year FR HICP (i.e. not a ratio)" alt="" coords="888,1563,1037,1648"/>
+<area shape="rect" id="node23" href="$class_quant_lib_1_1_y_y_f_r_h_i_c_pr.html" title="Fake year&#45;on&#45;year FR HICP (i.e. a ratio)" alt="" coords="1061,1563,1216,1648"/>
+<area shape="rect" id="node25" href="$class_quant_lib_1_1_y_y_generic_c_p_i.html" title="Genuine year&#45;on&#45;year Generic CPI (i.e. not a ratio)" alt="" coords="1240,1563,1408,1648"/>
+<area shape="rect" id="node27" href="$class_quant_lib_1_1_y_y_generic_c_p_ir.html" title="Fake year&#45;on&#45;year GenericCPI (i.e. a ratio)" alt="" coords="1432,1563,1603,1648"/>
+<area shape="rect" id="node29" href="$class_quant_lib_1_1_y_y_u_k_r_p_i.html" title="Genuine year&#45;on&#45;year UK RPI (i.e. not a ratio of UK RPI)" alt="" coords="1627,1563,1768,1648"/>
+<area shape="rect" id="node31" href="$class_quant_lib_1_1_y_y_u_k_r_p_ir.html" title="Fake year&#45;on&#45;year UK RPI (i.e. a ratio of UK RPI)" alt="" coords="1792,1563,1939,1648"/>
+<area shape="rect" id="node33" href="$class_quant_lib_1_1_y_y_u_s_c_p_i.html" title="Genuine year&#45;on&#45;year US CPI (i.e. not a ratio of US CPI)" alt="" coords="1963,1563,2104,1648"/>
+<area shape="rect" id="node35" href="$class_quant_lib_1_1_y_y_u_s_c_p_ir.html" title="Fake year&#45;on&#45;year US CPI (i.e. a ratio of US CPI)" alt="" coords="2128,1563,2275,1648"/>
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_inflation_index.html" title="Base class for inflation&#45;rate indexes,." alt="" coords="1059,533,1219,1208"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_index.html" title="purely virtual base class for indexes" alt="" coords="985,243,1129,485"/>
+<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="984,5,1131,195"/>
+<area shape="rect" id="node8" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="1153,269,1287,459"/>
+</map>

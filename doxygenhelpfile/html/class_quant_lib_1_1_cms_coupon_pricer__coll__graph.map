@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_floating_rate_coupon_pricer.html" title="generic pricer for floating&#45;rate coupons" alt="" coords="128,1213,363,1576"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="144,461,277,651"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="275,157,373,243"/>
+<area shape="rect" id="node14" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="249,913,396,1103"/>
+<area shape="rect" id="node20" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; SwaptionVolatilityStructure \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="387,1257,691,1533"/>
+<area shape="rect" id="node24" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="559,870,841,1146"/>
+</map>

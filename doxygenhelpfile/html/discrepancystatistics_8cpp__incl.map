@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$discrepancystatistics_8hpp.html" title="Statistic tool for sequences with discrepancy calculation." alt="" coords="687,83,961,112"/>
+<area shape="rect" id="node5" href="$sequencestatistics_8hpp.html" title="Statistics tools for sequence (vector, list, array) samples." alt="" coords="695,160,953,189"/>
+<area shape="rect" id="node7" href="$statistics_8hpp.html" title="statistics tool with risk measures" alt="" coords="372,237,575,267"/>
+<area shape="rect" id="node69" href="$incrementalstatistics_8hpp.html" title="statistics tool based on incremental accumulation" alt="" coords="689,469,959,499"/>
+<area shape="rect" id="node73" href="$matrix_8hpp.html" title="matrix used in linear algebra." alt="" coords="979,392,1109,421"/>
+<area shape="rect" id="node9" href="$riskstatistics_8hpp.html" title="empirical&#45;distribution risk measures" alt="" coords="255,315,479,344"/>
+<area shape="rect" id="node11" href="$functional_8hpp.html" title="functionals and combinators not included in the STL" alt="" coords="5,547,155,576"/>
+<area shape="rect" id="node36" href="$gaussianstatistics_8hpp.html" title="statistics tool for gaussian&#45;assumption risk measures" alt="" coords="239,392,495,421"/>
+<area shape="rect" id="node13" href="$types_8hpp.html" title="Custom types." alt="" coords="885,624,979,653"/>
+<area shape="rect" id="node15" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="960,701,1072,731"/>
+<area shape="rect" id="node21" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="883,779,1005,808"/>
+<area shape="rect" id="node25" href="$mathconstants_8hpp.html" title="ql/mathconstants.hpp" alt="" coords="712,779,859,808"/>
+<area shape="rect" id="node23" href="$userconfig_8hpp.html" title="ql/userconfig.hpp" alt="" coords="884,856,1004,885"/>
+<area shape="rect" id="node38" href="$normaldistribution_8hpp.html" title="normal, cumulative and inverse cumulative distributions" alt="" coords="127,469,396,499"/>
+<area shape="rect" id="node57" href="$generalstatistics_8hpp.html" title="statistics tool" alt="" coords="420,469,665,499"/>
+<area shape="rect" id="node40" href="$errorfunction_8hpp.html" title="Error function." alt="" coords="179,547,344,576"/>
+<area shape="rect" id="node44" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="496,547,589,576"/>
+<area shape="rect" id="node59" href="$null_8hpp.html" title="null values" alt="" coords="613,547,739,576"/>
+<area shape="rect" id="node75" href="$ql_2math_2array_8hpp.html" title="ql/math/array.hpp" alt="" coords="983,469,1105,499"/>
+<area shape="rect" id="node94" href="$steppingiterator_8hpp.html" title="Iterator advancing in constant steps." alt="" coords="1417,469,1612,499"/>
+<area shape="rect" id="node79" href="$disposable_8hpp.html" title="generic disposable object with move semantics" alt="" coords="1453,624,1621,653"/>
+</map>

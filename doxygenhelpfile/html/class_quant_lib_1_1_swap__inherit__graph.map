@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_asset_swap.html" title="Bullet bond vs Libor swap." alt="" coords="5,2083,195,2480"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_b_m_a_swap.html" title="swap paying Libor against BMA coupons" alt="" coords="219,2005,363,2558"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_c_p_i_swap.html" title="zero&#45;inflation&#45;indexed swap," alt="" coords="387,2065,584,2497"/>
+<area shape="rect" id="node17" href="$class_quant_lib_1_1_overnight_indexed_swap.html" title="Overnight indexed swap: fix vs compounded overnight rate." alt="" coords="608,1892,824,2671"/>
+<area shape="rect" id="node19" href="$class_quant_lib_1_1_vanilla_swap.html" title="Plain&#45;vanilla swap: fix vs floating leg." alt="" coords="848,1805,1005,2757"/>
+<area shape="rect" id="node21" href="$class_quant_lib_1_1_year_on_year_inflation_swap.html" title="Year&#45;on&#45;year inflation&#45;indexed swap." alt="" coords="1029,2039,1261,2523"/>
+<area shape="rect" id="node23" href="$class_quant_lib_1_1_zero_coupon_inflation_swap.html" title="Zero&#45;coupon inflation&#45;indexed swap." alt="" coords="1285,1892,1517,2671"/>
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_instrument.html" title="Abstract instrument class." alt="" coords="637,533,795,1139"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="639,243,793,485"/>
+<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="561,5,708,195"/>
+<area shape="rect" id="node8" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="732,5,865,195"/>
+</map>

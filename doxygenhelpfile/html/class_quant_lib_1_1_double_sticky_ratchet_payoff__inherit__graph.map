@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_ratchet_max_payoff.html" title="RatchetMax payoff (double option)" alt="" coords="5,856,195,976"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_ratchet_min_payoff.html" title="RatchetMin payoff (double option)" alt="" coords="219,856,405,976"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_ratchet_payoff.html" title="Ratchet payoff (single option)" alt="" coords="429,856,595,976"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_sticky_max_payoff.html" title="StickyMax payoff (double option)" alt="" coords="619,856,800,976"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_sticky_min_payoff.html" title="StickyMin payoff (double option)" alt="" coords="824,856,1003,976"/>
+<area shape="rect" id="node17" href="$class_quant_lib_1_1_sticky_payoff.html" title="Sticky payoff (single option)" alt="" coords="1027,856,1184,976"/>
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_payoff.html" title="Abstract base class for option payoffs." alt="" coords="551,139,671,363"/>
+<area shape="rect" id="node4" href="$classstd_1_1unary__function.html" title="{std::unary_function\&lt; Real, Real \&gt;\n||}" alt="" coords="501,5,720,91"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_basket_payoff.html" title="{QuantLib::BasketPayoff\n|&#45; basePayoff_\l|+ BasketPayoff()\l+ ~BasketPayoff()\l+ name()\l+ description()\l+ operator()()\l+ operator()()\l+ accumulate()\l+ basePayoff()\l}" alt="" coords="191,1013,351,1219"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_payoff.html" title="Abstract base class for option payoffs." alt="" coords="55,141,175,365"/>
+<area shape="rect" id="node6" href="$classstd_1_1unary__function.html" title="{std::unary_function\&lt; Real, Real \&gt;\n||}" alt="" coords="5,5,224,91"/>
+<area shape="rect" id="node10" href="$class_quant_lib_1_1_array.html" title="1&#45;D array used in linear algebra." alt="" coords="385,432,497,1800"/>
+</map>

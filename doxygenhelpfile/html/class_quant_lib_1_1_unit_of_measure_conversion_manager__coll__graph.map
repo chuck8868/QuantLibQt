@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_singleton.html" title="{QuantLib::Singleton\&lt; UnitOfMeasureConversionManager \&gt;\n||+ instance()\l# Singleton()\l}" alt="" coords="5,622,368,725"/>
+<area shape="rect" id="node4" href="$classboost_1_1noncopyable.html" title="{noncopyable\n||}" alt="" coords="92,5,185,91"/>
+<area shape="rect" id="node6" href="$class_quant_lib_1_1_singleton.html" title="Basic support for the singleton pattern." alt="" coords="137,305,305,407"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_unit_of_measure_conversion.html" title="{QuantLib::UnitOfMeasureConversion\n|# data_\l|+ UnitOfMeasureConversion()\l+ UnitOfMeasureConversion()\l+ source()\l+ target()\l+ commodityType()\l+ type()\l+ conversionFactor()\l+ code()\l# UnitOfMeasureConversion()\l* UnitOfMeasureConversion()\l* UnitOfMeasureConversion()\l* source()\l* target()\l* commodityType()\l* type()\l* conversionFactor()\l* code()\l* convert()\l* chain()\l}" alt="" coords="348,157,583,555"/>
+<area shape="rect" id="node15" title="STL class." alt="" coords="607,313,703,399"/>
+</map>

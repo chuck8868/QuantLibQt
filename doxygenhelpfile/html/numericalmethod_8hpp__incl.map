@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$timegrid_8hpp.html" title="discrete time grid" alt="" coords="668,83,775,112"/>
+<area shape="rect" id="node45" href="$ql_2math_2array_8hpp.html" title="ql/math/array.hpp" alt="" coords="1191,83,1313,112"/>
+<area shape="rect" id="node5" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="387,160,480,189"/>
+<area shape="rect" id="node33" href="$comparison_8hpp.html" title="floating&#45;point comparisons" alt="" coords="504,160,664,189"/>
+<area shape="rect" id="node7" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="1336,315,1448,344"/>
+<area shape="rect" id="node13" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="1331,392,1453,421"/>
+<area shape="rect" id="node17" href="$mathconstants_8hpp.html" title="ql/mathconstants.hpp" alt="" coords="1477,392,1624,421"/>
+<area shape="rect" id="node15" href="$userconfig_8hpp.html" title="ql/userconfig.hpp" alt="" coords="1332,469,1452,499"/>
+<area shape="rect" id="node35" href="$types_8hpp.html" title="Custom types." alt="" coords="1401,237,1495,267"/>
+<area shape="rect" id="node49" href="$disposable_8hpp.html" title="generic disposable object with move semantics" alt="" coords="1687,237,1855,267"/>
+<area shape="rect" id="node52" href="$null_8hpp.html" title="null values" alt="" coords="1528,160,1653,189"/>
+</map>

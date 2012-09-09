@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$indexmanager_8hpp.html" title="global repository for past index fixings" alt="" coords="607,83,796,112"/>
+<area shape="rect" id="node5" href="$ql_2timeseries_8hpp.html" title="ql/timeseries.hpp" alt="" coords="1085,160,1205,189"/>
+<area shape="rect" id="node79" href="$singleton_8hpp.html" title="basic support for the singleton pattern" alt="" coords="620,160,783,189"/>
+<area shape="rect" id="node86" href="$observablevalue_8hpp.html" title="observable and assignable proxy to concrete value" alt="" coords="348,160,548,189"/>
+<area shape="rect" id="node7" href="$date_8hpp.html" title="date&#45; and time&#45;related classes, typedefs and enumerations" alt="" coords="1187,237,1301,267"/>
+<area shape="rect" id="node44" href="$null_8hpp.html" title="null values" alt="" coords="860,315,985,344"/>
+<area shape="rect" id="node54" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="463,315,556,344"/>
+<area shape="rect" id="node9" href="$ql_2time_2period_8hpp.html" title="ql/time/period.hpp" alt="" coords="1056,315,1181,344"/>
+<area shape="rect" id="node40" href="$weekday_8hpp.html" title="Weekday enumeration." alt="" coords="1376,392,1517,421"/>
+<area shape="rect" id="node11" href="$frequency_8hpp.html" title="Frequency enumeration." alt="" coords="1045,392,1192,421"/>
+<area shape="rect" id="node31" href="$timeunit_8hpp.html" title="TimeUnit enumeration." alt="" coords="1216,392,1352,421"/>
+<area shape="rect" id="node35" href="$types_8hpp.html" title="Custom types." alt="" coords="760,392,853,421"/>
+<area shape="rect" id="node13" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="1063,469,1175,499"/>
+<area shape="rect" id="node19" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="1057,547,1180,576"/>
+<area shape="rect" id="node23" href="$mathconstants_8hpp.html" title="ql/mathconstants.hpp" alt="" coords="1204,547,1351,576"/>
+<area shape="rect" id="node21" href="$userconfig_8hpp.html" title="ql/userconfig.hpp" alt="" coords="1059,624,1179,653"/>
+<area shape="rect" id="node88" href="$observable_8hpp.html" title="observer/observable pattern" alt="" coords="336,237,509,267"/>
+</map>

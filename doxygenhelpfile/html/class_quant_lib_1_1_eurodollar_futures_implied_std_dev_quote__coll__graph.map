@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_quote.html" title="purely virtual base class for market observables" alt="" coords="132,1308,249,1428"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="152,913,299,1103"/>
+<area shape="rect" id="node19" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="273,1247,428,1489"/>
+<area shape="rect" id="node8" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="159,461,292,651"/>
+<area shape="rect" id="node14" title="STL class." alt="" coords="275,157,373,243"/>
+<area shape="rect" id="node23" href="$classbool.html" title="{bool\n||}" alt="" coords="376,965,421,1051"/>
+<area shape="rect" id="node29" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; Quote \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="687,1230,969,1506"/>
+<area shape="rect" id="node33" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="835,870,1117,1146"/>
+</map>

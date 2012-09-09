@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_quant_lib_1_1_gauss_hermite_polynomial.html" title="Gauss&#45;Hermite polynomial." alt="" coords="5,252,235,407"/>
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_gauss_hyperbolic_polynomial.html" title="Gauss hyperbolic polynomial." alt="" coords="259,261,504,398"/>
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_gauss_jacobi_polynomial.html" title="Gauss&#45;Jacobi polynomial." alt="" coords="528,243,749,415"/>
+<area shape="rect" id="node17" href="$class_quant_lib_1_1_gauss_laguerre_polynomial.html" title="Gauss&#45;Laguerre polynomial." alt="" coords="773,252,1008,407"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_gauss_chebyshev2nd_polynomial.html" title="Gauss&#45;Chebyshev polynomial (second kind)" alt="" coords="81,464,351,549"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_gauss_chebyshev_polynomial.html" title="Gauss&#45;Chebyshev polynomial." alt="" coords="375,464,625,549"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_gauss_gegenbauer_polynomial.html" title="Gauss&#45;Gegenbauer polynomial." alt="" coords="649,464,903,549"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_gauss_legendre_polynomial.html" title="Gauss&#45;Legendre polynomial." alt="" coords="927,464,1164,549"/>
+</map>

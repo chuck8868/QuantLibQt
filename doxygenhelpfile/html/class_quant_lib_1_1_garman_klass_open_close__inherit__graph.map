@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_garman_klass_open_close.html" title="{QuantLib::GarmanKlassOpenClose\&lt; GarmanKlassSimpleSigma \&gt;\n|# f_\l# a_\l|+ GarmanKlassOpenClose()\l+ calculate()\l}" alt="" coords="5,328,411,448"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_garman_klass_open_close.html" title="{QuantLib::GarmanKlassOpenClose\&lt; GarmanKlassSigma4 \&gt;\n|# f_\l# a_\l|+ GarmanKlassOpenClose()\l+ calculate()\l}" alt="" coords="435,328,808,448"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_garman_klass_open_close.html" title="{QuantLib::GarmanKlassOpenClose\&lt; ParkinsonSigma \&gt;\n|# f_\l# a_\l|+ GarmanKlassOpenClose()\l+ calculate()\l}" alt="" coords="832,328,1176,448"/>
+<area shape="rect" id="node2" href="$class_t.html" title="{T\n||}" alt="" coords="603,5,640,91"/>
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_garman_klass_sigma1.html" title="{QuantLib::GarmanKlassSigma1\n||+ GarmanKlassSigma1()\l}" alt="" coords="105,499,311,584"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_garman_klass_sigma6.html" title="{QuantLib::GarmanKlassSigma6\n||+ GarmanKlassSigma6()\l}" alt="" coords="519,499,724,584"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_garman_klass_sigma3.html" title="{QuantLib::GarmanKlassSigma3\n||+ GarmanKlassSigma3()\l}" alt="" coords="901,499,1107,584"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; LocalVolTermStructure \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="5,520,347,640"/>
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; YoYInflationTermStructure \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="371,520,733,640"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; OneFactorGaussianCopula \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="757,520,1123,640"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; YieldTermStructure \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="1147,520,1467,640"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; ZeroInflationTermStructure \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="1491,520,1853,640"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; DefaultProbabilityTermStructure \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="1877,520,2272,640"/>
+<area shape="rect" id="node17" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; OneFactorStudentCopula \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="2296,520,2651,640"/>
+<area shape="rect" id="node19" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; BlackVolTermStructure \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="2675,520,3016,640"/>
+<area shape="rect" id="node21" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; Quote \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="3040,520,3283,640"/>
+<area shape="rect" id="node23" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; SwaptionVolatilityStructure \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="3307,520,3672,640"/>
+<area shape="rect" id="node25" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; copulaT \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="3696,520,3949,640"/>
+<area shape="rect" id="node27" href="$class_quant_lib_1_1_relinkable_handle.html" title="{QuantLib::RelinkableHandle\&lt; ZeroInflationIndex \&gt;\n||+ RelinkableHandle()\l+ RelinkableHandle()\l+ linkTo()\l}" alt="" coords="3973,520,4285,640"/>
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="2132,6,2415,282"/>
+</map>

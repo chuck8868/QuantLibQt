@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_a_u_c_p_i.html" title="AU CPI index (either quarterly or annual)" alt="" coords="5,1528,128,1613"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1_e_u_h_i_c_p.html" title="EU HICP index." alt="" coords="152,1528,285,1613"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_e_u_h_i_c_p_x_t.html" title="EU HICPXT index." alt="" coords="309,1528,459,1613"/>
+<area shape="rect" id="node17" href="$class_quant_lib_1_1_f_r_h_i_c_p.html" title="FR HICP index." alt="" coords="483,1528,616,1613"/>
+<area shape="rect" id="node19" href="$class_quant_lib_1_1_generic_c_p_i.html" title="Generic CPI index." alt="" coords="640,1528,789,1613"/>
+<area shape="rect" id="node21" href="$class_quant_lib_1_1_u_k_r_p_i.html" title="UK Retail Price Inflation Index." alt="" coords="813,1528,936,1613"/>
+<area shape="rect" id="node23" href="$class_quant_lib_1_1_u_s_c_p_i.html" title="US CPI index." alt="" coords="960,1528,1083,1613"/>
+<area shape="rect" id="node2" href="$class_quant_lib_1_1_inflation_index.html" title="Base class for inflation&#45;rate indexes,." alt="" coords="469,533,629,1208"/>
+<area shape="rect" id="node4" href="$class_quant_lib_1_1_index.html" title="purely virtual base class for indexes" alt="" coords="396,243,540,485"/>
+<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="395,5,541,195"/>
+<area shape="rect" id="node8" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="564,269,697,459"/>
+</map>

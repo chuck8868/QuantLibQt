@@ -1,0 +1,38 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$yoyinflationcoupon_8hpp.html" title="Coupon paying a yoy inflation index." alt="" coords="911,83,1143,112"/>
+<area shape="rect" id="node5" href="$inflationcoupon_8hpp.html" title="ql/cashflows/inflationcoupon.hpp" alt="" coords="751,160,961,189"/>
+<area shape="rect" id="node88" href="$inflationindex_8hpp.html" title="base classes for inflation indexes" alt="" coords="933,237,1120,267"/>
+<area shape="rect" id="node139" href="$ql_2time_2schedule_8hpp.html" title="ql/time/schedule.hpp" alt="" coords="1780,315,1921,344"/>
+<area shape="rect" id="node7" href="$coupon_8hpp.html" title="Coupon accruing over a fixed period." alt="" coords="473,237,639,267"/>
+<area shape="rect" id="node81" href="$daycounter_8hpp.html" title="day counter class" alt="" coords="1337,469,1492,499"/>
+<area shape="rect" id="node85" href="$handle_8hpp.html" title="Globally accessible relinkable pointer." alt="" coords="760,315,859,344"/>
+<area shape="rect" id="node9" href="$cashflow_8hpp.html" title="Base class for cash flows." alt="" coords="332,315,444,344"/>
+<area shape="rect" id="node11" href="$event_8hpp.html" title="Base class for events associated with a given date." alt="" coords="341,392,435,421"/>
+<area shape="rect" id="node64" href="$settings_8hpp.html" title="global repository for run&#45;time library settings" alt="" coords="211,392,317,421"/>
+<area shape="rect" id="node75" href="$comparison_8hpp.html" title="floating&#45;point comparisons" alt="" coords="32,547,192,576"/>
+<area shape="rect" id="node13" href="$date_8hpp.html" title="date&#45; and time&#45;related classes, typedefs and enumerations" alt="" coords="1044,547,1159,576"/>
+<area shape="rect" id="node43" href="$observable_8hpp.html" title="observer/observable pattern" alt="" coords="521,547,695,576"/>
+<area shape="rect" id="node15" href="$ql_2time_2period_8hpp.html" title="ql/time/period.hpp" alt="" coords="1731,624,1856,653"/>
+<area shape="rect" id="node30" href="$weekday_8hpp.html" title="Weekday enumeration." alt="" coords="1581,701,1723,731"/>
+<area shape="rect" id="node34" href="$null_8hpp.html" title="null values" alt="" coords="1161,624,1287,653"/>
+<area shape="rect" id="node17" href="$frequency_8hpp.html" title="Frequency enumeration." alt="" coords="2157,701,2304,731"/>
+<area shape="rect" id="node23" href="$timeunit_8hpp.html" title="TimeUnit enumeration." alt="" coords="1747,701,1883,731"/>
+<area shape="rect" id="node27" href="$types_8hpp.html" title="Custom types." alt="" coords="709,701,803,731"/>
+<area shape="rect" id="node19" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="1677,779,1789,808"/>
+<area shape="rect" id="node45" href="$errors_8hpp.html" title="Classes and functions for error handling." alt="" coords="1476,624,1569,653"/>
+<area shape="rect" id="node66" href="$singleton_8hpp.html" title="basic support for the singleton pattern" alt="" coords="284,547,447,576"/>
+<area shape="rect" id="node71" href="$observablevalue_8hpp.html" title="observable and assignable proxy to concrete value" alt="" coords="284,469,484,499"/>
+<area shape="rect" id="node90" href="$index_8hpp.html" title="virtual base class for indexes" alt="" coords="632,315,723,344"/>
+<area shape="rect" id="node115" href="$region_8hpp.html" title="Region, i.e. geographical area, specification." alt="" coords="660,469,804,499"/>
+<area shape="rect" id="node120" href="$inflationtermstructure_8hpp.html" title="Base classes for inflation term structures." alt="" coords="1165,315,1435,344"/>
+<area shape="rect" id="node131" href="$currency_8hpp.html" title="Currency specification." alt="" coords="1696,547,1805,576"/>
+<area shape="rect" id="node92" href="$calendar_8hpp.html" title="calendar class" alt="" coords="980,469,1119,499"/>
+<area shape="rect" id="node105" href="$indexmanager_8hpp.html" title="global repository for past index fixings" alt="" coords="459,392,648,421"/>
+<area shape="rect" id="node95" href="$businessdayconvention_8hpp.html" title="BusinessDayConvention enumeration." alt="" coords="1907,701,2133,731"/>
+<area shape="rect" id="node107" href="$ql_2timeseries_8hpp.html" title="ql/timeseries.hpp" alt="" coords="1143,469,1263,499"/>
+<area shape="rect" id="node122" href="$yieldtermstructure_8hpp.html" title="Interest&#45;rate term structure." alt="" coords="1456,392,1709,421"/>
+<area shape="rect" id="node125" href="$seasonality_8hpp.html" title="ql/termstructures/inflation/seasonality.hpp" alt="" coords="1168,392,1432,421"/>
+<area shape="rect" id="node133" href="$ql_2math_2rounding_8hpp.html" title="ql/math/rounding.hpp" alt="" coords="1311,624,1452,653"/>
+<area shape="rect" id="node141" href="$nullcalendar_8hpp.html" title="Calendar for reproducing theoretical calculations." alt="" coords="875,392,1093,421"/>
+<area shape="rect" id="node146" href="$dategenerationrule_8hpp.html" title="date generation rule" alt="" coords="2379,701,2573,731"/>
+</map>

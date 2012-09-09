@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_quant_lib_1_1_cap_floor_term_vol_curve.html" title="Cap/floor at&#45;the&#45;money term&#45;volatility vector." alt="" coords="72,142,291,765"/>
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_singleton.html" title="Basic support for the singleton pattern." alt="" coords="819,402,987,505"/>
+<area shape="rect" id="node7" href="$class_quant_lib_1_1_singleton.html" title="{QuantLib::Singleton\&lt; SeedGenerator \&gt;\n||+ instance()\l# Singleton()\l}" alt="" coords="851,833,1096,935"/>
+<area shape="rect" id="node11" href="$class_quant_lib_1_1_singleton.html" title="{QuantLib::Singleton\&lt; Tracing \&gt;\n||+ instance()\l# Singleton()\l}" alt="" coords="5,833,208,935"/>
+<area shape="rect" id="node15" href="$class_quant_lib_1_1_singleton.html" title="{QuantLib::Singleton\&lt; ExchangeRateManager \&gt;\n||+ instance()\l# Singleton()\l}" alt="" coords="531,833,827,935"/>
+<area shape="rect" id="node19" href="$class_quant_lib_1_1_singleton.html" title="{QuantLib::Singleton\&lt; IndexManager \&gt;\n||+ instance()\l# Singleton()\l}" alt="" coords="1739,833,1981,935"/>
+<area shape="rect" id="node23" href="$class_quant_lib_1_1_singleton.html" title="{QuantLib::Singleton\&lt; UnitOfMeasureConversionManager \&gt;\n||+ instance()\l# Singleton()\l}" alt="" coords="1352,833,1715,935"/>
+<area shape="rect" id="node27" href="$class_quant_lib_1_1_singleton.html" title="{QuantLib::Singleton\&lt; CommoditySettings \&gt;\n||+ instance()\l# Singleton()\l}" alt="" coords="232,833,507,935"/>
+<area shape="rect" id="node31" href="$class_quant_lib_1_1_singleton.html" title="{QuantLib::Singleton\&lt; Settings \&gt;\n||+ instance()\l# Singleton()\l}" alt="" coords="1120,833,1328,935"/>
+<area shape="rect" id="node35" href="$class_quant_lib_1_1_swaption_volatility_matrix.html" title="At&#45;the&#45;money swaption&#45;volatility matrix." alt="" coords="1733,203,1955,704"/>
+<area shape="rect" id="node9" href="$class_quant_lib_1_1_seed_generator.html" title="Random seed generator." alt="" coords="889,1100,1057,1220"/>
+<area shape="rect" id="node13" href="$class_quant_lib_1_1detail_1_1_tracing.html" title="{QuantLib::detail::Tracing\n|&#45; out_\l&#45; enabled_\l&#45; depth_\l|+ enable()\l+ disable()\l+ setStream()\l+ enabled()\l+ stream()\l+ depth()\l+ down()\l+ up()\l&#45; Tracing()\l}" alt="" coords="25,1031,188,1289"/>
+<area shape="rect" id="node17" href="$class_quant_lib_1_1_exchange_rate_manager.html" title="exchange&#45;rate repository" alt="" coords="569,1039,788,1281"/>
+<area shape="rect" id="node21" href="$class_quant_lib_1_1_index_manager.html" title="global repository for past index fixings" alt="" coords="1779,1057,1941,1263"/>
+<area shape="rect" id="node25" href="$class_quant_lib_1_1_unit_of_measure_conversion_manager.html" title="repository of conversion factors between units of measure" alt="" coords="1391,1065,1676,1255"/>
+<area shape="rect" id="node29" href="$class_quant_lib_1_1_commodity_settings.html" title="global repository for run&#45;time library settings" alt="" coords="271,1091,468,1229"/>
+<area shape="rect" id="node33" href="$class_quant_lib_1_1_settings.html" title="global repository for run&#45;time library settings" alt="" coords="1105,987,1343,1333"/>
+</map>

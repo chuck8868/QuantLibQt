@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_quant_lib_1_1_forward_option_arguments.html" title="Arguments for forward (strike&#45;resetting) option calculation" alt="" coords="32,141,379,261"/>
+<area shape="rect" id="node5" href="$class_quant_lib_1_1_forward_option_arguments.html" title="{QuantLib::ForwardOptionArguments\&lt; VanillaOption::arguments \&gt;\n|+ moneyness\l+ resetDate\l|+ ForwardOptionArguments()\l+ validate()\l}" alt="" coords="5,328,405,448"/>
+</map>

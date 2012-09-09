@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$cpicouponpricer_8hpp.html" title="zero inflation&#45;coupon pricer" alt="" coords="708,83,1161,112"/>
+<area shape="rect" id="node17" href="$termstructures_2volatility_2inflation_2all_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/termstructures/volatility/inflation/all.hpp" alt="" coords="1885,160,2387,189"/>
+<area shape="rect" id="node24" href="$constantcpivolatility_8hpp.html" title="constant CPI volatility structure" alt="" coords="2003,83,2608,112"/>
+<area shape="rect" id="node29" href="$cpivolatilitystructure_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/termstructures/volatility/inflation/cpivolatilitystructure.cpp" alt="" coords="2632,83,3237,112"/>
+<area shape="rect" id="node5" href="$cashflows_2all_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/cashflows/all.hpp" alt="" coords="653,237,1029,267"/>
+<area shape="rect" id="node9" href="$cpicoupon_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/cashflows/cpicoupon.cpp" alt="" coords="24,160,445,189"/>
+<area shape="rect" id="node11" href="$cpicouponpricer_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/cashflows/cpicouponpricer.cpp" alt="" coords="469,160,923,189"/>
+<area shape="rect" id="node13" href="$inflationcpicapfloor_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/test&#45;suite/inflationcpicapfloor.cpp" alt="" coords="947,160,1400,189"/>
+<area shape="rect" id="node15" href="$inflationcpiswap_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/test&#45;suite/inflationcpiswap.cpp" alt="" coords="1424,160,1861,189"/>
+<area shape="rect" id="node7" href="$quantlib_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/quantlib.hpp" alt="" coords="1179,392,1525,421"/>
+<area shape="rect" id="node19" href="$termstructures_2volatility_2all_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/termstructures/volatility/all.hpp" alt="" coords="1481,237,1935,267"/>
+<area shape="rect" id="node21" href="$termstructures_2all_8hpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/termstructures/all.hpp" alt="" coords="1349,315,1752,344"/>
+<area shape="rect" id="node27" href="$constantcpivolatility_8cpp.html" title="/home/deriversatile/QuantLib/QuantLibQt/ql/termstructures/volatility/inflation/constantcpivolatility.cpp" alt="" coords="2411,160,3016,189"/>
+</map>
