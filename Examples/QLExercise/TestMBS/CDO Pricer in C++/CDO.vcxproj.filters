@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{76237f80-88ce-458a-8471-157ec514504d}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{482a302e-f1cf-49b9-b3c5-6ab4a88e5386}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Header Files\TNT">
+      <UniqueIdentifier>{a2bcf8cb-9e8d-4ff0-9aea-3adbbf19daee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{0c98ce47-1e62-43ae-ba47-e9254ceb01fd}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Basket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="datecl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HazardRate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="jama_cholesky.h">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="jama_eig.h">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="jama_lu.h">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="jama_qr.h">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Documents and Settings\Justin\Desktop\NewMat11\TMT.H">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="TNT.H">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="TNT_Array1D.h">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="tnt_array1d_utils.h">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="TNT_Array2D.h">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="tnt_array2d_utils.h">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="tnt_array3d.h">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="tnt_array3d_utils.h">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="tnt_i_refvec.h">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="tnt_math_utils.h">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="tnt_version.h">
+      <Filter>Header Files\TNT</Filter>
+    </ClInclude>
+    <ClInclude Include="Basket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="datecl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HazardRate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrixUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BasketCDS.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
