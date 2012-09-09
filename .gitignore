@@ -200,3 +200,9 @@ _ReSharper*/
 _ReSharper*
 ipch/
 
+*.user
+*.user*
+
+
+*.gch/
+
