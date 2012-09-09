@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_generic_engine.html" title="template base class for option pricing engines" alt="" coords="295,1531,660,1685"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_pricing_engine.html" title="interface for pricing engines" alt="" coords="272,1187,435,1341"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="280,869,427,1059"/>
-<area shape="rect" id="node10" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="168,461,301,651"/>
-<area shape="rect" id="node16" title="STL class." alt="" coords="275,157,373,243"/>
-<area shape="rect" id="node26" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; ModelType \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="684,1470,967,1746"/>
-<area shape="rect" id="node30" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="825,1126,1108,1402"/>
-</map>

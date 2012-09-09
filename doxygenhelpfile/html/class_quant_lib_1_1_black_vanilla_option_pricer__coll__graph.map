@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_vanilla_option_pricer.html" title="{QuantLib::VanillaOptionPricer\n||+ ~VanillaOptionPricer()\l+ operator()()\l}" alt="" coords="5,703,197,806"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="325,157,499,1352"/>
-<area shape="rect" id="node14" href="$class_quant_lib_1_1_period.html" title="{QuantLib::Period\n|&#45; length_\l&#45; units_\l|+ Period()\l+ Period()\l+ Period()\l+ length()\l+ units()\l+ frequency()\l+ operator+=()\l+ operator&#45;=()\l+ operator/=()\l+ normalize()\l}" alt="" coords="1019,625,1136,884"/>
-</map>

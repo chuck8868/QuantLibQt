@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_sub_periods_pricer.html" title="{QuantLib::SubPeriodsPricer\n|# coupon_\l# startTime_\l# endTime_\l# accrualFactor_\l# observationTimes_\l# observationCvg_\l# initialValues_\l# observationIndexStartDates_\l# observationIndexEndDates_\l# observations_\l# discount_\l# gearing_\l# spread_\l# spreadLegValue_\l|+ swapletRate()\l+ capletPrice()\l+ capletRate()\l+ floorletPrice()\l+ floorletRate()\l+ initialize()\l}" alt="" coords="52,653,255,1051"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_floating_rate_coupon_pricer.html" title="generic pricer for floating&#45;rate coupons" alt="" coords="36,243,271,605"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="5,5,139,195"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="163,5,309,195"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_smile_section.html" title="interest rate volatility smile section" alt="" coords="5,243,173,675"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="21,5,168,195"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="197,338,352,579"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="203,5,336,195"/>
-</map>

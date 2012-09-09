@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_quant_lib_1_1_loss_dist.html" title="Probability formulas and algorithms." alt="" coords="7,85,140,115"/>
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_loss_dist_binomial.html" title="Binomial loss distribution." alt="" coords="207,5,391,35"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_loss_dist_bucketing.html" title="Loss distribution with Hull&#45;White bucketing." alt="" coords="203,59,395,88"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_loss_dist_homogeneous.html" title="Loss Distribution for Homogeneous Pool." alt="" coords="189,112,408,141"/>
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_loss_dist_monte_carlo.html" title="Loss distribution with Monte Carlo simulation." alt="" coords="199,165,399,195"/>
-</map>

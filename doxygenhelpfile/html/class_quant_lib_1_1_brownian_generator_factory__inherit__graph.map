@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_m_t_brownian_generator_factory.html" title="{QuantLib::MTBrownianGeneratorFactory\n|&#45; seed_\l|+ MTBrownianGeneratorFactory()\l+ create()\l}" alt="" coords="5,175,261,278"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_sobol_brownian_generator_factory.html" title="{QuantLib::SobolBrownianGeneratorFactory\n|&#45; ordering_\l&#45; seed_\l&#45; integers_\l|+ SobolBrownianGeneratorFactory()\l+ create()\l}" alt="" coords="285,158,555,295"/>
-</map>

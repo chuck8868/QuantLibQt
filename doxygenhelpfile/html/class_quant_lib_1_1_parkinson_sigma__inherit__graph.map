@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_garman_klass_open_close.html" title="{QuantLib::GarmanKlassOpenClose\&lt; ParkinsonSigma \&gt;\n|# f_\l# a_\l|+ GarmanKlassOpenClose()\l+ calculate()\l}" alt="" coords="5,656,349,776"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_garman_klass_abstract.html" title="Garman&#45;Klass volatility model." alt="" coords="72,331,283,451"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_local_volatility_estimator.html" title="{QuantLib::LocalVolatilityEstimator\&lt; IntervalPrice \&gt;\n||+ ~LocalVolatilityEstimator()\l+ calculate()\l}" alt="" coords="20,177,335,279"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_local_volatility_estimator.html" title="{QuantLib::LocalVolatilityEstimator\&lt; T \&gt;\n||+ ~LocalVolatilityEstimator()\l+ calculate()\l}" alt="" coords="52,6,303,109"/>
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_garman_klass_sigma3.html" title="{QuantLib::GarmanKlassSigma3\n||+ GarmanKlassSigma3()\l}" alt="" coords="75,827,280,912"/>
-</map>

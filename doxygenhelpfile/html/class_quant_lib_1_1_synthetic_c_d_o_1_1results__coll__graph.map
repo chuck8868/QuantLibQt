@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_instrument_1_1results.html" title="{QuantLib::Instrument::results\n|+ value\l+ errorEstimate\l+ valuationDate\l+ additionalResults\l|+ reset()\l}" alt="" coords="389,1606,579,1743"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_pricing_engine_1_1results.html" title="{QuantLib::PricingEngine::results\n||+ ~results()\l+ reset()\l}" alt="" coords="5,874,213,977"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="237,328,411,1523"/>
-<area shape="rect" id="node14" title="STL class." alt="" coords="421,167,501,252"/>
-<area shape="rect" id="node16" title="STL class." alt="" coords="379,5,544,91"/>
-<area shape="rect" id="node20" title="STL class." alt="" coords="592,158,715,261"/>
-<area shape="rect" id="node30" title="STL class." alt="" coords="747,167,861,252"/>
-</map>

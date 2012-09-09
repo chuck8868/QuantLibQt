@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_quant_lib_1_1_piecewise_constant_correlation.html" title="QuantLib::PiecewiseConstantCorrelation" alt="" coords="5,59,264,88"/>
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_cot_swap_from_fwd_correlation.html" title="QuantLib::CotSwapFromFwdCorrelation" alt="" coords="339,5,592,35"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_exponential_forward_correlation.html" title="QuantLib::ExponentialForwardCorrelation" alt="" coords="336,59,595,88"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_time_homogeneous_forward_correlation.html" title="QuantLib::TimeHomogeneousForwardCorrelation" alt="" coords="313,112,617,141"/>
-</map>

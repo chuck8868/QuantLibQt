@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_market_model_factory.html" title="base class for market&#45;model factories" alt="" coords="265,1110,465,1213"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="292,869,439,1059"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="161,461,295,651"/>
-<area shape="rect" id="node14" title="STL class." alt="" coords="275,157,373,243"/>
-</map>

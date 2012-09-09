@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node5" href="$class_quant_lib_1_1constant.html" title="{QuantLib::constant\&lt; Real, bool \&gt;\n|&#45; u_\l|+ constant()\l+ operator()()\l}" alt="" coords="55,313,268,415"/>
-<area shape="rect" id="node2" href="$classstd_1_1unary__function.html" title="{std::unary_function\&lt; T, U \&gt;\n||}" alt="" coords="71,5,252,91"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1everywhere.html" title="{QuantLib::everywhere\n||+ everywhere()\l}" alt="" coords="5,467,155,552"/>
-<area shape="rect" id="node9" href="$class_quant_lib_1_1nowhere.html" title="{QuantLib::nowhere\n||+ nowhere()\l}" alt="" coords="179,467,309,552"/>
-</map>

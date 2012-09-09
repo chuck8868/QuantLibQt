@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_day_counter.html" title="day counter class" alt="" coords="77,1478,229,1719"/>
-<area shape="rect" id="node42" href="$class_quant_lib_1_1_calendar.html" title="calendar class" alt="" coords="253,1435,427,1763"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_index_history_cleaner.html" title="{QuantLib::IndexHistoryCleaner\n||+ IndexHistoryCleaner()\l+ ~IndexHistoryCleaner()\l}" alt="" coords="451,1547,651,1650"/>
-<area shape="rect" id="node16" title="STL class." alt="" coords="1272,712,1387,797"/>
-<area shape="rect" id="node22" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="2164,157,2337,1352"/>
-<area shape="rect" id="node26" href="$class_quant_lib_1_1_saved_settings.html" title="{QuantLib::SavedSettings\n|&#45; evaluationDate_\l&#45; includeReferenceDateEvents_\l&#45; includeTodaysCashFlows_\l&#45; enforcesTodaysHistoricFixings_\l|+ SavedSettings()\l+ ~SavedSettings()\l}" alt="" coords="1947,1521,2163,1676"/>
-<area shape="rect" id="node31" href="$classbool.html" title="{bool\n||}" alt="" coords="1951,712,1996,797"/>
-</map>

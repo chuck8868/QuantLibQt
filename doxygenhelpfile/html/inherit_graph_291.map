@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_quant_lib_1_1_curiously_recurring_template.html" title="QuantLib::CuriouslyRecurringTemplate\&lt; ExtendedTrigeorgis \&gt;" alt="" coords="7,5,388,35"/>
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_tree.html" title="QuantLib::Tree\&lt; ExtendedTrigeorgis \&gt;" alt="" coords="439,5,681,35"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_extended_binomial_tree.html" title="QuantLib::ExtendedBinomialTree\&lt; ExtendedTrigeorgis \&gt;" alt="" coords="731,5,1080,35"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_extended_equal_jumps_binomial_tree.html" title="QuantLib::ExtendedEqualJumpsBinomialTree\&lt; ExtendedTrigeorgis \&gt;" alt="" coords="1128,5,1549,35"/>
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_extended_trigeorgis.html" title="Trigeorgis (additive equal jumps) binomial tree" alt="" coords="1597,5,1792,35"/>
-</map>

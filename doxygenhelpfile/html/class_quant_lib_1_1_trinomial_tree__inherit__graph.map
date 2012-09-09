@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_tree.html" title="{QuantLib::Tree\&lt; TrinomialTree \&gt;\n|&#45; columns_\l|+ Tree()\l+ columns()\l}" alt="" coords="117,707,328,810"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_curiously_recurring_template.html" title="{QuantLib::CuriouslyRecurringTemplate\&lt; TrinomialTree \&gt;\n||# CuriouslyRecurringTemplate()\l# ~CuriouslyRecurringTemplate()\l# impl()\l# impl()\l}" alt="" coords="5,374,355,511"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_curiously_recurring_template.html" title="Support for the curiously recurring template pattern." alt="" coords="120,6,416,143"/>
-<area shape="rect" id="node10" href="$class_quant_lib_1_1_curiously_recurring_template.html" title="{QuantLib::CuriouslyRecurringTemplate\&lt; T \&gt;\n||# CuriouslyRecurringTemplate()\l# ~CuriouslyRecurringTemplate()\l# impl()\l# impl()\l}" alt="" coords="231,211,508,349"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_tree.html" title="Tree approximating a single&#45;factor diffusion" alt="" coords="283,537,421,639"/>
-</map>

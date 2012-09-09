@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_fixed_dividend.html" title="Predetermined cash flow." alt="" coords="5,1060,171,1215"/>
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_fractional_dividend.html" title="Predetermined cash flow." alt="" coords="195,1008,384,1267"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_cash_flow.html" title="Base class for cash flows." alt="" coords="117,480,259,704"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_event.html" title="Base class for event." alt="" coords="131,243,245,432"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="115,5,261,195"/>
-</map>

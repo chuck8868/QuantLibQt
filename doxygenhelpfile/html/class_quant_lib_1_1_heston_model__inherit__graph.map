@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_bates_double_exp_model.html" title="{QuantLib::BatesDoubleExpModel\n||+ BatesDoubleExpModel()\l+ p()\l+ nuDown()\l+ nuUp()\l+ lambda()\l}" alt="" coords="44,805,257,960"/>
-<area shape="rect" id="node13" href="$class_quant_lib_1_1_bates_model.html" title="Bates stochastic&#45;volatility model." alt="" coords="307,805,461,960"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_calibrated_model.html" title="Calibrated model class." alt="" coords="167,243,343,501"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="107,5,240,195"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="264,5,411,195"/>
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_bates_double_exp_det_jump_model.html" title="{QuantLib::BatesDoubleExpDetJumpModel\n||+ BatesDoubleExpDetJumpModel()\l+ kappaLambda()\l+ thetaLambda()\l}" alt="" coords="5,1008,272,1128"/>
-<area shape="rect" id="node15" href="$class_quant_lib_1_1_bates_det_jump_model.html" title="{QuantLib::BatesDetJumpModel\n||+ BatesDetJumpModel()\l+ kappaLambda()\l+ thetaLambda()\l}" alt="" coords="296,1008,499,1128"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_risky_fixed_bond.html" title="{QuantLib::RiskyFixedBond\n|&#45; schedule_\l&#45; rate_\l&#45; dayCounter_\l&#45; paymentConvention_\l&#45; notionals_\l&#45; leg_\l&#45; interestLeg_\l&#45; redemptionLeg_\l|+ RiskyFixedBond()\l+ cashflows()\l+ notional()\l+ effectiveDate()\l+ maturityDate()\l+ interestFlows()\l+ notionalFlows()\l}" alt="" coords="5,1634,184,1945"/>
-<area shape="rect" id="node13" href="$class_quant_lib_1_1_risky_floating_bond.html" title="{QuantLib::RiskyFloatingBond\n|&#45; schedule_\l&#45; index_\l&#45; dayCounter_\l&#45; fixingDays_\l&#45; spread_\l&#45; paymentConvention_\l&#45; notionals_\l&#45; leg_\l&#45; interestLeg_\l&#45; redemptionLeg_\l|+ RiskyFloatingBond()\l+ cashflows()\l+ notional()\l+ effectiveDate()\l+ maturityDate()\l+ interestFlows()\l+ notionalFlows()\l}" alt="" coords="208,1617,400,1962"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_instrument.html" title="Abstract instrument class." alt="" coords="120,533,277,1139"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="121,243,276,485"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="44,5,191,195"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="215,5,348,195"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_cubic_b_splines_fitting.html" title="CubicSpline B&#45;splines fitting method." alt="" coords="5,416,208,605"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_exponential_splines_fitting.html" title="Exponential&#45;splines fitting method." alt="" coords="232,442,461,579"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_nelson_siegel_fitting.html" title="Nelson&#45;Siegel fitting method." alt="" coords="485,442,680,579"/>
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_simple_polynomial_fitting.html" title="Simple polynomial fitting method." alt="" coords="704,442,925,579"/>
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_svensson_fitting.html" title="Svensson Fitting method." alt="" coords="949,442,1125,579"/>
-</map>

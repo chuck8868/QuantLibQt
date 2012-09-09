@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_vega_bump_cluster.html" title="{QuantLib::VegaBumpCluster\n|&#45; factorBegin_\l&#45; factorEnd_\l&#45; rateBegin_\l&#45; rateEnd_\l&#45; stepBegin_\l&#45; stepEnd_\l|+ VegaBumpCluster()\l+ doesIntersect()\l+ isCompatible()\l+ factorBegin()\l+ factorEnd()\l+ rateBegin()\l+ rateEnd()\l+ stepBegin()\l+ stepEnd()\l}" alt="" coords="116,243,303,554"/>
-<area shape="rect" id="node10" title="STL class." alt="" coords="327,356,441,441"/>
-<area shape="rect" id="node14" href="$classbool.html" title="{bool\n||}" alt="" coords="448,621,493,707"/>
-</map>

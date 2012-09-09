@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_day_counter.html" title="day counter class" alt="" coords="5,634,157,875"/>
-<area shape="rect" id="node24" href="$class_quant_lib_1_1_calendar.html" title="calendar class" alt="" coords="181,591,355,919"/>
-<area shape="rect" id="node14" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="981,157,1155,1352"/>
-<area shape="rect" id="node20" href="$classbool.html" title="{bool\n||}" alt="" coords="1389,712,1435,797"/>
-<area shape="rect" id="node27" href="$class_quant_lib_1_1_period.html" title="{QuantLib::Period\n|&#45; length_\l&#45; units_\l|+ Period()\l+ Period()\l+ Period()\l+ length()\l+ units()\l+ frequency()\l+ operator+=()\l+ operator&#45;=()\l+ operator/=()\l+ normalize()\l}" alt="" coords="1580,625,1697,884"/>
-</map>

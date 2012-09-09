@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_quant_lib_1_1_exercise.html" title="Base exercise class." alt="" coords="5,59,139,88"/>
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_early_exercise.html" title="Early&#45;exercise base class." alt="" coords="200,32,363,61"/>
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_european_exercise.html" title="European exercise." alt="" coords="188,85,375,115"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_american_exercise.html" title="American exercise." alt="" coords="427,5,613,35"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_bermudan_exercise.html" title="Bermudan exercise." alt="" coords="424,59,616,88"/>
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_swing_exercise.html" title="Swing exercise." alt="" coords="665,59,833,88"/>
-</map>

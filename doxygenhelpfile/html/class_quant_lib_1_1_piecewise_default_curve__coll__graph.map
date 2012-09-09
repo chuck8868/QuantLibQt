@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_traits_1_1template_01curve_1_1type.html" title="{Traits::template curve\&lt;Interpolator\&gt;::type\n||}" alt="" coords="5,1220,267,1305"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="291,1142,445,1383"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="295,869,441,1059"/>
-<area shape="rect" id="node10" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="189,461,323,651"/>
-<area shape="rect" id="node16" title="STL class." alt="" coords="295,157,393,243"/>
-<area shape="rect" id="node22" href="$classbool.html" title="{bool\n||}" alt="" coords="465,921,511,1007"/>
-<area shape="rect" id="node32" title="STL class." alt="" coords="1017,921,1132,1007"/>
-</map>

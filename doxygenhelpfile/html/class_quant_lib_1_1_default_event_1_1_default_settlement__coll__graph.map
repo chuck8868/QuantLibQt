@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_event.html" title="Base class for event." alt="" coords="355,1665,469,1855"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="324,907,471,1096"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="159,499,292,688"/>
-<area shape="rect" id="node14" title="STL class." alt="" coords="256,167,355,252"/>
-<area shape="rect" id="node29" title="STL class." alt="" coords="379,158,501,261"/>
-<area shape="rect" id="node19" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="553,1163,727,2357"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_path_pricer.html" title="{QuantLib::PathPricer\&lt; MultiPath \&gt;\n||+ ~PathPricer()\l+ operator()()\l}" alt="" coords="39,313,260,415"/>
-<area shape="rect" id="node4" href="$classstd_1_1unary__function.html" title="{std::unary_function\&lt; MultiPath, Real \&gt;\n||}" alt="" coords="5,151,251,236"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_path_pricer.html" title="base class for path pricers" alt="" coords="275,142,568,245"/>
-<area shape="rect" id="node8" href="$classstd_1_1unary__function.html" title="{std::unary_function\&lt; PathType, ValueType \&gt;\n||}" alt="" coords="280,5,563,91"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_quant_lib_1_1_pde_second_order_parabolic.html" title="QuantLib::PdeSecondOrderParabolic" alt="" coords="5,59,240,88"/>
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_pde_b_s_m.html" title="QuantLib::PdeBSM" alt="" coords="357,5,491,35"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_pde_constant_coeff.html" title="QuantLib::PdeConstantCoeff\&lt; PdeClass \&gt;" alt="" coords="289,59,559,88"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_pde_short_rate.html" title="QuantLib::PdeShortRate" alt="" coords="343,112,505,141"/>
-</map>

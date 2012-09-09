@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_exercise_strategy.html" title="{QuantLib::ExerciseStrategy\&lt; CurveState \&gt;\n||+ ~ExerciseStrategy()\l+ exerciseTimes()\l+ relevantTimes()\l+ reset()\l+ exercise()\l+ nextStep()\l+ clone()\l}" alt="" coords="5,261,277,451"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_exercise_strategy.html" title="{QuantLib::ExerciseStrategy\&lt; State \&gt;\n||+ ~ExerciseStrategy()\l+ exerciseTimes()\l+ relevantTimes()\l+ reset()\l+ exercise()\l+ nextStep()\l+ clone()\l}" alt="" coords="23,5,260,195"/>
-</map>

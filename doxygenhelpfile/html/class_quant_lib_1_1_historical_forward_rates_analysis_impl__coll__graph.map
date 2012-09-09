@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_historical_forward_rates_analysis.html" title="{QuantLib::HistoricalForwardRatesAnalysis\n||+ ~HistoricalForwardRatesAnalysis()\l+ skippedDates()\l+ skippedDatesErrorMessage()\l+ failedDates()\l+ failedDatesErrorMessage()\l+ fixingPeriods()\l}" alt="" coords="5,1419,275,1591"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_period.html" title="{QuantLib::Period\n|&#45; length_\l&#45; units_\l|+ Period()\l+ Period()\l+ Period()\l+ length()\l+ units()\l+ frequency()\l+ operator+=()\l+ operator&#45;=()\l+ operator/=()\l+ normalize()\l}" alt="" coords="312,625,429,884"/>
-<area shape="rect" id="node12" title="STL class." alt="" coords="659,712,773,797"/>
-<area shape="rect" id="node18" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="880,157,1053,1352"/>
-<area shape="rect" id="node27" title="STL class." alt="" coords="492,712,572,797"/>
-<area shape="rect" id="node29" title="STL class." alt="" coords="449,5,615,91"/>
-</map>

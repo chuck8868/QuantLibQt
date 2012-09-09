@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_interpolation_1_1template_impl.html" title="basic template implementation" alt="" coords="91,525,381,749"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_interpolation_1_1_impl.html" title="abstract base class for interpolation implementations" alt="" coords="5,157,192,416"/>
-<area shape="rect" id="node14" title="STL class." alt="" coords="436,244,551,329"/>
-<area shape="rect" id="node18" href="$class_quant_lib_1_1_interpolation.html" title="base class for 1&#45;D interpolations." alt="" coords="577,499,729,775"/>
-<area shape="rect" id="node20" href="$class_quant_lib_1_1_extrapolator.html" title="base class for classes possibly allowing extrapolation" alt="" coords="575,183,732,390"/>
-<area shape="rect" id="node22" href="$classbool.html" title="{bool\n||}" alt="" coords="631,5,676,91"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_interpolation_1_1template_impl.html" title="basic template implementation" alt="" coords="76,755,367,979"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_interpolation_1_1_impl.html" title="abstract base class for interpolation implementations" alt="" coords="67,309,253,568"/>
-<area shape="rect" id="node10" href="$class_quant_lib_1_1detail_1_1_abcd_coeff_holder.html" title="{QuantLib::detail::AbcdCoeffHolder\n|+ a_\l+ b_\l+ c_\l+ d_\l+ aIsFixed_\l+ bIsFixed_\l+ cIsFixed_\l+ dIsFixed_\l+ k_\l+ error_\l+ maxError_\l+ abcdEndCriteria_\l|+ AbcdCoeffHolder()\l+ ~AbcdCoeffHolder()\l}" alt="" coords="459,720,680,1013"/>
-<area shape="rect" id="node16" title="STL class." alt="" coords="611,157,725,243"/>
-<area shape="rect" id="node22" href="$classbool.html" title="{bool\n||}" alt="" coords="705,396,751,481"/>
-</map>

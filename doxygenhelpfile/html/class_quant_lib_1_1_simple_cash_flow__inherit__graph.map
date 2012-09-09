@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_amortizing_payment.html" title="Amortizing payment." alt="" coords="5,1008,200,1128"/>
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_redemption.html" title="Bond redemption." alt="" coords="224,1008,376,1128"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_cash_flow.html" title="Base class for cash flows." alt="" coords="131,480,272,704"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_event.html" title="Base class for event." alt="" coords="144,243,259,432"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="128,5,275,195"/>
-</map>

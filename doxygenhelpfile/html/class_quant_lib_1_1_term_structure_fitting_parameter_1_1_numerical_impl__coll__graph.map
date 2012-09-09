@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_parameter_1_1_impl.html" title="Base class for model parameter implementation." alt="" coords="5,589,179,691"/>
-<area shape="rect" id="node8" title="STL class." alt="" coords="261,253,376,339"/>
-<area shape="rect" id="node12" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; YieldTermStructure \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="520,502,803,778"/>
-<area shape="rect" id="node16" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="513,158,796,434"/>
-<area shape="rect" id="node21" href="$class_time.html" title="{Time\n||}" alt="" coords="425,253,476,339"/>
-</map>

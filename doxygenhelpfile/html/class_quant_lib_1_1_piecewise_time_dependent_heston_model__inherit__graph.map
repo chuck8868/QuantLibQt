@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_calibrated_model.html" title="Calibrated model class." alt="" coords="72,243,248,501"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="12,5,145,195"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="169,5,316,195"/>
-</map>

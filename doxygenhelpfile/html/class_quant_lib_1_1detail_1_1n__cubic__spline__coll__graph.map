@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$struct_quant_lib_1_1detail_1_1_point.html" title="{QuantLib::detail::Point\&lt; X, Y \&gt;\n|+ first\l+ second\l|+ Point()\l+ Point()\l+ Point()\l+ Point()\l+ Point()\l+ operator data_type()\l+ operator[]()\l+ operator[]()\l}" alt="" coords="5,309,205,533"/>
-<area shape="rect" id="node8" href="$struct_quant_lib_1_1detail_1_1_data.html" title="{QuantLib::detail::Data\&lt; X, Y \&gt;\n|+ first\l+ second\l|+ Data()\l+ Data()\l+ Data()\l+ swap()\l}" alt="" coords="229,344,427,499"/>
-<area shape="rect" id="node12" href="$struct_quant_lib_1_1detail_1_1_data_table.html" title="{QuantLib::detail::DataTable\&lt; X \&gt;\n|+ data_table_\l|+ DataTable()\l+ DataTable()\l+ DataTable()\l+ size()\l+ operator[]()\l+ operator[]()\l}" alt="" coords="384,601,597,773"/>
-<area shape="rect" id="node17" title="STL class." alt="" coords="452,157,567,243"/>
-</map>

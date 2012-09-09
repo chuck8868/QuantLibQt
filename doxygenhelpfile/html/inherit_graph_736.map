@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_t.html" title="T" alt="" coords="7,85,44,115"/>
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_composite.html" title="Composite pattern." alt="" coords="137,5,313,35"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_convergence_statistics.html" title="statistics class with convergence table" alt="" coords="93,59,357,88"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_disposable.html" title="generic disposable object with move semantics" alt="" coords="136,112,315,141"/>
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_garman_klass_open_close.html" title="QuantLib::GarmanKlassOpenClose\&lt; T \&gt;" alt="" coords="96,165,355,195"/>
-</map>

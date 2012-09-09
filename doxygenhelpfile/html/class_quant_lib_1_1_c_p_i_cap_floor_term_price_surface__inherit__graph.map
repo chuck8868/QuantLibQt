@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node13" href="$class_quant_lib_1_1_interpolated_c_p_i_cap_floor_term_price_surface.html" title="{QuantLib::InterpolatedCPICapFloorTermPriceSurface\&lt; Interpolator2D \&gt;\n|# allStrikes_\l# cPriceB_\l# fPriceB_\l# capPrice_\l# floorPrice_\l# interpolator2d_\l|+ InterpolatedCPICapFloorTermPriceSurface()\l+ update()\l+ performCalculations()\l+ price()\l+ capPrice()\l+ floorPrice()\l* update()\l* performCalculations()\l* price()\l* capPrice()\l* floorPrice()\l}" alt="" coords="17,2398,455,2743"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_inflation_term_structure.html" title="Interface for inflation term structures." alt="" coords="131,899,341,1469"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_term_structure.html" title="Basic term&#45;structure functionality." alt="" coords="153,262,319,850"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="5,15,139,204"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="163,15,309,204"/>
-<area shape="rect" id="node10" href="$class_quant_lib_1_1_extrapolator.html" title="base class for classes possibly allowing extrapolation" alt="" coords="333,6,491,213"/>
-</map>

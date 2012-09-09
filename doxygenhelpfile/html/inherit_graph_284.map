@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_quant_lib_1_1_curiously_recurring_template.html" title="QuantLib::CuriouslyRecurringTemplate\&lt; CoxRossRubinstein \&gt;" alt="" coords="7,5,393,35"/>
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_tree.html" title="QuantLib::Tree\&lt; CoxRossRubinstein \&gt;" alt="" coords="444,5,692,35"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_binomial_tree.html" title="QuantLib::BinomialTree\&lt; CoxRossRubinstein \&gt;" alt="" coords="741,5,1040,35"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_equal_jumps_binomial_tree.html" title="QuantLib::EqualJumpsBinomialTree\&lt; CoxRossRubinstein \&gt;" alt="" coords="1088,5,1459,35"/>
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_cox_ross_rubinstein.html" title="Cox&#45;Ross&#45;Rubinstein (multiplicative) equal jumps binomial tree." alt="" coords="1508,5,1705,35"/>
-</map>

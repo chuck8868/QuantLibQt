@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_fdm_linear_op_composite.html" title="{QuantLib::FdmLinearOpComposite\n||+ size()\l+ setTime()\l+ apply_mixed()\l+ apply_direction()\l+ solve_splitting()\l+ preconditioner()\l}" alt="" coords="5,1865,227,2037"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_fdm_linear_op.html" title="{QuantLib::FdmLinearOp\n||+ ~FdmLinearOp()\l+ apply()\l+ toMatrix()\l}" alt="" coords="36,1635,196,1755"/>
-<area shape="rect" id="node12" href="$class_quant_lib_1_1_gauss_hermite_integration.html" title="generalized Gauss&#45;Hermite integration" alt="" coords="821,1908,1048,1993"/>
-<area shape="rect" id="node14" href="$class_quant_lib_1_1_gaussian_quadrature.html" title="Integral of a 1&#45;dimensional function using the Gauss quadratures method." alt="" coords="825,1609,1025,1781"/>
-<area shape="rect" id="node16" href="$class_quant_lib_1_1_array.html" title="1&#45;D array used in linear algebra." alt="" coords="775,157,887,1525"/>
-<area shape="rect" id="node22" title="STL class." alt="" coords="1072,1908,1187,1993"/>
-</map>

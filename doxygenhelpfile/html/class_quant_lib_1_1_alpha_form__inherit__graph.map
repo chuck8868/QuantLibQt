@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_alpha_form_inverse_linear.html" title="{QuantLib::AlphaFormInverseLinear\n|&#45; times_\l&#45; alpha_\l|+ AlphaFormInverseLinear()\l+ ~AlphaFormInverseLinear()\l+ operator()()\l+ setAlpha()\l}" alt="" coords="5,173,227,328"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_alpha_form_linear_hyperbolic.html" title="{QuantLib::AlphaFormLinearHyperbolic\n|&#45; times_\l&#45; alpha_\l|+ AlphaFormLinearHyperbolic()\l+ ~AlphaFormLinearHyperbolic()\l+ operator()()\l+ setAlpha()\l}" alt="" coords="251,173,493,328"/>
-</map>

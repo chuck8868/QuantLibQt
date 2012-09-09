@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_interpolation_1_1template_impl.html" title="basic template implementation" alt="" coords="5,347,296,571"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_interpolation_1_1_impl.html" title="abstract base class for interpolation implementations" alt="" coords="57,5,244,264"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1detail_1_1_abcd_coeff_holder.html" title="{QuantLib::detail::AbcdCoeffHolder\n|+ a_\l+ b_\l+ c_\l+ d_\l+ aIsFixed_\l+ bIsFixed_\l+ cIsFixed_\l+ dIsFixed_\l+ k_\l+ error_\l+ maxError_\l+ abcdEndCriteria_\l|+ AbcdCoeffHolder()\l+ ~AbcdCoeffHolder()\l}" alt="" coords="320,312,541,605"/>
-</map>

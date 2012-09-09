@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_rectangular_domain.html" title="{QuantLib::RectangularDomain\n|&#45; minX_\l&#45; minY_\l&#45; maxX_\l&#45; maxY_\l|+ RectangularDomain()\l+ includes()\l+ xLowerBound()\l+ yLowerBound()\l+ xUpperBound()\l+ yUpperBound()\l}" alt="" coords="33,493,231,717"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_domain.html" title="domain abstract lcass" alt="" coords="69,139,195,259"/>
-<area shape="rect" id="node4" href="$classstd_1_1binary__function.html" title="{std::binary_function\&lt; Real, Real, bool \&gt;\n||}" alt="" coords="5,5,259,91"/>
-</map>

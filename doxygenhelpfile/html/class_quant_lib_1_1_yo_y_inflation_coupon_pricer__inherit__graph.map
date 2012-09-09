@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_bachelier_yo_y_inflation_coupon_pricer.html" title="Bachelier&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="5,1221,291,1341"/>
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_black_yo_y_inflation_coupon_pricer.html" title="Black&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="315,1221,579,1341"/>
-<area shape="rect" id="node13" href="$class_quant_lib_1_1_unit_displaced_black_yo_y_inflation_coupon_pricer.html" title="Unit&#45;Displaced&#45;Black&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="603,1221,949,1341"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_inflation_coupon_pricer.html" title="Base inflation&#45;coupon pricer." alt="" coords="344,243,549,623"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="299,5,432,195"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="456,5,603,195"/>
-</map>

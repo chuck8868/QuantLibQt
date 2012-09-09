@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_forward_measure_process.html" title="forward&#45;measure stochastic process" alt="" coords="235,1728,461,1883"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_stochastic_process.html" title="multi&#45;dimensional stochastic process class." alt="" coords="252,1125,444,1661"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="169,461,303,651"/>
-<area shape="rect" id="node12" title="STL class." alt="" coords="275,157,373,243"/>
-<area shape="rect" id="node16" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="275,869,421,1059"/>
-</map>

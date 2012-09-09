@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node6" title="STL class." alt="" coords="1044,157,1159,243"/>
-<area shape="rect" id="node53" title="STL class." alt="" coords="1896,157,2021,243"/>
-<area shape="rect" id="node43" href="$class_quant_lib_1_1_market_model_discounter.html" title="{QuantLib::MarketModelDiscounter\n|&#45; before_\l&#45; beforeWeight_\l|+ MarketModelDiscounter()\l+ numeraireBonds()\l}" alt="" coords="801,523,1020,643"/>
-<area shape="rect" id="node51" href="$classbool.html" title="{bool\n||}" alt="" coords="2045,157,2091,243"/>
-<area shape="rect" id="node57" href="$class_quant_lib_1_1_clone.html" title="{QuantLib::Clone\&lt; MarketModelMultiProduct \&gt;\n|&#45; ptr_\l|+ Clone()\l+ Clone()\l+ Clone()\l+ Clone()\l+ operator=()\l+ operator=()\l+ operator*()\l+ operator&#45;\&gt;()\l+ empty()\l+ swap()\l}" alt="" coords="2057,806,2345,1047"/>
-<area shape="rect" id="node61" href="$class_quant_lib_1_1_clone.html" title="cloning proxy to an underlying object" alt="" coords="2297,462,2444,703"/>
-</map>

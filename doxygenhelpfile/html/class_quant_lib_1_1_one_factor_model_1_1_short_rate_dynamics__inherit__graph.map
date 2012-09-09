@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_black_karasinski_1_1_dynamics.html" title="Short&#45;rate dynamics in the Black&#45;Karasinski model." alt="" coords="5,225,248,345"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_cox_ingersoll_ross_1_1_dynamics.html" title="Dynamics of the short&#45;rate under the Cox&#45;Ingersoll&#45;Ross model" alt="" coords="272,225,525,345"/>
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_hull_white_1_1_dynamics.html" title="Short&#45;rate dynamics in the Hull&#45;White model." alt="" coords="549,225,755,345"/>
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_vasicek_1_1_dynamics.html" title="Short&#45;rate dynamics in the Vasicek model." alt="" coords="779,208,973,363"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_extended_cox_ingersoll_ross_1_1_dynamics.html" title="Short&#45;rate dynamics in the extended Cox&#45;Ingersoll&#45;Ross model." alt="" coords="245,411,552,531"/>
-</map>

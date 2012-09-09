@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_face_value_accrual_claim.html" title="Claim on the notional of a reference security, including accrual." alt="" coords="5,411,227,514"/>
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_face_value_claim.html" title="Claim on a notional." alt="" coords="251,420,429,505"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="73,5,220,195"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="244,5,377,195"/>
-</map>

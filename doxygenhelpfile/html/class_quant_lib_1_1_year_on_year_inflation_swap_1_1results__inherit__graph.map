@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_swap_1_1results.html" title="{QuantLib::Swap::results\n|+ legNPV\l+ legBPS\l+ startDiscounts\l+ endDiscounts\l+ npvDateDiscount\l|+ reset()\l}" alt="" coords="63,344,225,499"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_instrument_1_1results.html" title="{QuantLib::Instrument::results\n|+ value\l+ errorEstimate\l+ valuationDate\l+ additionalResults\l|+ reset()\l}" alt="" coords="49,158,239,295"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_pricing_engine_1_1results.html" title="{QuantLib::PricingEngine::results\n||+ ~results()\l+ reset()\l}" alt="" coords="40,6,248,109"/>
-</map>

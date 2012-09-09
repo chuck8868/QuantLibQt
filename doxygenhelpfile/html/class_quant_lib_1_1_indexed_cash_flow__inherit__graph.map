@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_c_p_i_cash_flow.html" title="Cash flow paying the performance of a CPI (zero inflation) index." alt="" coords="77,1198,240,1405"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_cash_flow.html" title="Base class for cash flows." alt="" coords="8,480,149,704"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_event.html" title="Base class for event." alt="" coords="21,243,136,432"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="5,5,152,195"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="173,497,307,687"/>
-</map>

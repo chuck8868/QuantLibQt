@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_actual360.html" title="Actual/360 day count convention." alt="" coords="5,305,144,391"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_actual365_fixed.html" title="Actual/365 (Fixed) day count convention." alt="" coords="168,305,339,391"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_actual_actual.html" title="Actual/Actual day count." alt="" coords="363,297,517,399"/>
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_business252.html" title="Business/252 day count convention." alt="" coords="541,305,699,391"/>
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_one_day_counter.html" title="1/1 day count convention" alt="" coords="723,305,899,391"/>
-<area shape="rect" id="node13" href="$class_quant_lib_1_1_simple_day_counter.html" title="Simple day counter for reproducing theoretical calculations." alt="" coords="923,305,1115,391"/>
-<area shape="rect" id="node15" href="$class_quant_lib_1_1_thirty360.html" title="30/360 day count convention" alt="" coords="1139,297,1275,399"/>
-</map>

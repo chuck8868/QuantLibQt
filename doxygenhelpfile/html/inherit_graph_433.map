@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_quant_lib_1_1_g_function.html" title="QuantLib::GFunction" alt="" coords="7,59,148,88"/>
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_g_function_factory_1_1_g_function_exact_yield.html" title="QuantLib::GFunctionFactory::GFunctionExactYield" alt="" coords="197,5,515,35"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_g_function_factory_1_1_g_function_standard.html" title="QuantLib::GFunctionFactory::GFunctionStandard" alt="" coords="203,59,509,88"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_g_function_factory_1_1_g_function_with_shifts.html" title="QuantLib::GFunctionFactory::GFunctionWithShifts" alt="" coords="199,112,513,141"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_credit_default_swap_1_1arguments.html" title="{QuantLib::CreditDefaultSwap::arguments\n|+ side\l+ notional\l+ upfront\l+ spread\l+ leg\l+ upfrontPayment\l+ settlesAccrual\l+ paysAtDefaultTime\l+ claim\l+ protectionStart\l|+ arguments()\l+ validate()\l}" alt="" coords="719,1587,981,1845"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_pricing_engine_1_1arguments.html" title="{QuantLib::PricingEngine::arguments\n||+ ~arguments()\l+ validate()\l}" alt="" coords="1229,855,1458,958"/>
-<area shape="rect" id="node29" href="$class_quant_lib_1_1_option_1_1arguments.html" title="basic option arguments" alt="" coords="1354,1656,1543,1776"/>
-<area shape="rect" id="node10" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="91,309,265,1504"/>
-<area shape="rect" id="node16" href="$classbool.html" title="{bool\n||}" alt="" coords="1159,864,1205,949"/>
-<area shape="rect" id="node21" title="STL class." alt="" coords="626,157,741,243"/>
-</map>

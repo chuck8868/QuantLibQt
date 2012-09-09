@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_calibration_helper.html" title="liquid market instrument used during calibration" alt="" coords="381,1405,563,1699"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="584,461,717,651"/>
-<area shape="rect" id="node10" title="STL class." alt="" coords="463,157,561,243"/>
-<area shape="rect" id="node14" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="575,1105,721,1295"/>
-<area shape="rect" id="node26" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; YieldTermStructure \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="745,1062,1028,1338"/>
-<area shape="rect" id="node30" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="880,718,1163,994"/>
-<area shape="rect" id="node33" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; Quote \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="1052,1062,1335,1338"/>
-</map>

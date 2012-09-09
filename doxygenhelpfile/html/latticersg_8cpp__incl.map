@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$latticersg_8hpp.html" title="lattice rule code for low discrepancy numbers" alt="" coords="375,83,617,112"/>
-<area shape="rect" id="node5" href="$sample_8hpp.html" title="weighted sample" alt="" coords="301,160,525,189"/>
-<area shape="rect" id="node7" href="$types_8hpp.html" title="Custom types." alt="" coords="367,237,460,267"/>
-<area shape="rect" id="node9" href="$qldefines_8hpp.html" title="Global definitions and compiler switches." alt="" coords="301,315,413,344"/>
-<area shape="rect" id="node15" href="$config_8ansi_8hpp.html" title="ql/config.ansi.hpp" alt="" coords="296,392,419,421"/>
-<area shape="rect" id="node19" href="$mathconstants_8hpp.html" title="ql/mathconstants.hpp" alt="" coords="443,392,589,421"/>
-<area shape="rect" id="node17" href="$userconfig_8hpp.html" title="ql/userconfig.hpp" alt="" coords="297,469,417,499"/>
-</map>

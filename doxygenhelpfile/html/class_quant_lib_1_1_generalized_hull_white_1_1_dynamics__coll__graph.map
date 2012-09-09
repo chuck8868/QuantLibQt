@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_generalized_hull_white_1_1_short_rate_dynamics.html" title="{GeneralizedHullWhite::ShortRateDynamics\n||}" alt="" coords="5,1671,280,1756"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_parameter.html" title="Base class for model arguments." alt="" coords="304,1593,445,1834"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_constraint.html" title="Base constraint class." alt="" coords="304,773,445,910"/>
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_array.html" title="1&#45;D array used in linear algebra." alt="" coords="469,157,581,1525"/>
-</map>

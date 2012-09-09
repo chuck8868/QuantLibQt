@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_observable_value.html" title="{QuantLib::ObservableValue\&lt; TimeSeries\&lt; Real \&gt; \&gt;\n|&#45; value_\l&#45; observable_\l|+ ObservableValue()\l+ ObservableValue()\l+ ObservableValue()\l+ operator TimeSeries\&lt; Real \&gt;()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ value()\l+ operator=()\l+ operator=()\l* operator=()\l* operator=()\l}" alt="" coords="5,331,328,589"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_observable_value.html" title="{QuantLib::ObservableValue\&lt; Date \&gt;\n|&#45; value_\l&#45; observable_\l|+ ObservableValue()\l+ ObservableValue()\l+ ObservableValue()\l+ operator Date()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ value()\l+ operator=()\l+ operator=()\l* operator=()\l* operator=()\l}" alt="" coords="352,331,635,589"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_settings_1_1_date_proxy.html" title="{QuantLib::Settings::DateProxy\n||+ DateProxy()\l+ operator=()\l+ operator Date()\l}" alt="" coords="393,640,593,760"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_curve_dependent_step_condition_1_1_array_wrapper.html" title="{QuantLib::CurveDependentStepCondition\&lt; array_type \&gt;::ArrayWrapper\n|&#45; value_\l|+ ArrayWrapper()\l+ getValue()\l}" alt="" coords="5,166,440,269"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_curve_dependent_step_condition_1_1_payoff_wrapper.html" title="{QuantLib::CurveDependentStepCondition\&lt; array_type \&gt;::PayoffWrapper\n|&#45; payoff_\l|+ PayoffWrapper()\l+ PayoffWrapper()\l+ getValue()\l}" alt="" coords="464,157,907,277"/>
-</map>

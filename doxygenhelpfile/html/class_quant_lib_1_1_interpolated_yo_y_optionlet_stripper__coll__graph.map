@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_yo_y_optionlet_stripper.html" title="Interface for inflation cap stripping, i.e. from price surfaces." alt="" coords="457,483,679,811"/>
-<area shape="rect" id="node6" href="$classbool.html" title="{bool\n||}" alt="" coords="348,244,393,329"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_period.html" title="{QuantLib::Period\n|&#45; length_\l&#45; units_\l|+ Period()\l+ Period()\l+ Period()\l+ length()\l+ units()\l+ frequency()\l+ operator+=()\l+ operator&#45;=()\l+ operator/=()\l+ normalize()\l}" alt="" coords="417,157,535,416"/>
-<area shape="rect" id="node22" title="STL class." alt="" coords="1260,244,1375,329"/>
-</map>

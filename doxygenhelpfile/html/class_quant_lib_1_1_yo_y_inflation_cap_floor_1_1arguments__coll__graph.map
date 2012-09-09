@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_pricing_engine_1_1arguments.html" title="{QuantLib::PricingEngine::arguments\n||+ ~arguments()\l+ validate()\l}" alt="" coords="5,1497,235,1599"/>
-<area shape="rect" id="node8" title="STL class." alt="" coords="677,712,792,797"/>
-<area shape="rect" id="node23" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="405,157,579,1352"/>
-<area shape="rect" id="node28" href="$class_quant_lib_1_1_period.html" title="{QuantLib::Period\n|&#45; length_\l&#45; units_\l|+ Period()\l+ Period()\l+ Period()\l+ length()\l+ units()\l+ frequency()\l+ operator+=()\l+ operator&#45;=()\l+ operator/=()\l+ normalize()\l}" alt="" coords="1205,1419,1323,1677"/>
-<area shape="rect" id="node36" href="$class_time.html" title="{Time\n||}" alt="" coords="1096,712,1147,797"/>
-</map>

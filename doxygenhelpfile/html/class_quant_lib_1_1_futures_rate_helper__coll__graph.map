@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_bootstrap_helper.html" title="Base helper class for bootstrapping." alt="" coords="528,2339,672,2789"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="169,461,303,651"/>
-<area shape="rect" id="node10" title="STL class." alt="" coords="275,157,373,243"/>
-<area shape="rect" id="node14" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="275,1564,421,1753"/>
-<area shape="rect" id="node20" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="445,1061,619,2256"/>
-<area shape="rect" id="node26" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; Quote \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="704,1521,987,1797"/>
-<area shape="rect" id="node30" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="840,718,1123,994"/>
-</map>

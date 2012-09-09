@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1detail_1_1_convex_monotone4_helper.html" title="{QuantLib::detail::ConvexMonotone4Helper\n|# xPrev_\l# xScaling_\l# gPrev_\l# gNext_\l# fAverage_\l# eta4_\l# prevPrimitive_\l# A_\l|+ ConvexMonotone4Helper()\l+ value()\l+ primitive()\l+ fNext()\l}" alt="" coords="5,331,272,589"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1detail_1_1_section_helper.html" title="{QuantLib::detail::SectionHelper\n||+ ~SectionHelper()\l+ value()\l+ primitive()\l+ fNext()\l}" alt="" coords="37,6,240,143"/>
-<area shape="rect" id="node9" href="$classbool.html" title="{bool\n||}" alt="" coords="389,417,435,503"/>
-</map>

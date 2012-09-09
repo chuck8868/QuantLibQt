@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_numeric_hagan_pricer_1_1_conundrum_integrand.html" title="{QuantLib::NumericHaganPricer::ConundrumIntegrand\n|# vanillaOptionPricer_\l# forwardValue_\l# annuity_\l# fixingDate_\l# paymentDate_\l# strike_\l# optionType_\l# gFunction_\l|+ ConundrumIntegrand()\l+ operator()()\l# functionF()\l# firstDerivativeOfF()\l# secondDerivativeOfF()\l# strike()\l# annuity()\l# fixingDate()\l# setStrike()\l}" alt="" coords="5,291,336,637"/>
-<area shape="rect" id="node2" href="$classstd_1_1unary__function.html" title="{std::unary_function\&lt; Real, Real \&gt;\n||}" alt="" coords="61,5,280,91"/>
-</map>

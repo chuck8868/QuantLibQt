@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$classstd_1_1unary__function.html" title="{std::unary_function\&lt; Real, Real \&gt;\n||}" alt="" coords="5,1156,224,1241"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_g_function_factory_1_1_g_function_with_shifts.html" title="{QuantLib::GFunctionFactory::GFunctionWithShifts\n|&#45; swapStartTime_\l&#45; shapedPaymentTime_\l&#45; shapedSwapPaymentTimes_\l&#45; accruals_\l&#45; swapPaymentDiscounts_\l&#45; discountAtStart_\l&#45; discountRatio_\l&#45; swapRateValue_\l&#45; meanReversion_\l&#45; calibratedShift_\l&#45; tmpRs_\l&#45; accuracy_\l&#45; objectiveFunction_\l|+ GFunctionWithShifts()\l+ operator()()\l+ firstDerivative()\l+ secondDerivative()\l&#45; shapeOfShift()\l&#45; calibrationOfShift()\l&#45; functionZ()\l&#45; derRs_derX()\l&#45; derZ_derX()\l&#45; der2Rs_derX2()\l&#45; der2Z_derX2()\l}" alt="" coords="411,965,725,1432"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_g_function.html" title="{QuantLib::GFunction\n||+ ~GFunction()\l+ operator()()\l+ firstDerivative()\l+ secondDerivative()\l}" alt="" coords="336,571,477,709"/>
-<area shape="rect" id="node14" title="STL class." alt="" coords="767,253,881,339"/>
-<area shape="rect" id="node23" href="$class_time.html" title="{Time\n||}" alt="" coords="936,253,987,339"/>
-<area shape="rect" id="node26" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; Quote \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="1053,502,1336,778"/>
-<area shape="rect" id="node30" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="1160,158,1443,434"/>
-</map>

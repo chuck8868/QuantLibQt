@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_multi_asset_option_1_1results.html" title="Results from multi&#45;asset option calculation" alt="" coords="236,379,465,464"/>
-<area shape="rect" id="node13" href="$class_quant_lib_1_1_one_asset_option_1_1results.html" title="Results from single&#45;asset option calculation" alt="" coords="489,379,713,464"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_pricing_engine_1_1results.html" title="{QuantLib::PricingEngine::results\n||+ ~results()\l+ reset()\l}" alt="" coords="372,6,580,109"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_everest_option_1_1results.html" title="{QuantLib::EverestOption::results\n|+ yield\l|+ reset()\l}" alt="" coords="5,547,216,632"/>
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_himalaya_option_1_1results.html" title="{QuantLib::HimalayaOption::results\n||}" alt="" coords="240,547,461,632"/>
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_margrabe_option_1_1results.html" title="Extra results for Margrabe option." alt="" coords="485,512,707,667"/>
-</map>

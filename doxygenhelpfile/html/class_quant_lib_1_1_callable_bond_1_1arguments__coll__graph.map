@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_bond_1_1arguments.html" title="{QuantLib::Bond::arguments\n|+ settlementDate\l+ cashflows\l+ calendar\l|+ validate()\l}" alt="" coords="939,1795,1120,1915"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_pricing_engine_1_1arguments.html" title="{QuantLib::PricingEngine::arguments\n||+ ~arguments()\l+ validate()\l}" alt="" coords="1215,855,1444,958"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_date.html" title="Concrete date class." alt="" coords="703,309,876,1504"/>
-<area shape="rect" id="node14" title="STL class." alt="" coords="512,157,627,243"/>
-<area shape="rect" id="node18" href="$class_quant_lib_1_1_calendar.html" title="calendar class" alt="" coords="1468,743,1641,1071"/>
-<area shape="rect" id="node22" href="$class_quant_lib_1_1_day_counter.html" title="day counter class" alt="" coords="1560,1529,1712,1770"/>
-</map>

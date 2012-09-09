@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_recovery_rate_model.html" title="{QuantLib::RecoveryRateModel\n||+ recoveryValue()\l+ appliesToSeniority()\l+ ~RecoveryRateModel()\l# recoveryValueImpl()\l}" alt="" coords="265,1283,465,1421"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="292,913,439,1103"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="161,461,295,651"/>
-<area shape="rect" id="node14" title="STL class." alt="" coords="275,157,373,243"/>
-<area shape="rect" id="node20" href="$class_quant_lib_1_1_handle.html" title="{QuantLib::Handle\&lt; RecoveryRateQuote \&gt;\n|# link_\l|+ currentLink()\l+ operator&#45;\&gt;()\l+ operator*()\l+ empty()\l+ operator boost::shared_ptr\&lt; Observable \&gt;()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ Handle()\l+ Handle()\l* Handle()\l* Handle()\l}" alt="" coords="489,1214,772,1490"/>
-<area shape="rect" id="node24" href="$class_quant_lib_1_1_handle.html" title="Shared handle to an observable." alt="" coords="616,870,899,1146"/>
-</map>

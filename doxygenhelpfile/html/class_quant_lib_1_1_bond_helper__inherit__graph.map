@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_fixed_rate_bond_helper.html" title="{QuantLib::FixedRateBondHelper\n|# fixedRateBond_\l|+ FixedRateBondHelper()\l+ fixedRateBond()\l+ accept()\l* fixedRateBond()\l* accept()\l}" alt="" coords="48,1032,259,1187"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_bootstrap_helper.html" title="Base helper class for bootstrapping." alt="" coords="81,243,225,693"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="5,5,139,195"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="163,5,309,195"/>
-</map>

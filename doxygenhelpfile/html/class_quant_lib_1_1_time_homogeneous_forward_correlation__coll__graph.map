@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_piecewise_constant_correlation.html" title="{QuantLib::PiecewiseConstantCorrelation\n||+ ~PiecewiseConstantCorrelation()\l+ times()\l+ rateTimes()\l+ correlations()\l+ correlation()\l+ numberOfRates()\l}" alt="" coords="5,1385,264,1557"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_matrix.html" title="Matrix used in linear algebra." alt="" coords="341,174,523,1317"/>
-<area shape="rect" id="node12" title="STL class." alt="" coords="599,703,713,788"/>
-<area shape="rect" id="node19" href="$class_time.html" title="{Time\n||}" alt="" coords="776,703,827,788"/>
-</map>

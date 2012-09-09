@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_fixed_rate_bond_forward.html" title="Forward contract on a fixed&#45;rate bond" alt="" coords="5,1903,224,2161"/>
-<area shape="rect" id="node13" href="$class_quant_lib_1_1_forward_rate_agreement.html" title="{QuantLib::ForwardRateAgreement\n|# fraType_\l# forwardRate_\l# strikeForwardRate_\l# notionalAmount_\l# index_\l|+ ForwardRateAgreement()\l+ isExpired()\l+ settlementDate()\l+ spotIncome()\l+ spotValue()\l+ forwardRate()\l# performCalculations()\l* isExpired()\l* settlementDate()\l* spotIncome()\l* spotValue()\l* forwardRate()\l}" alt="" coords="248,1859,467,2205"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_instrument.html" title="Abstract instrument class." alt="" coords="157,533,315,1139"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="159,243,313,485"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="81,5,228,195"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="252,5,385,195"/>
-</map>

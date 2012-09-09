@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_black_ibor_coupon_pricer.html" title="Black&#45;formula pricer for capped/floored Ibor coupons." alt="" coords="45,822,261,1167"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_ibor_coupon_pricer.html" title="base pricer for capped/floored Ibor coupons" alt="" coords="63,653,244,773"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_floating_rate_coupon_pricer.html" title="generic pricer for floating&#45;rate coupons" alt="" coords="36,243,271,605"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="5,5,139,195"/>
-<area shape="rect" id="node10" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="163,5,309,195"/>
-</map>

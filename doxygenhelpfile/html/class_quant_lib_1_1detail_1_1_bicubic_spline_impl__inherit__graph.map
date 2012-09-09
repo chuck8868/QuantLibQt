@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_interpolation2_d_1_1template_impl.html" title="basic template implementation" alt="" coords="5,347,331,675"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_interpolation2_d_1_1_impl.html" title="abstract base class for 2&#45;D interpolation implementations" alt="" coords="67,5,269,299"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1detail_1_1_bicubic_spline_derivatives.html" title="{QuantLib::detail::BicubicSplineDerivatives\n||+ derivativeX()\l+ derivativeY()\l+ derivativeXY()\l+ secondDerivativeX()\l+ secondDerivativeY()\l}" alt="" coords="355,433,621,588"/>
-</map>

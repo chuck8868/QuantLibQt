@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_lm_correlation_model.html" title="libor forward correlation model" alt="" coords="430,2054,628,2330"/>
-<area shape="rect" id="node25" href="$class_quant_lib_1_1_lm_volatility_model.html" title="caplet volatility model" alt="" coords="222,2071,406,2313"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_parameter.html" title="Base class for model arguments." alt="" coords="182,1593,324,1834"/>
-<area shape="rect" id="node10" href="$class_quant_lib_1_1_constraint.html" title="Base constraint class." alt="" coords="146,773,288,910"/>
-<area shape="rect" id="node13" href="$class_quant_lib_1_1_array.html" title="1&#45;D array used in linear algebra." alt="" coords="312,157,424,1525"/>
-<area shape="rect" id="node19" title="STL class." alt="" coords="396,1671,510,1756"/>
-</map>

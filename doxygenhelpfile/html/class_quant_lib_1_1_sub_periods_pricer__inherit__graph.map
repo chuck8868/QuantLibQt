@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_averaging_rate_pricer.html" title="{QuantLib::AveragingRatePricer\n||+ swapletPrice()\l}" alt="" coords="5,1099,208,1184"/>
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_compounding_rate_pricer.html" title="{QuantLib::CompoundingRatePricer\n||+ swapletPrice()\l}" alt="" coords="232,1099,456,1184"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_floating_rate_coupon_pricer.html" title="generic pricer for floating&#45;rate coupons" alt="" coords="108,243,343,605"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="77,5,211,195"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="235,5,381,195"/>
-</map>

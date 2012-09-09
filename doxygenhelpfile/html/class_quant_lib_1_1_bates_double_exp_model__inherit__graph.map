@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node11" href="$class_quant_lib_1_1_bates_double_exp_det_jump_model.html" title="{QuantLib::BatesDoubleExpDetJumpModel\n||+ BatesDoubleExpDetJumpModel()\l+ kappaLambda()\l+ thetaLambda()\l}" alt="" coords="20,1008,287,1128"/>
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_heston_model.html" title="Heston model for the stochastic volatility of an asset." alt="" coords="75,550,232,757"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_calibrated_model.html" title="Calibrated model class." alt="" coords="65,243,241,501"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="5,5,139,195"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="163,5,309,195"/>
-</map>

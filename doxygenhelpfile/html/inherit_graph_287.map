@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_quant_lib_1_1_curiously_recurring_template.html" title="QuantLib::CuriouslyRecurringTemplate\&lt; ExtendedJarrowRudd \&gt;" alt="" coords="7,5,401,35"/>
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_tree.html" title="QuantLib::Tree\&lt; ExtendedJarrowRudd \&gt;" alt="" coords="452,5,708,35"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_extended_binomial_tree.html" title="QuantLib::ExtendedBinomialTree\&lt; ExtendedJarrowRudd \&gt;" alt="" coords="757,5,1120,35"/>
-<area shape="rect" id="node7" href="$class_quant_lib_1_1_extended_equal_probabilities_binomial_tree.html" title="QuantLib::ExtendedEqualProbabilitiesBinomialTree\&lt; ExtendedJarrowRudd \&gt;" alt="" coords="1168,5,1635,35"/>
-<area shape="rect" id="node9" href="$class_quant_lib_1_1_extended_jarrow_rudd.html" title="Jarrow&#45;Rudd (multiplicative) equal probabilities binomial tree." alt="" coords="1684,5,1889,35"/>
-</map>

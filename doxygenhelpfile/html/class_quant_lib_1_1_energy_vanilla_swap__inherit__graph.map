@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_energy_swap.html" title="{QuantLib::EnergySwap\n|# calendar_\l# payCurrency_\l# receiveCurrency_\l# pricingPeriods_\l# dailyPositions_\l# paymentCashFlows_\l|+ EnergySwap()\l+ isExpired()\l+ calendar()\l+ payCurrency()\l+ receiveCurrency()\l+ pricingPeriods()\l+ dailyPositions()\l+ paymentCashFlows()\l+ commodityType()\l+ quantity()\l}" alt="" coords="81,1696,239,2024"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_energy_commodity.html" title="Energy commodity class." alt="" coords="43,1424,277,1648"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_commodity.html" title="Commodity base class." alt="" coords="69,1187,251,1376"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_instrument.html" title="Abstract instrument class." alt="" coords="81,533,239,1139"/>
-<area shape="rect" id="node10" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="83,243,237,485"/>
-<area shape="rect" id="node12" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="5,5,152,195"/>
-<area shape="rect" id="node14" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="176,5,309,195"/>
-</map>

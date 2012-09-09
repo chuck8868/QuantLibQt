@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_quant_lib_1_1_volatility_compositor.html" title="QuantLib::VolatilityCompositor" alt="" coords="7,32,204,61"/>
-<area shape="rect" id="node3" href="$class_quant_lib_1_1_constant_estimator.html" title="Constant&#45;estimator volatility model." alt="" coords="255,5,444,35"/>
-<area shape="rect" id="node5" href="$class_quant_lib_1_1_garch11.html" title="GARCH volatility model." alt="" coords="284,59,415,88"/>
-</map>

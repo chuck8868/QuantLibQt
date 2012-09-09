@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_constraint_1_1_impl.html" title="Base class for constraint implementations." alt="" coords="88,1902,261,2005"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_parameter.html" title="Base class for model arguments." alt="" coords="184,1593,325,1834"/>
-<area shape="rect" id="node10" href="$class_quant_lib_1_1_constraint.html" title="Base constraint class." alt="" coords="148,773,289,910"/>
-<area shape="rect" id="node13" href="$class_quant_lib_1_1_array.html" title="1&#45;D array used in linear algebra." alt="" coords="313,157,425,1525"/>
-<area shape="rect" id="node19" title="STL class." alt="" coords="397,1671,512,1756"/>
-</map>

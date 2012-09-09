@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_vanilla_swap_1_1arguments.html" title="Arguments for simple swap calculation" alt="" coords="5,310,227,586"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_swap_1_1arguments.html" title="{QuantLib::Swap::arguments\n|+ legs\l+ payer\l|+ validate()\l}" alt="" coords="73,158,257,261"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_pricing_engine_1_1arguments.html" title="{QuantLib::PricingEngine::arguments\n||+ ~arguments()\l+ validate()\l}" alt="" coords="128,6,357,109"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_option_1_1arguments.html" title="basic option arguments" alt="" coords="251,388,440,508"/>
-</map>

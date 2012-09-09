@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_quant_lib_1_1_one_factor_model.html" title="Single&#45;factor short&#45;rate model abstract class." alt="" coords="33,702,212,839"/>
-<area shape="rect" id="node4" href="$class_quant_lib_1_1_short_rate_model.html" title="Abstract short&#45;rate model class." alt="" coords="5,550,181,653"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_calibrated_model.html" title="Calibrated model class." alt="" coords="44,243,220,501"/>
-<area shape="rect" id="node8" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="65,5,199,195"/>
-<area shape="rect" id="node10" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="232,5,379,195"/>
-<area shape="rect" id="node12" href="$class_quant_lib_1_1_term_structure_consistent_model.html" title="Term&#45;structure consistent model class." alt="" coords="205,550,467,653"/>
-</map>
