@@ -31,6 +31,7 @@
 // namespace { unsigned int u = _controlfp(_EM_INEXACT, _MCW_EM); }
 #endif
 
+#include "../customutilities.hpp"
 #include <boost/timer.hpp>
 #include <iostream>
 #include <iomanip>
@@ -53,6 +54,8 @@ int main(int, char* []) {
         boost::timer timer;
         std::cout << std::endl;
 
+        LARGE_TITLE("Equity Option with Finite Difference Method");
+
         // set up dates
         Calendar calendar = TARGET();
         Date todaysDate(3, September, 2012);
@@ -61,8 +64,8 @@ int main(int, char* []) {
 
         // our options
         Option::Type type(Option::Put);
-        Real underlying = 10000;
-        Real strike = 12000;
+        Real underlying = 45;
+        Real strike = 50;
         Spread dividendYield = 0.015;
         Rate riskFreeRate = 0.009;
         Volatility volatility = 0.25;
@@ -108,6 +111,8 @@ int main(int, char* []) {
 
         Handle<Quote> underlyingH(
             boost::shared_ptr<Quote>(new SimpleQuote(underlying)));
+//        Handle<SimpleQuote> underlyingH(
+//            boost::shared_ptr<SimpleQuote>(new SimpleQuote(underlying)));
 
         // bootstrap the yield/dividend/vol curves
         Handle<YieldTermStructure> flatTermStructure(
@@ -204,6 +209,67 @@ int main(int, char* []) {
                   << std::setw(widths[2]) << std::left << bermudanOption.NPV()
                   << std::setw(widths[3]) << std::left << americanOption.NPV()
                   << std::endl;
+
+
+        LARGE_TITLE("Finite Difference Greeks (SensitivityAnalysis)");
+
+        //std::cout << Centered << std::endl;
+        boost::shared_ptr<Instrument> europeanOption_(
+                    new VanillaOption(payoff, europeanExercise));
+        boost::shared_ptr<Instrument> bermudanOption_(
+                    new VanillaOption(payoff, bermudanExercise));
+        boost::shared_ptr<Instrument> americanOption_(
+                    new VanillaOption(payoff, americanExercise));
+        method = "FD (Crank Nicolson)";
+        europeanOption_->setPricingEngine(boost::shared_ptr<PricingEngine>(
+                 new FDEuropeanEngine<CrankNicolson>(bsmProcess,
+                                                     timeSteps,timeSteps-1)));
+        bermudanOption_->setPricingEngine(boost::shared_ptr<PricingEngine>(
+                 new FDBermudanEngine<CrankNicolson>(bsmProcess,
+                                                     timeSteps,timeSteps-1)));
+        americanOption_->setPricingEngine(boost::shared_ptr<PricingEngine>(
+                 new FDAmericanEngine<CrankNicolson>(bsmProcess,
+                                                     timeSteps,timeSteps-1)));
+        std::cout << std::setw(widths[0]) << std::left << method
+                  << std::fixed
+                  << std::setw(widths[1]) << std::left << europeanOption_->NPV()
+                  << std::setw(widths[2]) << std::left << bermudanOption_->NPV()
+                  << std::setw(widths[3]) << std::left << americanOption_->NPV()
+                  << std::endl;
+
+        std::vector<boost::shared_ptr<Instrument> > instruments;
+        instruments.push_back(europeanOption_);
+        instruments.push_back(bermudanOption_);
+        instruments.push_back(americanOption_);
+        std::vector<Real> weights;
+        Real sumNPV(aggregateNPV(instruments, weights));
+        std::cout << "Aggregated NPV: " << sumNPV << std::endl;
+
+        // TODO: rectify quotes
+        std::vector<Handle<SimpleQuote> > quotes;
+        //Handle<Quote> underlyingH(
+        //    boost::shared_ptr<Quote>(new SimpleQuote(underlying)));
+        Handle<SimpleQuote> quote(
+            boost::shared_ptr<SimpleQuote>(new SimpleQuote(underlying)));
+        //Handle<SimpleQuote> quote(boost::dynamic_pointer_cast<SimpleQuote>(underlyingH));
+        quotes.push_back(quote);
+        quotes.push_back(quote);
+        quotes.push_back(quote);
+
+        Real shift(10.0);
+
+        std::pair<Real, Real> sensitivities =
+                parallelAnalysis(
+                    quotes,
+                    instruments,
+                    weights,
+                    shift,
+                    Centered,
+                    Null<Real>());
+
+        std::cout << "Onesided sensitivity: " << sensitivities.first << std::endl;
+        std::cout << "Centered sensitivity: " << sensitivities.second << std::endl;
+
 
 
 

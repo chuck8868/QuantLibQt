@@ -3,7 +3,9 @@ TEMPLATE = app
 CONFIG  *= link_pri
 
 TARGET   = FiniteDifference
-SOURCES += FiniteDifference.cpp
+SOURCES += FiniteDifference.cpp \
+           ../customutilities.cpp
+HEADERS += ../customutilities.hpp
 
 # Boost Library
 win32 {
@@ -15,11 +17,11 @@ win32 {
     }
 }
 unix {
-    INCLUDEPATH += /home/deriversatile/boost/boost_1_49_0
+    INCLUDEPATH += /home/deriversatile/boost/boost_1_50_0
     CONFIG(debug, debug|release) {
-        LIBS += -L/home/deriversatile/boost/boost_1_49_0/lib -lboost_timer-mt
+        LIBS += -L/home/deriversatile/boost/boost_1_50_0/lib -lboost_timer-mt
     } else {
-        LIBS += -L/home/deriversatile/boost/boost_1_49_0/lib -lboost_timer-mt
+        LIBS += -L/home/deriversatile/boost/boost_1_50_0/lib -lboost_timer-mt
     }
 }
 
