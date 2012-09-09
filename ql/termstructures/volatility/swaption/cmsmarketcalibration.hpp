@@ -56,7 +56,7 @@ namespace QuantLib {
                       const Array& guess,
                       bool isMeanReversionFixed);
         Real error() { return error_; }
-        EndCriteria::Type endCriteria() { return endCriteria_; };
+        EndCriteria::Type endCriteria() { return endCriteria_; }
 
       private:
         Real error_;

@@ -55,7 +55,7 @@ namespace {
           volCube_(smileAndCms->volCube_),
           cmsMarket_(smileAndCms->cmsMarket_),
           weights_(smileAndCms->weights_),
-          calibrationType_(smileAndCms->calibrationType_) {};
+          calibrationType_(smileAndCms->calibrationType_) {}
 
         Real value(const Array& x) const;
         Disposable<Array> values(const Array& x) const;
@@ -99,7 +99,7 @@ namespace {
         ObjectiveFunction2(CmsMarketCalibration* smileAndCms,
                                                 Real fixedMeanReversion)
         : ObjectiveFunction(smileAndCms),
-          fixedMeanReversion_(fixedMeanReversion){};
+          fixedMeanReversion_(fixedMeanReversion){}
 
       private:
         virtual void updateVolatilityCubeAndCmsMarket(const Array& x) const;
