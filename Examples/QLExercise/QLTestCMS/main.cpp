@@ -479,9 +479,9 @@ int main(int, char* []) {
 
         //-----------------------------------------------------------------------
 
-        LARGE_TITLE("CMS Fair Rate"); testFairRate();
-        LARGE_TITLE("CMS Swap"); testCmsSwap();
-        LARGE_TITLE("CMS Parity"); testParity();
+        //LARGE_TITLE("CMS Fair Rate"); testFairRate();
+        //LARGE_TITLE("CMS Swap"); testCmsSwap();
+        //LARGE_TITLE("CMS Parity"); testParity();
 
         //-----------------------------------------------------------------------
 
@@ -755,6 +755,20 @@ int main(int, char* []) {
             }
             std::cout << std::endl << std::endl;
         }
+
+        /* CMS derivatives model
+           1. Hull
+           2. Linear Swap Model (LSM)
+           3. Monte Carlo Simulation
+
+           Adjustments
+           1. Convexity adjustment
+           2. Timing adjustment
+
+           Reference
+           Morales, Noemi C. Nava (2010) "Pricing Constant Maturity Swap Derivatives"
+
+        */
 
 
 
