@@ -770,6 +770,31 @@ int main(int, char* []) {
 
         */
 
+        {
+        LARGE_TITLE("CMS Market Calibration");
+
+        CommonVars vars;
+
+        Handle<SwaptionVolatilityStructure> volCube = vars.SabrVolCube1;
+        boost::shared_ptr<CmsMarket> cmsMarket;
+        Matrix weights;
+        CmsMarketCalibration::CalibrationType calibrationType;
+        CmsMarketCalibration cmscalib(volCube, cmsMarket, weights, calibrationType);
+
+
+        boost::shared_ptr<EndCriteria> endCriteria;
+        boost::shared_ptr<OptimizationMethod> method;
+        Array guess;
+        bool isMeanReversionFixed;
+
+        Array result = cmscalib.compute(
+                    endCriteria,
+                    method,
+                    guess,
+                    isMeanReversionFixed);
+        }
+
+
 
 
 

@@ -42,6 +42,8 @@ int main(int, char* []) {
         boost::timer timer;
         std::cout << std::endl;
 
+        //---------------------------------------------------------------------------
+
         // set up dates
         Calendar calendar = TARGET();
         Date todaysDate(15, May, 1998);
@@ -196,6 +198,7 @@ int main(int, char* []) {
 
 
 
+        //---------------------------------------------------------------------------
 
         // End test
         Real seconds = timer.elapsed();

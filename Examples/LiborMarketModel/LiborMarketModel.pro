@@ -2,6 +2,13 @@ QT      -= core gui
 TEMPLATE = app
 CONFIG  *= link_pri
 
+# Use Precompiled headers (PCH)
+CONFIG  *= precompile_header
+PRECOMPILED_HEADER  = precompileheader.hpp
+precompile_header:!isEmpty(PRECOMPILED_HEADER) {
+    DEFINES += USING_PCH
+}
+
 TARGET   = LiborMarketModel
 HEADERS += ../customutilities.hpp
 

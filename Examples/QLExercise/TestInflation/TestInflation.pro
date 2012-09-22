@@ -9,11 +9,11 @@ unix {
 }
 
 # Use Precompiled headers (PCH)
-#CONFIG  *= precompile_header
-#PRECOMPILED_HEADER  = precompileheader.hpp
-#precompile_header:!isEmpty(PRECOMPILED_HEADER) {
-#    DEFINES += USING_PCH
-#}
+CONFIG  *= precompile_header
+PRECOMPILED_HEADER  = precompileheader.hpp
+precompile_header:!isEmpty(PRECOMPILED_HEADER) {
+    DEFINES += USING_PCH
+}
 
 
 #TARGET   = TestVolatilityCube
