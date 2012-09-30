@@ -31,7 +31,7 @@
 // namespace { unsigned int u = _controlfp(_EM_INEXACT, _MCW_EM); }
 #endif
 
-#include "../customutilities.hpp"
+#include "customutilities.hpp"
 #include <boost/timer.hpp>
 #include <iostream>
 #include <iomanip>

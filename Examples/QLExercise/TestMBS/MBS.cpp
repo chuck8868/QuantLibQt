@@ -54,7 +54,7 @@ void MBS::buildTree(double initRate, double financeRate, int N)
 	int j = 0;
     int i = 0;
 
-	for (k = 0; k < M; k++)
+    for (k = 0; k < M; k++) // M: number of simulation paths
 	{ 
 		sum = 0.0;
 		balance = faceValue;
@@ -64,7 +64,7 @@ void MBS::buildTree(double initRate, double financeRate, int N)
 		disc.empty();
 		disc.push_back(discountRate[0][0]);
 
-		for (i = 0; i < N; i++)
+        for (i = 0; i < N; i++) // N: number of tree paths per simulation
 		{	
 				balance = balance - (schedulePrincipal + prepaidPrincipal);
 				deviate = util.gasdev(idum);
@@ -136,14 +136,14 @@ double MBS::calcCPR(double rate)
 		CPR = 0.70;
 	*/
 
-	CPR = 100*(1-pow((1-(value/100)),12)); 
+    CPR = 100.0*(1.0-pow((1.0-(value/100.0)),12.0));
 
 	return CPR;
 
 }
 
 double MBS::calcPayment(double fv, double T) {
-	return (fv*coupon)/(1-pow(1/(1+coupon),T));
+    return (fv*coupon)/(1.0-pow(1.0/(1.0+coupon),T));
 }
 
 void MBS::calcPrice(double initRate, double financeRate, int N, long int M){
@@ -257,7 +257,7 @@ void MBS::calcPrice(double initRate, double financeRate, int N, long int M){
 
 double MBS::calcSMM(double CPR) {
 
-	 return (1 - pow((1 - CPR),(double)1/12));
+     return (1.0 - pow((1.0 - CPR),(double)1.0/12.0));
 }
 
 double MBS::computeZeroRates(int cnt, vector<double> rate)

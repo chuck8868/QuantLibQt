@@ -1,0 +1,40 @@
+http://www.quantcode.com/modules/mydownloads/singlefile.php?cid=10&lid=63
+
+
+Category: C++	View Full Details
+Swaption pricing in Libor Market Model(LMM)
+Submitter: vanna	Date: 2007/3/31
+Description: 
+This file contains C++ code/GNU Scientific Library to perform Monte Carlo simulation for calculating price of an European swaption under the Libor Market Model (LMM) framework.
+It is based on Milstein scheme discretization as described in page 82 of Lecture Notes
+
+Results are tested with LFM approximation formula , which is further compared to Table2 data in Linking Caplet and Swaption Volatilities in a BGM/J Framework: Approximate Solutions
+(Fine tuning is required on dt parameter. Decreasing it below 0.05 seems to bring in precision errors, while making it higher seems to give lower swaption values.Brigo's book recommends to use refined variance scheme to improve convergence, but is not implemented in this file)
+
+eg., following result were obtained with parameters in this file:
+
+
+Swap start = 2.5 year
+Swap end = 7 year
+SR=0.0651932
+swaption price = 2.22793
+Press any key to continue . . .
+
+
+following results are obtained with setting these parameters in file LFM approximation formula:
+alpha=6; %start peg of swap
+beta=15; %end peg of swap
+
+
+octave:137> lmm_rebonato
+SR = 0.065193
+var_sum = 0.069366
+swap start=2.500000 
+swap end=7.000000 
+swaption price=2.238223
+
+
+Note: The file has been updated to fix issue of compiling problem with new version of Dev C++ 4.9.9.2
+To set up GNU scientific library , refer How do I start using GSL on Windows XP?
+
+Got a question or problem with this link? Just enter your message and click on submit. No registration is required. 

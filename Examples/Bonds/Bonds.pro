@@ -1,7 +1,13 @@
-
 QT      -= core gui
 TEMPLATE = app
 CONFIG  *= link_pri
+
+# Use Precompiled headers (PCH)
+CONFIG  *= precompile_header
+PRECOMPILED_HEADER  = precompileheader.hpp
+precompile_header:!isEmpty(PRECOMPILED_HEADER) {
+    DEFINES += USING_PCH
+}
 
 TARGET   = Bonds
 SOURCES += Bonds.cpp
@@ -16,11 +22,11 @@ win32 {
     }
 }
 unix {
-    INCLUDEPATH += /home/deriversatile/boost/boost_1_49_0
+    INCLUDEPATH += /home/deriversatile/boost/boost_1_50_0
     CONFIG(debug, debug|release) {
-        LIBS += -L/home/deriversatile/boost/boost_1_49_0/lib -lboost_timer-mt
+        LIBS += -L/home/deriversatile/boost/boost_1_50_0/lib -lboost_timer-mt
     } else {
-        LIBS += -L/home/deriversatile/boost/boost_1_49_0/lib -lboost_timer-mt
+        LIBS += -L/home/deriversatile/boost/boost_1_50_0/lib -lboost_timer-mt
     }
 }
 

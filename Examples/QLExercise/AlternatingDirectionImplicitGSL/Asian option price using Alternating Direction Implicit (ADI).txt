@@ -1,0 +1,52 @@
+http://www.quantcode.com/modules/mydownloads/viewcat.php?cid=10&min=30&orderby=hitsD&show=5
+
+Category: C++	View Full Details
+Asian option price using Alternating Direction Implicit (ADI)
+Submitter: vanna	Date: 2008/8/11
+Description: 
+This file demonstrates applciation of Alternating direction Implicit finite difference method to solve call option price of an arithmetic average fixed strike asian option. It also demonstartes superior stability in comparing to implicit or explicit methods
+
+For the spatial grid assume the following 2 axes:
+S=stock price
+A=Arithmetic average of stock price
+
+
+Notes:
+1. Upwind scheme is used to discretize the asian option PDE as mentioned in eqns 12-15 of paper Efficient Pricing of an Asian Put Option Using Stiff ODE Methods 
+2. First half timestep implements S explcit and A implicit. While next half timestep has S implicit and A explicit.
+3. A simple Gauss siedel mehtod is used to do Finite difference for each set of equations.
+4. Environment is based on using GSL library on Visual Studio 2005 C++ express. To setup GSL and VS 2005 pl. refer How do I use GSL on Visual C++ 2005 express? 
+5. The result is tested by comparing data from Asian Option price using Monte carlo simulation
+following are some test results:
+double S0=100; //Spot price (S0)
+double K=100; // option strike
+double sigma=0.15; //volatility
+double r=0.05; //Risk free rate [r]
+double T=1; //Maturity of Option in years (T)
+
+MC option price=4.7315
+FD option price=4.77736
+
+
+double S0=100; 
+double K=100; 
+double sigma=0.2; 
+double r=0.1; 
+double T=1; 
+
+MC option price=7.1027
+FD option price=7.1315
+
+
+
+6.ADI method has superior convergence as compared to pure implicit method. For example, the pure 2D implicit method implementation Asian Option Price using 2D Finite Difference Method 
+works for sigma=0.15 and sigma=0.25 but blows up for sigma=0.5. While ADI method seems to be close enough.
+
+double S0=100; 
+double K=100; 
+double sigma=0.5; 
+double r=0.1; 
+double T=1; 
+
+MC option price=13.2946
+FD option price=13.3061

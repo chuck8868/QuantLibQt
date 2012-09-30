@@ -1,0 +1,8 @@
+LFM approximation
+Submitter: vanna	Date: 2006/9/8
+Description: 
+Finds European swaption price using Rebonato's approx formula as mentioned in page 43 in Brigo's Lecture notes
+
+Results are compared to Table2 data in Linking Caplet and Swaption Volatilities in a BGM/J Framework: Approximate Solutions and setting the parameters:
+beta=42
+alpha = (value in Time col) * 2 + 1

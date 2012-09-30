@@ -2,10 +2,16 @@ QT      -= core gui
 TEMPLATE = app
 CONFIG  *= link_pri
 
-TARGET   = FiniteDifference
+# Use Precompiled headers (PCH)
+CONFIG  *= precompile_header
+PRECOMPILED_HEADER  = precompileheader.hpp
+precompile_header:!isEmpty(PRECOMPILED_HEADER) {
+    DEFINES += USING_PCH
+}
+
 SOURCES += FiniteDifference.cpp \
-           ../customutilities.cpp
-HEADERS += ../customutilities.hpp
+           customutilities.cpp
+HEADERS += customutilities.hpp
 
 # Boost Library
 win32 {

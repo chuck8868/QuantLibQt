@@ -1,0 +1,6 @@
+http://www.quantcode.com/modules/mydownloads/singlefile.php?cid=10&lid=64
+
+LMM in GSL with Predictor-Corrector
+Submitter: vanna	Date: 2006/9/25
+Description: 
+This is a variant of Libor Market Model using GSL . It demonstrates implementation of Predictor-Corrector algorithm for improving MC convergence

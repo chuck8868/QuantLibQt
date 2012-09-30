@@ -273,6 +273,138 @@ namespace {
 
 }
 
+
+
+#include<boost/math/distributions.hpp>
+
+namespace QlTesting {
+
+Real blackScholesPriceFwd(const Real& fwd,
+                         const Real& strike,
+                         const Volatility& vol,
+                         const Rate& rd,
+                         const Rate& rf,
+                         const Time& tau,
+                         const Integer& phi){
+    boost::math::normal_distribution<> d(0.0,1.0);
+    Real dp,dm, stdDev, res, domDf, forDf;
+
+    domDf=std::exp(-rd*tau); forDf=std::exp(-rf*tau);
+    stdDev=vol*std::sqrt(tau);
+
+    dp=(std::log(fwd/strike)+0.5*stdDev*stdDev)/stdDev;
+    dm=(std::log(fwd/strike)-0.5*stdDev*stdDev)/stdDev;
+
+    res=phi*domDf*(fwd*cdf(d,phi*dp)-strike*cdf(d,phi*dm));
+    return res;
+}
+
+class SimpleVolQuote: public Quote{
+private:
+    Volatility vol_;
+    Real strike_;
+
+public:
+    SimpleVolQuote(Volatility vol, Real strike) :vol_(vol),strike_(strike){}
+
+    bool isValid() const {return vol_!=Null<Real>();}
+    Real value() const {return vol_;}
+    Real strike()const {return strike_;}
+
+    void setVolatility(const Volatility& vol){
+        vol_=vol;
+        notifyObservers();
+    }
+};
+
+class SimpleSmile: public Observable, Observer{
+private:
+    std::vector<boost::shared_ptr<SimpleVolQuote> > volVec_;
+public:
+    SimpleSmile(const std::vector<boost::shared_ptr<SimpleVolQuote> >& volVec)
+        :volVec_(volVec){
+        for(Size i=0;i<volVec_.size();i++){
+            registerWith(volVec_[i]);
+        }
+    }
+    void update(){
+        notifyObservers();
+    }
+
+    std::vector<boost::shared_ptr<SimpleVolQuote> > getVolVec() const{return volVec_;}
+    Size getVolNumber() const{return volVec_.size();}
+};
+
+class SabrModel: public LazyObject{
+public:
+    SabrModel(const boost::shared_ptr<SimpleSmile>& smile,
+        const Real& fwd, const Time& tau, const Real& rd,const Real& rf)
+        :smile_(smile),fwd_(fwd),tau_(tau),rd_(rd),rf_(rf),
+        strikeVec_(std::vector<Real>(smile->getVolNumber())),
+        volVec_(std::vector<Real>(smile->getVolNumber())){
+            // register smile as observable
+            registerWith(smile_);
+    }
+    Real getVanillaPrice(const Real& strike){
+        calculate();
+        return blackScholesPriceFwd(fwd_,strike,(*intp_)(strike),rd_,rf_,tau_,1);
+    }
+private:
+    void performCalculations() const{
+        volQuoteVec_=smile_->getVolVec();
+        for(Size i=0;i< volQuoteVec_.size();++i){
+            strikeVec_[i]=(*volQuoteVec_[i]).strike();
+            volVec_[i]=(*volQuoteVec_[i]).value();
+        }
+        if(intp_==NULL){
+            intp_.reset(new SABRInterpolation(strikeVec_.begin(), strikeVec_.end(),
+            volVec_.begin(),tau_,fwd_,0.1,0.1,0.1,0.1,false, false, false, false));
+        }
+            intp_->update(); std::cout << "Recalibration Performed!" << std::endl;
+    }
+    Real fwd_,rd_,rf_;
+    Time tau_;
+    boost::shared_ptr<SimpleSmile> smile_;
+    mutable boost::shared_ptr<SABRInterpolation> intp_;
+    mutable std::vector<Real> strikeVec_,volVec_;
+    mutable std::vector<boost::shared_ptr<SimpleVolQuote> > volQuoteVec_;
+};
+
+void testingLazyObject1(){
+
+    boost::shared_ptr<SimpleVolQuote> v1(new SimpleVolQuote(0.200,  90.0));
+    boost::shared_ptr<SimpleVolQuote> v2(new SimpleVolQuote(0.194,  95.0));
+    boost::shared_ptr<SimpleVolQuote> v3(new SimpleVolQuote(0.187, 100.0));
+    boost::shared_ptr<SimpleVolQuote> v4(new SimpleVolQuote(0.191, 105.0));
+
+    std::vector<boost::shared_ptr<SimpleVolQuote> > volVec;
+    volVec.push_back(v1); volVec.push_back(v2);
+    volVec.push_back(v3); volVec.push_back(v4);
+
+    boost::shared_ptr<SimpleSmile> mySmile(new SimpleSmile(volVec));
+
+    Time tau=0.5; Real spot=100.0, rd=0.03, rf=0.024;
+    Real fwd=spot*std::exp((rd-rf)*tau);
+
+    SabrModel myModel(mySmile, fwd, tau, rd, rf);
+
+    Real res=myModel.getVanillaPrice(100.0);
+    std::cout << "Initial Sabr ATM Vanilla Price:" << res << std::endl;
+    res=myModel.getVanillaPrice(90.0);
+    res=myModel.getVanillaPrice(95.0);
+    res=myModel.getVanillaPrice(105.0);
+
+    v1->setVolatility(0.22);
+    v2->setVolatility(0.214);
+    v3->setVolatility(0.207);
+    v4->setVolatility(0.211);
+
+    res=myModel.getVanillaPrice(100.0);
+    std::cout << "Last Sabr ATM Vanilla Price:" << res << std::endl;
+}
+
+}
+
 int main(int, char* []) {
 
     try {
@@ -285,7 +417,7 @@ int main(int, char* []) {
         CommonVars vars;
 
 
-        BOOST_MESSAGE("Testing swaption volatility cube (atm vols)...");
+        LARGE_TITLE("Testing swaption volatility cube (atm vols)...");
 
         SwaptionVolCube2 volCube2(vars.atmVolMatrix,
             vars.cube.tenors.options,
@@ -297,7 +429,7 @@ int main(int, char* []) {
             vars.vegaWeighedSmileFit);
 
 
-        BOOST_MESSAGE("Testing swaption volatility cube (sabr interpolation)...");
+        LARGE_TITLE("Testing swaption volatility cube (sabr interpolation)...");
 
         std::vector<std::vector<Handle<Quote> > >
             parametersGuess(vars.cube.tenors.options.size()*vars.cube.tenors.swaps.size());
@@ -326,10 +458,65 @@ int main(int, char* []) {
             isParameterFixed,
             true);
 
-        //volCube1.sabrCalibration(vars.cube);
+        //SwaptionVolCube1::Cube marketVolCube;
+        //volCube1.sabrCalibration(marketVolCube);
 
 
-        BOOST_MESSAGE("Testing spreaded swaption volatility cube...");
+        Time optionTime = 5;
+        Time swapLength = 10;
+        boost::shared_ptr<SmileSection> smileSection =
+                volCube1.smileSectionImpl(optionTime, swapLength);
+
+
+        std::cout << "Market vol cube" << std::endl;
+        std::cout << volCube1.marketVolCube() << std::endl << std::endl;
+
+
+        std::cout << "Calibrated ATM  vol matrix" << std::endl;
+        std::cout << volCube1.volCubeAtmCalibrated() << std::endl << std::endl;
+
+
+        for (Size size=0; size<4; ++size) {
+            std::cout << "Market volatility cube at time " << size << std::endl;
+            std::cout << volCube1.marketVolCube(size) << std::endl << std::endl;
+        }
+
+
+        if(false){
+            LARGE_TITLE("SABR volatility");
+            // http://www.math.umn.edu/finmath/modeling/Materials/Vinar_presentation_Jan2012.pdf
+            // http://www.frouah.com/finance%20notes/The%20SABR%20Model.pdf
+            Rate strike = 0.0730;
+            Rate forward = 0.0816;
+            Time expiryTime = 1.0;
+            Real alpha = 0.037561;
+            // beta=0 for normal process
+            // beta=1 for log normal process
+            // beta=0.5 for stochastic CIR
+            Real beta = 0.5;
+            Real nu = 0.573296;
+            Real rho = 0.100044;
+            std::cout << "SABR volatility: " << std::endl;
+            for (Size i=0; i<50; ++i) {
+                std::cout //<< std::setw(5) << (strike+i-25.0) << ": "
+                          << sabrVolatility(strike+(i-25.0)/50.0*strike, forward, expiryTime, alpha, beta, nu, rho)
+                          << std::endl;
+            }
+        }
+
+
+        if(true){
+            LARGE_TITLE("SABR Interpolation");
+            SabrInterpolatedSmileSection(optionDate, forward, strikes, hasFloatingStrikes,
+                                         atmVolatility, vols, alpha, beta, nu, rho);
+
+            SabrSmileSection (Time timeToExpiry, Rate forward, const std::vector< Real > &sabrParameters);
+
+
+        }
+
+
+        LARGE_TITLE("Testing spreaded swaption volatility cube...");
 
         Handle<SwaptionVolatilityStructure> volCube(boost::shared_ptr<SwaptionVolatilityStructure>(new
             SwaptionVolCube1(vars.atmVolMatrix,
@@ -360,11 +547,11 @@ int main(int, char* []) {
                 for (Size k=0; k<strikes.size(); k++) {
 
                     Real volcubevol = volCube->volatility(vars.cube.tenors.options[i], vars.cube.tenors.swaps[j], strikes[k]);
-                    std::cout << "\nSwaption(i, j, k) = (" << i << ", " << j << ", " << k << ")\n"
-                        << "expiry time = " << vars.cube.tenors.options[i] << "\n"
-                        << "swap length = " << vars.cube.tenors.swaps[j] << "\n"
-                        << "atm strike = " << io::rate(strikes[k]) << "\n"
-                        << "volatility = " << io::rate(volcubevol) << std::endl;
+//                    std::cout << "\nSwaption(i, j, k) = (" << i << ", " << j << ", " << k << ")\n"
+//                        << "expiry time = " << vars.cube.tenors.options[i] << "\n"
+//                        << "swap length = " << vars.cube.tenors.swaps[j] << "\n"
+//                        << "atm strike = " << io::rate(strikes[k]) << "\n"
+//                        << "volatility = " << io::rate(volcubevol) << std::endl;
 
                     /*
                     Real strike = strikes[k];
@@ -392,6 +579,32 @@ int main(int, char* []) {
             }
         }
 
+
+        LARGE_TITLE("Local volatility curve derived from a Black curve");
+        //LocalVolCurve lvolcurve(curve);
+
+
+        if(false){
+        LARGE_TITLE("Testing volatility model construction...");
+
+        TimeSeries<Real> ts;
+        ts[Date(25, March, 2005)] = 1.2;
+        ts[Date(29, March, 2005)] = 2.3;
+        ts[Date(15, March, 2005)] = 0.3;
+
+        SimpleLocalEstimator sle(1/360.0);
+        TimeSeries<Volatility> locale = sle.calculate(ts);
+
+        ConstantEstimator ce(1);
+        TimeSeries<Volatility> sv = ce.calculate(locale);
+        sv.begin();
+        }
+
+
+        if(true){
+        LARGE_TITLE("SABR Lazy Object Test");
+        QlTesting::testingLazyObject1();
+        }
 
 
         std::cout << std::endl << std::endl;
